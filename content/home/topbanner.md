@@ -3,11 +3,11 @@ widget: hero
 headless: true
 weight: 10
 
-title: Enhancing digital & computational research capacity and interdisciplinary collaboration in Humanities & Social Sciences
+title: Enhancing digital & computational research capacity and collaboration in Humanities & Social Sciences
 # Name of image in `static/media/`.
 hero_media: 
 cta_note:
-  label: <br>Image - Learners at University of Limpopo participating in a Data Carpentry workshop learning about good data practices and data analysis in R
+  label: <br><br><br>Image - Learners at University of Limpopo participating in a Data Carpentry workshop learning about good data practices and data analysis in R
 design:
   background:
   # Name of image in `static/media/`.

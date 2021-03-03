@@ -5,7 +5,7 @@ weight: 20
 design:
     columns: '1'
 title: What is ESCALATOR?
-summary: Here is what I want to say aobut this section
+summary: ESCALATOR is a project run by SADiLaR. The project aims to develop a national community of practice engaging critically with digital research methods within the Humanities and Social Sciences through a Digital Humanities champions program 
 
 ---
 

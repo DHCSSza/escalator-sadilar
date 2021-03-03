@@ -1,29 +1,25 @@
 ---
 # Display name
-title: Anelda van der Walt
+title: Menno van Zaanen
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: ESCALATOR Programme Manager
+role: Professor - Digital Humanities
 
-user_groups: ["Talarify", "Programme management"]
+user_groups: ["SADiLaR", "Programme management"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Talarify
-  url: http://www.talarify.co.za/
+- name: SADiLaR
+  url: https://www.sadilar.org/index.php/9-about/109-dh-prof
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-- Open Science
-- Interdisciplinary collaboration
-- Reproducible research
-- Digital & computational capacity development
 
 # Education to show in About widget
 education:
@@ -39,16 +35,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/aneldavdw
+  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=5TnwDB8AAAAJ&hl=en
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/anelda
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aneldavanderwalt
+  link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -3,7 +3,8 @@ widget: hero
 headless: true
 weight: 10
 
-title: Enhancing digital & computational research capacity and collaboration in Humanities & Social Sciences
+title: Towards an inclusive & active <br> South African community of practice <br>in Digital Humanities & <br>Computational Social Science
+
 # Name of image in `static/media/`.
 hero_media: 
 cta_note:

@@ -9,9 +9,72 @@
   weight = 10
 
 [[main]]
-  name = "Training initiatives"
-  url = "initiatives/"
+  name = "People"
+  url = "people/"
   weight = 20
+
+[[main]]
+  name = "Resources"
+  url = "resources/"
+  weight = 30
+
+  [[main]]
+    parent = "Resources"
+    name = "SA Training initiatives & Communities"
+    url = "initiatives/"
+    weight = 10
+
+
+[[main]]
+  name = "Events"
+  url = "activities/"
+  weight = 40
+
+[[main]]
+  name = "Working groups"
+  url = "groups/"
+  weight = 50
+
+  [[main]]
+    parent = "Working groups"
+    name = "More info"
+    url = "groups/info/"
+    weight = 10
+
+  [[main]]
+    parent = "Working groups"
+    name = "Champions programme"
+    url = "groups/champions/"
+    weight = 20
+
+  [[main]]
+    parent = "Working groups"
+    name = "Monitoring & Evaluation"
+    url = "groups/monitor/"
+    weight = 30
+
+  [[main]]
+    parent = "Working groups"
+    name = "Stakeholders & Training Initiatives"
+    url = "groups/initiatives/"
+    weight = 40  
+
+
+
+
+
+
+
+
+
+
+
+[[main]]
+  name = "Code of Conduct"
+  url = "conduct/"
+  weight = 60
+
+
 
 
 # Link to a PDF of your resume/CV from the menu.

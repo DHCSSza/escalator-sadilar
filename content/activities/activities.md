@@ -1,11 +1,11 @@
 ---
 widget: portfolio
-title: Training Initiatives & Communities in SA
+title: Recent & Upcoming Events
 headless: true  # This file represents a page section.
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: event
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
@@ -18,39 +18,19 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Masters degrees
-      tag: Masters degree
-    - name: Research groups
-      tag: Research group
-    - name: Platforms
-      tag: Platform
-    - name: Summer/winter schools
-      tag: School
-    - name: Doctoral programmes
-      tag: Doctoral
-    - name: Conferences
-      tag: Conference
-    - name: Short courses
-      tag: Short course
-    - name: Communities
-      tag: Community
-    - name: Blog series
-      tag: blog
-    - name: Social media (e.g. Youtube/Twitter)
-      tag: social
-    - name: Online courses
-      tag: online
+    - name: Mentorship
+      tag: Mentorship
     - name: Other
       tag: Other
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

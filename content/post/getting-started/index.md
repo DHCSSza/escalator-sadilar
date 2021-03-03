@@ -41,7 +41,7 @@ categories:
 
 ---
 
-In December 2020 [SADiLaR](https://www.sadilar.org/index.php/en/) launched ESCALATOR, a new national programme that will collaborate with local and international stakeholders to grow the South African community of practice around computational research practices in Humanities and Social Sciences.
+In December 2020, [SADiLaR](https://www.sadilar.org/index.php/en/) launched ESCALATOR, a new national programme that will collaborate with local and international stakeholders to grow the South African community of practice around computational research practices in Humanities and Social Sciences.
 
 The programme forms part of SADiLaR's mandate to grow Digital Humanities capacity in the country. ESCALATOR is currently planned to run for just over two years. It will include various activities, including a digital champions programme for researchers wanting to help grow capacity at their institutions.
 

@@ -20,6 +20,10 @@ content:
       tag: '*'
     - name: Mentorship
       tag: Mentorship
+    - name: Deep learning
+      tag:  Deep learning
+    - name: Natural language processing
+      tag: Natural language processing
     - name: Other
       tag: Other
 design:

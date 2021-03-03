@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Events"
-  url = "activities/"
+  url = "events/"
   weight = 40
 
 [[main]]
@@ -58,16 +58,6 @@
     name = "Stakeholders & Training Initiatives"
     url = "groups/initiatives/"
     weight = 40  
-
-
-
-
-
-
-
-
-
-
 
 [[main]]
   name = "Code of Conduct"

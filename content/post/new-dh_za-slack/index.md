@@ -1,5 +1,5 @@
 ---
-title: Join global DH Slack worskpace and "#dh_africa "
+title: Join global DH Slack workspace and "#dh_africa "
 subtitle: 
 
 # Summary for listings and search engines

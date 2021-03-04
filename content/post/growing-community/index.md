@@ -46,4 +46,4 @@ To add your intitiative to this database, please complete the form available at 
 
 If you have any questions or suggestions about this resource, please reach out to us at [escalator@talarify.co.za](mailto:escalator@talarify.co.za).
 
-We look forward to grow the community together by sharing knowledge of resources and opportunities!
+We look forward to growing the community together by sharing knowledge of resources and opportunities!

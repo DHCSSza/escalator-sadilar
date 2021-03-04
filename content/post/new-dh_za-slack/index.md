@@ -1,5 +1,6 @@
 ---
 title: Join global DH Slack workspace and "#dh_africa "
+title: Join global DH Slack worskpace and "#dh_africa"
 subtitle: 
 
 # Summary for listings and search engines
@@ -41,11 +42,11 @@ categories:
 
 ---
 
-In recent years Slack has become an increasingly popular online platform for academic communities to grow collaboration and share knowledge and resources. Slack is a an online workspace where various channels can be created to offer a space where community members can discuss specific topics. 
+In recent years, Slack has become an increasingly popular online platform for academic communities to grow collaboration and share knowledge and resources. Slack is an online workspace where various channels can be created to offer a space where community members can discuss specific topics.
 
-The [Digital Humanities Slack workspace](http://tinyurl.com/DHslack) was created in 2015. The workspace currently have almost 2'000 members from around the globe. The workspace hosts a set of informal, connected chat rooms for the digital humanities and related interests, with over 70 "channels" (chat rooms) devoted to specific topics such as DH teaching, coding, library work, and conferences. 
+The [Digital Humanities Slack workspace](http://tinyurl.com/DHslack) was created in 2015. The workspace currently has almost 2000 members from around the globe. The workspace hosts a set of informal, connected chat rooms for the digital humanities and related interests, with over 70 "channels" (chat rooms) devoted to specific topics such as DH teaching, coding, library work, and conferences.
 
-In February 2021 a new channel for African collaboration, *#dh_africa*, was added to the global DH workspace by Prof Menno van Zaanen from SADiLaR. This channel will provide a space for community members based in Africa to connect and share opportunities, experience, and resources.
+In February 2021, a new channel for African collaboration, *#dh_africa*, was added to the global DH workspace by Prof Menno van Zaanen from SADiLaR. This channel will provide a space for community members based in Africa to connect and share opportunities, experiences, and resources.
 
 If you'd like to learn more about the DH Slack workspace, please read this [detailed post by Dr Amanda Visconti](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design). According to her the workspace is 
 
@@ -57,6 +58,6 @@ Learn more about Slack:
 - [Getting started for new members](https://slack.com/intl/en-za/help/articles/218080037-Getting-started-for-new-members)
 - [Using Slack](https://slack.com/intl/en-za/help/categories/200111606)
 
-*The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion* (from the [DH Slack Code of Conduct](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md))
+*The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion* (from the [DH Slack Code of Conduct](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md)).
 
 

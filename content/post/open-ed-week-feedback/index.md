@@ -55,6 +55,7 @@ Despite short notice a total of 31 participants registered of whom 20 were able 
 ![Wordcloud showing interest of registered participants](wordcloud.png)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXNIwGNjnjAjr3p0eEtPFtjUFVzITSFSC594gJJmP67z5bbea4isRfxO31yeoQZaB5MAY2Ew3w51In/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 The presentation is also available on Zenodo - [http://doi.org/10.5281/zenodo.4593261](http://doi.org/10.5281/zenodo.4593261).
 
 The event was hosted on Google Meet with slides collaboratively developed in Google Presentation. We also created a collaborative document in Google Docs, where participants could engage with each other and the presenters.

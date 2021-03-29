@@ -10,9 +10,13 @@ title: Share your upcoming events related to Digital Humanities & Computational 
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://forms.gle/1K2PhsqZQnScEn548'
-  label: Share your info
+  label: Add your event to this site
+  icon_pack: fas
+  icon: clipboard-list
 
-
+cta_alt:
+  url: 'post/connect-with-the-community/'
+  label: 'Tell people in the DHCSSza Slack & Twitter'
 
 # Note. An optional note to show underneath the links.
 cta_note:
@@ -20,7 +24,7 @@ cta_note:
 
 design:
     background:
-        color: '#042a7f'
+        color: '#1a2f69'
         text_color_light: true
 
 css-class: full-screen

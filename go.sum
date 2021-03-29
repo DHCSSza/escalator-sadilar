@@ -1,2 +1,4 @@
+github.com/anelda/wowchemy-widget-twitter-feed v0.0.0-20210329145359-32d7c858039b h1:K8yW9uSoFY9LaT5OpDjqx7VR4pzaAMwzV5b1vdRRteo=
+github.com/anelda/wowchemy-widget-twitter-feed v0.0.0-20210329145359-32d7c858039b/go.mod h1:QUly/UuZX+Y5Df4AdEZiR8ngdIY5IQ3pKJCwjzN1tf8=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210123180413-7dbc1f73edfd/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210123180413-7dbc1f73edfd/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=

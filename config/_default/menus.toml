@@ -5,13 +5,25 @@
 
 [[main]]
   name = "About"
+  weight = 10
+
+[[main]]
+  parent = "About"
+  name = "What is ESCALATOR?"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "People"
+  parent = "About"
+  name = "Our team"
   url = "people/"
   weight = 20
+
+[[main]]
+  parent = "About"
+  name = "Code of Conduct"
+  url = "conduct/"
+  weight = 50
 
 [[main]]
   name = "Resources"
@@ -58,11 +70,6 @@
     name = "Stakeholders & Training Initiatives"
     url = "groups/initiatives/"
     weight = 40  
-
-[[main]]
-  name = "Code of Conduct"
-  url = "conduct/"
-  weight = 60
 
 [[main]]
   name = "Blog"

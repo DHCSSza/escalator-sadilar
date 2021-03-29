@@ -18,8 +18,7 @@ of practice in this space.
 
 In order to bring large scale adoption of digital research methodologies and
 practices to the Social Sciences and Humanities the [South African Centre for Digital Language Resources](https://sadilar.org) (SADiLaR)
-established the ESCALATOR project. ESCALATOR will consist of a national digital champions program in combination with an orchestrated capacity
-development and awareness raising initiative.
+established the ESCALATOR project. SADiLaR is a national centre supported by the Department of Science and Innovation (DSI) as part of the [South African Research Infrastructure Roadmap](https://www.dst.gov.za/images/Attachments/Department_of_Science_and_Technology_SARIR_2016.pdf) (SARIR). ESCALATOR will consist of a national digital champions program in combination with an orchestrated capacity development and awareness raising initiative.
 
 Ad hoc activities have the tendency to create excitement
 and interest, but leaves participants neglected, disempowered, and disappointed

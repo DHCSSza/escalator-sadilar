@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "South African Centre for Digital Language Resources (SADiLaR)"
-summary: "A national centre supported by the Department of Science and Innovation. SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. "
+summary: "The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI) as part of the [South African Research Infrastructure Roadmap](https://www.dst.gov.za/images/Attachments/Department_of_Science_and_Technology_SARIR_2016.pdf) (SARIR)."
 authors: []
 tags: [Research group, Platform]
 categories: []

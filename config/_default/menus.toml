@@ -36,6 +36,11 @@
     url = "initiatives/"
     weight = 10
 
+  [[main]]
+    parent = "Resources"
+    name = "Global training resources"
+    url = "global-training-resources/"
+    weight = 10
 
 [[main]]
   name = "Events"

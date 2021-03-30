@@ -32,6 +32,8 @@ content:
       tag: NLP
     - name: History
       tag: History
+    - name: Data journalism
+      tag: Data journalism
     - name: Other
       tag: Other
 design:

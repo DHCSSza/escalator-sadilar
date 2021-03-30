@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent News via Twitter and Our Blogs
+title: Recent News via Twitter and Blog
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

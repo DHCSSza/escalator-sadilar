@@ -10,7 +10,7 @@ require (
 	github.com/anelda/wowchemy-widget-tweetandblog v0.0.0-20210329161537-6d1add850b4e // indirect
 	github.com/anelda/wowchemy-widget-tweetblog v0.0.0-20210329160806-3a3ed6c69344 // indirect
 	github.com/anelda/wowchemy-widget-twitter-feed v0.0.0-20210329145359-32d7c858039b // indirect
-	github.com/anelda/wowchemy-widget-updates v0.0.0-20210330025618-43c66de29840 // indirect
+	github.com/anelda/wowchemy-widget-updates v0.0.0-20210330032815-e2095f73a43f // indirect
 	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210123180413-7dbc1f73edfd
 	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210123180413-7dbc1f73edfd
 )

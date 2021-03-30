@@ -32,7 +32,7 @@
 
   [[main]]
     parent = "Resources"
-    name = "SA Training initiatives & Communities"
+    name = "SA training initiatives & communities"
     url = "initiatives/"
     weight = 10
 
@@ -40,7 +40,13 @@
     parent = "Resources"
     name = "Global training resources"
     url = "global-training-resources/"
-    weight = 10
+    weight = 20
+
+  [[main]]
+    parent = "Resources"
+    name = "Useful tools in DH & CSS"
+    url = "useful-tools/"
+    weight = 30
 
 [[main]]
   name = "Events"

@@ -3,13 +3,13 @@ widget: hero
 headless: true  # This file represents a page section.
 weight: 30
 
-title: Tell others about useful and relevant training resources...
+title: Tell others about useful and relevant tools for DH & CSS...
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://forms.gle/PLTUcgxRmje6r8GCA'
+  url: 'https://forms.gle/ego6eJuqGaZyFc1C9'
   label: Add a resource to this site
   icon_pack: fas
   icon: clipboard-list

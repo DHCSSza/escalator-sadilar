@@ -3,13 +3,13 @@ widget: hero
 headless: true  # This file represents a page section.
 weight: 30
 
-title: Tell us about useful and relevant training resources?
+title: Tell others about useful and relevant training resources?
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://forms.gle/65drzAohuMxfXR8N6'
+  url: 'https://forms.gle/PLTUcgxRmje6r8GCA'
   label: Add a resource to this site
   icon_pack: fas
   icon: clipboard-list

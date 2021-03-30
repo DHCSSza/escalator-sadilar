@@ -16,7 +16,7 @@ cta:
 
 cta_alt:
   url: 'post/connect-with-the-community/'
-  label: 'Tell people in the DHCSSza Slack & Twitter'
+  label: 'Tell people on DHCSSza Slack & Twitter'
 
 # Note. An optional note to show underneath the links.
 cta_note:

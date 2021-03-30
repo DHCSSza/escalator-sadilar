@@ -1,5 +1,5 @@
 ---
-widget: 'custom'
+widget: 'github.anelda.wowchemy-widget-updates'
 
 # This file represents a page section.
 headless: true
@@ -7,13 +7,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Tweets by @DHCSSza
+title: Recent News via Twitter and Our Blogs
 
 design:
-    columns: '1'
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact  
+  #   3 = Card
+  #   5 = Showcase
+  view: 5
+
+content:
+    count: 3
 ---
 
-
-<a class="twitter-timeline" data-height="237" data-theme="dark" href="https://twitter.com/DHCSSza?ref_src=twsrc%5Etfw">Tweets by DHCSSza</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 

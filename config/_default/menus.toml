@@ -15,7 +15,7 @@
 
 [[main]]
   parent = "About"
-  name = "Our team"
+  name = "Our community"
   url = "people/"
   weight = 20
 
@@ -60,7 +60,7 @@
 
   [[main]]
     parent = "Working groups"
-    name = "More info"
+    name = "General information"
     url = "groups/info/"
     weight = 10
 

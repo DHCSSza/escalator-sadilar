@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-title: ESCALATOR Team
+title: ESCALATOR Community
 subtitle: 
 
 content:
@@ -10,6 +10,7 @@ content:
     - "Working group: Champions Programme"
     - "Working group: Monitoring & Evaluation"
     - "Working group: Stakeholders & Training Initiatives"
+    - "Collaborators"
 design:
   # Show user's social networking links? (true/false)
   show_social: false

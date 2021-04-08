@@ -20,6 +20,8 @@ content:
       tag: '*'
     - name: Mentorship
       tag: Mentorship
+    - name: Data analysis
+      tag: Data analysis
     - name: Deep learning
       tag:  Deep learning
     - name: Natural language processing

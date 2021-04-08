@@ -60,4 +60,5 @@ The presentation is also available on Zenodo - [http://doi.org/10.5281/zenodo.45
 
 The event was hosted on Google Meet with slides collaboratively developed in Google Presentation. We also created a collaborative document in Google Docs, where participants could engage with each other and the presenters.
 
-The presentation was recorded and will be shared on Youtube shortly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhN2wg-mGKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

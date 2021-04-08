@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Your name here
+title: Liané van den Bergh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role: Communication specialist
 
 user_groups: ["Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: SADiLaR
+  url: https://www.sadilar.org/index.php/9-about/55-communication-specialist
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,22 +30,22 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon_pack: fab
-  link: 
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 
+# - icon: twitter
+#   icon_pack: fab
+#   link: 
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: 
+# - icon: github
+#   icon_pack: fab
+#   link: 
+# - icon: linkedin
+#   icon_pack: fab
+#   link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -3,7 +3,7 @@
 
 title: "Computational Research and Open Science Community Mentorship Indaba"
 event: "More info and registration"
-event_url: https://docs.google.com/document/d/e/2PACX-1vTiKn5YTIWiJmVKxf14uKMv-kJYpmKbo3XGaN6m8kvhBuTN0aGzVachU98fguJ1zEF7I6dB0Tc4gylE/pub?urp=gmail_link&gxids=7628
+event_url: "../../event_pages/2021/04/2021-04-15-mentorship-indaba"
 location: Online
 address:
   street:
@@ -52,7 +52,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).

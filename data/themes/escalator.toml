@@ -13,10 +13,12 @@ menu_text = "#304378"
 menu_text_active = "#1a2f69"
 menu_title = "#2b2b2b"
 
+
 # Links
 link = "#8288bc"
 link_hover = "#d11f26"
 link_decoration = "underline"
+
 
 # Home sections
 home_section_odd = "#f9f7f6"

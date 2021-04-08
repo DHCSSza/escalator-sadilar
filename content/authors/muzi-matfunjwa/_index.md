@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Your name here
+title: Muzi Matfunjwa
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role: "Researcher: Siswati"
 
 user_groups: ["Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: SADiLaR
+  url: https://www.sadilar.org/index.php/9-about/108-researcher-siswati
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

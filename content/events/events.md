@@ -26,6 +26,14 @@ content:
       tag:  Deep learning
     - name: Natural language processing
       tag: Natural language processing
+    - name: Linguistics
+      tag: Linguistics
+    - name: Digital Humanities
+      tag: Digital Humanities
+    - name: Conference
+      tag: Conference
+    - name: Summer School
+      tag: Summer School
     - name: Other
       tag: Other
 design:

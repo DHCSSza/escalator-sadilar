@@ -26,6 +26,54 @@
   weight = 50
 
 [[main]]
+  name = "Champions Initiative"
+  url = "champions/"
+  weight = 20
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Overview"
+    url = "champions/overview/"
+    weight = 10
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Explorer: What is this about?"
+    url = "champions/explorer/"
+    weight = 20
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Embarker: Getting started"
+    url = "champions/embarker/"
+    weight = 30
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Enhancer: Growing more skilled "
+    url = "champions/enhancer/"
+    weight = 40
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Enabler: Helping others"
+    url = "champions/enabler/"
+    weight = 50
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Educator: Developing traing materials "
+    url = "champions/educator/"
+    weight = 60
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Empower: Women in technology "
+    url = "champions/empower/"
+    weight = 70
+
+
+[[main]]
   name = "Resources"
   url = "resources/"
   weight = 30
@@ -51,12 +99,12 @@
 [[main]]
   name = "Events"
   url = "events/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Working groups"
   url = "groups/"
-  weight = 50
+  weight = 60
 
   [[main]]
     parent = "Working groups"
@@ -87,6 +135,10 @@
   url = "post/"
   weight = 70
 
+[[main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

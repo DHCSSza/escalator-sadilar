@@ -89,22 +89,26 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "escalator@talarify.co.za"
+person1 = "Anelda van der Walt"
+role1 = "Programme manager"
+email2 = "menno.vanzaanen@nwu.ac.za"
+person2 = "Menno van Zaanen"
+role2 = "SADiLaR programme owner"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Potchefstroom", region = "", postcode = "2520", country = "South Africa", country_code = "ZA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "We are based in Room 202, Building G23A (2nd floor) on the Potchefstroom Campus of the North-West University in South Africa"
+directions = "The project has a distributed community across South Africa and beyond. Please get in touch via one of the online platforms."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday - Friday 8:00 to 17:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -112,10 +116,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/SADiLaR_ZA"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
+  {icon = "twitter", icon_pack = "fab", name = "Find us on Twitter", link = "https://twitter.com/DHCSSza"},
+  {icon = "slack", icon_pack = "fab", name = "Join us on Slack", link = "https://escalator.sadilar.org/post/connect-with-the-community/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = ""},
   ]
 
@@ -265,7 +267,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 

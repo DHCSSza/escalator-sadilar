@@ -53,8 +53,8 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky">Digital storytelling</td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716">WanaData</a></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/in/adaugoonyebuchi/">Adaugo Isaacs</a></td>
     <td class="tg-0pky">TBC</td>
     <td class="tg-0pky">TBC</td>
   </tr>

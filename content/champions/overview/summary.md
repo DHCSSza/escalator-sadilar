@@ -7,7 +7,7 @@ feature:
   - icon: explore-icon
     icon_pack: custom
     name: Explorer
-    description: Grow awareness of fundamental concepts of digital scholarship <br><em>* Coming soon</em>
+    description: Grow awareness of fundamental concepts of digital scholarship <br><em>* Launching 31 May 2021</em>
     link: ../explorer
     comment: Coming soon
   - icon: embark-icon
@@ -36,7 +36,7 @@ feature:
   - icon: empower-icon
     icon_pack: custom
     name: Empower
-    description: Join a community of women using digital and computational skills<br><em>* Coming soon</em> 
+    description: Join a community of women using digital and computational skills<br><em>* Launcing 5 August 2021</em> 
     link: ../empower
     comment:
 

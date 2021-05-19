@@ -86,7 +86,7 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">TBC</td>
     <td class="tg-0pky">TBC</td>
     <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">TBC</td>
   </tr>
 </tbody>
 </table>

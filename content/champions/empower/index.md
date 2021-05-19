@@ -41,10 +41,10 @@ A draft schedule is available below and will be updated as our invited speakers 
     <th class="tg-fymr">Day</th>
     <th class="tg-fymr">Time</th>
     <th class="tg-fymr">Topic</th>
-    <th class="tg-fymr">Organisation1</th>
-    <th class="tg-fymr">Speaker1</th>
-    <th class="tg-fymr">Organisation2</th>
-    <th class="tg-fymr">Speaker2</th>
+    <th class="tg-fymr">1st Speaker</th>
+    <th class="tg-fymr">Affiliation</th>
+    <th class="tg-fymr">2nd Speaker</th>
+    <th class="tg-fymr">Affiliation</th>
   </tr>
 </thead>
 <tbody>
@@ -53,28 +53,28 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky">Digital storytelling</td>
-    <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716">WanaData</a></td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/adaugoonyebuchi/">Adaugo Isaacs</a></td>
-    <td class="tg-0pky"><a href="https://www.cput.ac.za/academic/faculties/education/">Research coordinator, Faculty of Education, Cape Peninsula University of Technology</a></td>
+    <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716">WanaData</a></td>
     <td class="tg-0pky"><a href="https://sites.google.com/view/drcandicelivingston/home">Dr Candice Livingston</a></td>
+    <td class="tg-0pky">Research coordinator, <a href="https://www.cput.ac.za/academic/faculties/education/">Faculty of Education, Cape Peninsula University of Technology</a></td>
   </tr>
   <tr>
     <td class="tg-f975">12 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky">R for Humanities and Social Sciences</td>
-    <td class="tg-0pky"><a href="https://rladies.org/" target="_blank" rel="noopener noreferrer">RLadies</a></td>
     <td class="tg-0pky"><a href="https://education.rstudio.com/trainers/people/naidoo+vebashini/" target="_blank" rel="noopener noreferrer">Vebash Naidoo</a></td>
-    <td class="tg-0pky"><a href="http://www.cacs.org.za/">Post-Doctoral Fellow, Centre for Africa-China Studies</a> (CACS)</td>
+    <td class="tg-0pky"><a href="https://rladies.org/" target="_blank" rel="noopener noreferrer">RLadies</a></td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/">Dr. Ekemini Eyita-Okon</a></td>
+    <td class="tg-0pky">Post-Doctoral Fellow, <a href="http://www.cacs.org.za/">Centre for Africa-China Studies</a> (CACS)</td>
   </tr>
   <tr>
     <td class="tg-f975">19 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky">Growing tech skills as part of a community</td>
-    <td class="tg-0pky"><a href="https://carpentries.org/" target="_blank" rel="noopener noreferrer">The Carpentries</a></td>
     <td class="tg-0pky"><a href="https://angeliquevanrensburg.com/" target="_blank" rel="noopener noreferrer">Angelique Trusler</a></td>
+    <td class="tg-0pky"><a href="https://carpentries.org/" target="_blank" rel="noopener noreferrer">The Carpentries</a></td>
     <td class="tg-0pky">TBC</td>
     <td class="tg-0pky">TBC</td>
   </tr>

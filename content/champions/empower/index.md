@@ -55,8 +55,8 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">Digital storytelling</td>
     <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716">WanaData</a></td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/adaugoonyebuchi/">Adaugo Isaacs</a></td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"><a href="https://www.cput.ac.za/academic/faculties/education/">Cape Peninsula University of Technology</a></td>
+    <td class="tg-0pky"><a href="https://sites.google.com/view/drcandicelivingston/home">Dr Candice Livingston</a></td>
   </tr>
   <tr>
     <td class="tg-f975">12 August 2021</td>

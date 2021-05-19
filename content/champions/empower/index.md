@@ -65,8 +65,8 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">R for Humanities and Social Sciences</td>
     <td class="tg-0pky"><a href="https://rladies.org/" target="_blank" rel="noopener noreferrer">RLadies</a></td>
     <td class="tg-0pky"><a href="https://education.rstudio.com/trainers/people/naidoo+vebashini/" target="_blank" rel="noopener noreferrer">Vebash Naidoo</a></td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"><a href="http://www.cacs.org.za/">Post-Doctoral Fellow, Centre for Africa-China Studies</a> (CACS)</td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/">Dr. Ekemini Eyita-Okon</a></td>
   </tr>
   <tr>
     <td class="tg-f975">19 August 2021</td>

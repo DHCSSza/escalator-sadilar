@@ -9,7 +9,7 @@ categories: ["Digital Humanities"]
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CG_8GAygnOUPaF1hOA9_IIn
+external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CG_8GAygnOUPaF1hOA9_IIn"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

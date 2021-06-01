@@ -5,7 +5,7 @@ title: "Digital Humanities and Computational Social Sciences in Africa"
 summary: ""
 authors: []
 tags: ["Digital Humanities", "Computational Social Sciences", "Africa", "South Africa"]
-categories: []
+categories: ["Digital Humanities", "Computational Social Sciences", "Africa", "South Africa"]
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).

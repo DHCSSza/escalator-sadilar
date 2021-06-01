@@ -11,9 +11,9 @@ design:
 ---
 ### WHAT
 
-This track is a primer, offering a glimpse of what people can expect to encounter in the community and via other Digital Champions Initiative tracks. The track offers a range of curated video play lists and one scheduled contact session per month. The contact session is an informal meetup and discussion session open to people whom have watched the videos and have questions about anything related to the topics as well as anyone interested to learn more about ESCALATOR and the Digital Champions Initiative.
+This track is a primer, offering a glimpse of what people can expect to encounter in the community and via other Digital Champions Initiative tracks. The track offers a range of curated video play lists and one scheduled contact session per month. The contact session is an informal meetup and discussion session open to people whom have watched the videos and have questions about anything related to the topics as well as anyone interested to learn more about ESCALATOR and the Digital Champions Initiative. To sign up for an upcoming meetup, please add your name to our [open meetup document](https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing).
 
-Participants are encouraged to [join our Slack Workspace](https://escalator.sadilar.org/post/connect-with-the-community/) to get to know the community and gain exposure to conversations about digital and computational research in the humanities and social sciences.
+Participants are encouraged to [join our Slack Workspace](https://escalator.sadilar.org/post/connect-with-the-community/) to get to know the community and gain exposure to conversations about digital and computational research in the humanities and social sciences. Questions and discussions related to the video content from our Explorer's Playlists can be asked on the #dci-explorer-track Slack channel specifically.
 
 ### WHO
 

@@ -5,7 +5,7 @@ title: "What is Open Research?"
 summary: ""
 authors: []
 tags: ["Reproducible Research", "Open Research"]
-categories: []
+categories: ["Reproducible Research", "Open Research"]
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).

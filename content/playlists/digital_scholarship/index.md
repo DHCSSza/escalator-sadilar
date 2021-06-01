@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What are Open Educational Resources?"
+title: "What is Digital Scholarship?"
 summary: ""
 authors: []
 tags: ["Digital Scholarship", "Open Research"]
-categories: []
+categories: ["Digital Scholarship", "Open Research"]
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CGnlbEBkSBtFhmde9aD7P7L"
+external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CFRXFC_gajRoYXsmNGR7wlq"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

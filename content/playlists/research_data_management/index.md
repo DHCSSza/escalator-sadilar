@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What is Digital Humanities?"
+title: "What is Research Data Management?"
 summary: ""
 authors: []
-tags: ["Digital Humanities"]
+tags: ["Research Data Management"]
 categories: []
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CG_8GAygnOUPaF1hOA9_IIn"
+external_link: "https://www.youtube.com/playlist?list=PLAWb55M7X2CEDLhfDXZx4z_QxSWz2opSY"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

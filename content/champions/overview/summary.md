@@ -7,9 +7,8 @@ feature:
   - icon: explore-icon
     icon_pack: custom
     name: Explorer
-    description: Grow awareness of fundamental concepts of digital scholarship <br><em>* Launching 31 May 2021</em>
+    description: Grow awareness of fundamental concepts of digital scholarship <br><em>* Launched May 2021</em>
     link: ../explorer
-    comment: Coming soon
   - icon: embark-icon
     icon_pack: custom
     name: Embarker
@@ -20,25 +19,21 @@ feature:
     name: Enhancer
     description: Develop more advanced digital skills by applying it to a humanities or social sciences project <br><em>* Coming soon</em>
     link: ../enhancer
-    comment:
   - icon: enable-icon
     icon_pack: custom
     name: Enabler
     description: Discover resources that can facilitate the development of a local community of practice<br><em>* Coming soon</em>
     link: ../enabler
-    comment:
   - icon: educate-icon
     icon_pack: custom
     name: Educator
     description:  Master skills in developing contextualised open educational resources <br><em>* Coming soon</em>
     link: ../educator
-    comment: 
   - icon: empower-icon
     icon_pack: custom
     name: Empower
     description: Join a community of women using digital and computational skills<br><em>* Launcing 5 August 2021</em> 
     link: ../empower
-    comment:
 
  
 ---

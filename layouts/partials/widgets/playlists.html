@@ -1,0 +1,47 @@
+{{ $page := .page }}
+
+<div class="row featurette">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+  
+  {{ with $page.Params.image }}
+  <div class="col-md-12">
+    <img src="{{ . }}" width="200px" class="center">
+  </div>
+  {{ end }}
+</div>
+
+    {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+
+
+{{ range $page.Params.programme }}
+<div class="row accordion" id="accordion">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h3 class="mb-0">
+          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <a href="{{ .link }}">{{ .title}}</a>
+          </button>
+        </h3>
+      </div>
+  
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body">
+          {{ .description }}
+        </div>
+      </div>
+    </div>
+</div>
+
+
+
+{{ end }}

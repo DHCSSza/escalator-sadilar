@@ -62,7 +62,7 @@
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Educator: Developing traing materials "
+    name = "Educator: Developing training materials "
     url = "champions/educator/"
     weight = 60
 

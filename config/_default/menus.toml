@@ -99,7 +99,7 @@
   [[main]]
     parent = "Resources"
     name = "YouTube playlists"
-    url = "https://studio.youtube.com/channel/UCcLjjFCG2SNzZhxUJZyLcLg/playlists"
+    url = "https://www.youtube.com/channel/UCcLjjFCG2SNzZhxUJZyLcLg/playlists"
     weight = 40
 
   [[main]]

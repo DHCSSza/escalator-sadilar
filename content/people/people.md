@@ -8,9 +8,7 @@ content:
   user_groups:
     - Programme management
     - "Collaborators" 
-    - "Working group: Champions Programme"
-    - "Working group: Monitoring & Evaluation"
-    - "Working group: Stakeholders & Training Initiatives"
+
 design:
   # Show user's social networking links? (true/false)
   show_social: false

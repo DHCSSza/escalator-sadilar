@@ -34,7 +34,7 @@
       {{- end -}}
     </div>
     {{ end }}
-    <div class="section-subheading"><a href="{{ .link }}">{{ .name | markdownify | emojify }}</a></div>
+    <div class="section-subheading"><a href="{{ .link }}" target="_blank">{{ .name | markdownify | emojify }}</a></div>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}

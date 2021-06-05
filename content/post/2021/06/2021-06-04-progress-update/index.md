@@ -46,7 +46,7 @@ The ESCALATOR project kicked off in December 2020. In this blog post we'll provi
 
 We’ve officially completed Phase I of the project which was mostly about setting things up. We started off with revisiting the original project plan. Most importantly we considered necessary changes related to the COVID-19 pandemic and incorporated insights we’ve gleaned over the past months based on conversations with our community and peers from all over the world. 
 
-- New [communication channels](#communciation) have been established
+- New [communication channels](#communication) have been established
 - [Project documentation](#project-documentation) have been developed, finalised, and shared under open licenses
 - Various [events](#events) took place
 - Development and launch of the [Digital Champions Initiative](#digital-champions-initiative)

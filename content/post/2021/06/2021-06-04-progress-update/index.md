@@ -52,7 +52,8 @@ We’ve officially completed Phase I of the project which was mostly about setti
 - Development and launch of the [Digital Champions Initiative](#digital-champions-initiative)
 - [Next steps](#next-steps)
 
-### Communication
+### Communication 
+*\[<a href="#top">Back to top</a>\]*
 
 You can now get more information about the ESCALATOR project and activities, opportunities and resources from our community and beyond on the following platforms:
 
@@ -63,6 +64,7 @@ You can now get more information about the ESCALATOR project and activities, opp
 - SADiLaR Newsletter: An article introducing ESCALATOR appeared in the latest SADiLaR Newsletter that is available in the 11 South African official languages. You can [read the newsletter on SADiLaR’s website](https://www.sadilar.org/index.php/en/10-news/283-newsletter-jun-2021).
 
 ### Project documentation
+*\[<a href="#top">Back to top</a>\]*
 
 One of the key features of the ESCALATOR programme is its focus on monitoring and evaluation. We want to make sure that the programme activities address the needs of the community and will lead to the impact we want to have: Growing an inclusive and active community of practice in Digital Humanities and Computational Social Sciences in South Africa. 
 
@@ -74,6 +76,7 @@ To establish where we should start and how to go about it, we developed the foll
 - [Communication strategy](https://doi.org/10.5281/zenodo.4898811): This document provides more information about how the programme will communicate with the community and how the community can connect with the programme team and peers.
 
 ### Events
+*\[<a href="#top">Back to top</a>\]*
 
 #### International Open Education Week
  
@@ -96,6 +99,7 @@ SADiLaR hosts a [monthly DH Colloquium](https://www.sadilar.org/index.php/en/2-g
 Prof Menno van Zaanen was invited as plenary speaker to the virtual edition of the Lagos Summer School in Digital Humanities that took place in May. His talk titled “Digital Humanities & Its Multidisciplinary Perspective: A Case Study” included references to SADiLaR and the ESCALATOR programme.
 
 ### Digital Champions Initiative
+*\[<a href="#top">Back to top</a>\]*
 
 As mentioned, the Digital Champions Initiative is one of the flagship activities of ESCALATOR. 
 Initially we planned to run a single mentorship programme, but based on the [needs assessment](https://doi.org/10.5281/zenodo.4892776) and our various community members’ interests, we’ve expanded this initiative to include six different tracks. The tracks will be rolled out in a phased manner. 
@@ -105,6 +109,7 @@ The first track to become available, is the [EXPLORER](https://escalator.sadilar
 Read more about the Digital Champions Initiative [on our website](https://escalator.sadilar.org/champions/overview/) and [please let us know](https://escalator.sadilar.org/contact/) if you have any feedback or suggestions or would like to get involved in the design and development.
 
 ### Next steps
+*\[<a href="#top">Back to top</a>\]*
 
 Over the next few months we’ll continue to reach out to the community via meetings, presentations, discussion sessions, social media, direct contact and other means.
 
@@ -121,6 +126,7 @@ This month we'll be presenting at the [Digital Humanities Summer Institute](http
 Menno van Zaanen will also be talking at the ["The Human in Digital Humanities" online symposium](https://escalator.sadilar.org/talk/the-human-in-digital-humanities-online-symposium-tilburg-school-of-humanities-digital-sciences/) hosted by the Tilburg School of Humanities and Digital Sciences.
 
 ### Please and thank you
+*\[<a href="#top">Back to top</a>\]*
 
 We are grateful to everyone who has contributed or expressed interest to get involved with ESCALATOR. This project is about you, the community.  We look forward to connecting more with you and learning about your interests, needs, successes, and challenges. Together we will work on identifying ways to support you or help you to find support or solutions in the broader community.
 

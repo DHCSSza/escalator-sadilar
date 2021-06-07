@@ -28,7 +28,13 @@
   parent = "About"
   name = "Code of Conduct"
   url = "conduct/"
-  weight = 50
+  weight = 30
+
+[[main]]
+  parent = "About"
+  name = "Contact"
+  url = "contact/"
+  weight = 40
 
 [[main]]
   name = "Champions Initiative"
@@ -152,10 +158,7 @@
   url = "post/"
   weight = 70
 
-[[main]]
-  name = "Contact"
-  url = "contact/"
-  weight = 80
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

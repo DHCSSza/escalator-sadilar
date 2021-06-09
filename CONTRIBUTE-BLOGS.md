@@ -8,3 +8,4 @@
 7. Add content
 8. Add images to folder
 9. Create pull request
+10. Check if post was published

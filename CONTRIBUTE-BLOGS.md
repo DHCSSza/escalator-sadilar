@@ -2,7 +2,6 @@
 
 1. Create github account
 3. Fork [repository](https://github.com/anelda/escalator-sadilar/)
-4. Navigate to post directory
 5. Copy template file
 6. Edit header
 7. Add content

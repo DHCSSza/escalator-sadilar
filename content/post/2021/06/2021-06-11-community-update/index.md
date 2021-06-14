@@ -54,10 +54,11 @@ Reframing Digital Humanities: Conversations with Digital Humanists is an open ed
 ### Regular training blog posts
 
 The Digital Research Infrastructure for the Arts and Humanities, Europe (DARIAH-EU) has a regular blog feature called [#TrainingTuesday](https://www.dariah.eu/2020/01/14/dariah-eu-launches-trainingtuesday-campaign/). In May and June the campaign featured the following posts:
-[Setting up a CIDOC Conceptual Reference Model](https://www.dariah.eu/2021/06/01/trainingtuesday-setting-up-a-cidoc-crm/) for semantic data relating to cultural heritage
-[Game.Play.Design in the Arts and Humanities](https://www.dariah.eu/2021/05/25/trainingtuesday-game-play-design-in-the-arts-and-humanities/)
-Two posts discussing the [practicalities and potential pitfalls of managing data during and after a research project available [here](https://www.dariah.eu/2021/05/18/trainingtuesday-an-ontologist-and-a-data-scientist-walk-into-a-bar-data-in-research-projects/) and [here](https://www.dariah.eu/2021/05/04/trainingtuesday-an-ontologist-and-a-data-scientist-walk-into-a-bar-managing-data-during-and-after-projects/) 
-[Open data for humanists - a pragmatic guide](https://www.dariah.eu/2021/05/11/trainingtuesday-open-data-for-humanists-a-pragmatic-guide/)
+
+- [Setting up a CIDOC Conceptual Reference Model](https://www.dariah.eu/2021/06/01/trainingtuesday-setting-up-a-cidoc-crm/) for semantic data relating to cultural heritage
+- [Game.Play.Design in the Arts and Humanities](https://www.dariah.eu/2021/05/25/trainingtuesday-game-play-design-in-the-arts-and-humanities/)
+- Two posts discussing the [practicalities and potential pitfalls of managing data during and after a research project available [here](https://www.dariah.eu/2021/05/18/trainingtuesday-an-ontologist-and-a-data-scientist-walk-into-a-bar-data-in-research-projects/) and [here](https://www.dariah.eu/2021/05/04/trainingtuesday-an-ontologist-and-a-data-scientist-walk-into-a-bar-managing-data-during-and-after-projects/) 
+- [Open data for humanists - a pragmatic guide](https://www.dariah.eu/2021/05/11/trainingtuesday-open-data-for-humanists-a-pragmatic-guide/)
 
 ### A collection of posts from Day of Digital Humanities 2021
 

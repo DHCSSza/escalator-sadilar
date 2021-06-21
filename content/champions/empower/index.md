@@ -73,20 +73,21 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky">Growing tech skills as part of a community</td>
-    <td class="tg-0pky"><a href="https://angeliquevanrensburg.com/" target="_blank" rel="noopener noreferrer">Angelique Trusler</a></td>
+    <td class="tg-0pky"><a href="https://angeliquevanrensburg.com/" target="_blank" rel="noopener noreferrer">Dr Angelique Trusler</a></td>
     <td class="tg-0pky"><a href="https://carpentries.org/" target="_blank" rel="noopener noreferrer">The Carpentries</a></td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/dr-c-hermann/" target="_blank" rel="noopener noreferrer">Dr Caroll Hermann</a></td>
+    <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/" target="_blank" rel="noopener noreferrer">Faculty of Arts, University of Zululand</a></td>
   </tr>
   <tr>
     <td class="tg-f975">26 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky">Python for Humanities and Social Sciences</td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/in/ingrid-brudvig-5893a334?originalSubdomain=za" target="_blank" rel = "noopener noreferrer">Dr Ingrid Brudvig</a></td>
+    <td class="tg-0pky">Independent C
+    onsultant, Digital Anthropologist</td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/in/laura-mugeha/" target="_blank" rel = "noopener noreferrer">Laura Mugeha</a></td>
+    <td class="tg-0pky">Regional Ambassador, YouthMappers</td>
   </tr>
 </tbody>
 </table>

@@ -52,7 +52,7 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-f975">5 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky">Digital storytelling</td>
+    <td class="tg-0pky">TBC</td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/adaugoonyebuchi/">Adaugo Isaacs</a></td>
     <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716">WanaData</a></td>
     <td class="tg-0pky"><a href="https://sites.google.com/view/drcandicelivingston/home">Dr Candice Livingston</a></td>
@@ -82,12 +82,13 @@ A draft schedule is available below and will be updated as our invited speakers 
     <td class="tg-f975">26 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/in/laura-mugeha/" target="_blank" rel = "noopener noreferrer">Laura Mugeha</a></td>
+    <td class="tg-0pky">Regional Ambassador, YouthMappers</td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/ingrid-brudvig-5893a334?originalSubdomain=za" target="_blank" rel = "noopener noreferrer">Dr Ingrid Brudvig</a></td>
     <td class="tg-0pky">Independent C
     onsultant, Digital Anthropologist</td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/in/laura-mugeha/" target="_blank" rel = "noopener noreferrer">Laura Mugeha</a></td>
-    <td class="tg-0pky">Regional Ambassador, YouthMappers</td>
+    
   </tr>
 </tbody>
 </table>

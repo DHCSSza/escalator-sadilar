@@ -1,5 +1,5 @@
 ---
-title: Teaching a virtual, hands-on workshop at the CODATA-RDA School for Research Data Science - South Africa
+title: Teaching a virtual, hands-on workshop
 
 subtitle: 
 

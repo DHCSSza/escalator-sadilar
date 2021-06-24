@@ -10,10 +10,10 @@ summary: The CODATA-RDA Schools of Research Data Science is a programme that is 
 projects: []
 
 # Date published
-date: "2021-06-25T00:00:00Z"
+date: "2021-06-245T00:00:00Z"
 
 # Date updated
-lastmod: "2021-06-25T00:00:00Z"
+lastmod: "2021-06-24T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

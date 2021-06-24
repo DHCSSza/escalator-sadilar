@@ -39,6 +39,8 @@ categories:
 - Data organisation and spreadsheets
 - Data Carpentry
 
+authors: [rooweither_mabuya]
+
 ---
 
 On 3 May 2021 the CODATA-RDA School of Research Data Science – South Africa online edition kicked off. The curriculum is presented as ten different [themes](https://drive.google.com/file/d/1TGANn-uC7uRX5MdhlB5d6xQmOlxlvmLE/view) which run for 10 weeks. The summer school is providing early career African researchers (M-level to postdoc) and professionals with foundational data science skills. It includes technical skills and responsible research practices. This enables them to work with their data in an effective and efficient manner.

@@ -11,9 +11,8 @@ role: SADiLaR Project Manager
 user_groups: ["SADiLaR", "Programme management"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: SADiLaR
-  url: https://www.sadilar.org/index.php/en/9-about/83-project-manager
+organisation_name: SADiLaR
+organisation_url: https://www.sadilar.org/index.php/en/9-about/83-project-manager
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

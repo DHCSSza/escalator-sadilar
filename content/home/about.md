@@ -4,10 +4,21 @@ headless: true
 weight: 20
 design:
     columns: '1'
-title: What is ESCALATOR?
+title: What is ESCALATOR? 
 summary: ESCALATOR is a project run by SADiLaR. The project aims to develop a national community of practice engaging critically with digital research methods within the Humanities and Social Sciences through a Digital Humanities champions program 
 
 ---
+
+<div style="width: 50%;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://www.youtube.com/embed/xoY1IpYmNuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+      style="position:absolute;top:0;left:50%;
+      width:100%;height:100%;">
+    </iframe>
+  </div>
+</div>
+<br>
+
 
 Humanities and Social Sciences research and education are in dire need of strong
 coordinated interventions to enable the pervasive adoption of digital research
@@ -22,7 +33,7 @@ established the ESCALATOR project. SADiLaR is a national centre supported by the
 
 Ad hoc activities have the tendency to create excitement
 and interest, but leaves participants neglected, disempowered, and disappointed
-as they often lack the social / research networks and skill to make use of
+as they often lack the social and research networks and skill to make use of
 opportunities and resources that were taught or discussed. With every new
 intervention, it seems as if community have to be built from scratch if an ad hoc
 capacity development approach is followed.

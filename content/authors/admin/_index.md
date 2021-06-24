@@ -11,9 +11,8 @@ role: ESCALATOR Programme Manager
 user_groups: ["Talarify", "Programme management"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Talarify
-  url: http://www.talarify.co.za/
+organisation_name: Talarify
+organisation_url: http://www.talarify.co.za/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

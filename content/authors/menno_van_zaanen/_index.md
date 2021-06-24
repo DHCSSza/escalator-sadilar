@@ -11,9 +11,8 @@ role: Professor - Digital Humanities
 user_groups: ["SADiLaR", "Programme management"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: SADiLaR
-  url: https://www.sadilar.org/index.php/9-about/109-dh-prof
+organisation_name: SADiLaR
+organisation_url:  https://www.sadilar.org/index.php/9-about/109-dh-prof
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

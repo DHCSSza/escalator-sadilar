@@ -6,8 +6,8 @@ subtitle:
 
 content:
   user_groups:
-    - Programme management
-    - "Collaborators" 
+    - "Programme management"
+    - "Contributors & Collaborators" 
 
 design:
   # Show user's social networking links? (true/false)

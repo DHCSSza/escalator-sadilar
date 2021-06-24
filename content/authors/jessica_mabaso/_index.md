@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Anne Treasure
+title: Jessica Mabaso
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: "Research Analyst & Trainer"
+role: Chief administrative officer
 
 user_groups: ["Contributors & Collaborators"]
 
 # Organizations/Affiliations to show in About widget
-organisation_name: Talarify
-organisation_url:  https://orcid.org/0000-0002-8345-4811
+organisation_name: SADiLaR
+organisation_url:  https://www.sadilar.org/index.php/9-about/67-cao
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

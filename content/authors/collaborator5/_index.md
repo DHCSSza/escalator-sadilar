@@ -6,14 +6,13 @@ title: Your name here
 superuser: false
 
 # Role/position/tagline
-role: 
+role: Your role
 
-user_groups: ["Collaborators"]
+user_groups: ["Contributors & Collaborators"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: 
-  url: 
+organisation_name: Your organisation
+organisation_url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

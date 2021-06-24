@@ -8,12 +8,11 @@ superuser: false
 # Role/position/tagline
 role: Communication specialist
 
-user_groups: ["Collaborators"]
+user_groups: ["Contributors & Collaborators"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: SADiLaR
-  url: https://www.sadilar.org/index.php/9-about/55-communication-specialist
+organisation_name: SADiLaR
+organisation_url:  https://www.sadilar.org/index.php/9-about/55-communication-specialist
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

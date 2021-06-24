@@ -8,12 +8,11 @@ superuser: false
 # Role/position/tagline
 role: "Researcher: Siswati"
 
-user_groups: ["Collaborators"]
+user_groups: ["Contributors & Collaborators"]
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: SADiLaR
-  url: https://www.sadilar.org/index.php/9-about/108-researcher-siswati
+organisation_name: SADiLaR
+organisation_url: https://www.sadilar.org/index.php/9-about/108-researcher-siswati
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

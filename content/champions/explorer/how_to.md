@@ -20,7 +20,7 @@ feature:
     icon_pack: custom
     name: Meet
     description: >
-      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. <br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">29 June 2021 @ 15:30 - 16:30 SAST</a></b>
+      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. We'll run a regular meeting <b>every last Tuesday of the month</b>.<br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">29 June 2021 @ 15:30 - 16:30 SAST</a></b>
     link: "https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing"
   - icon: number_4
     icon_pack: custom

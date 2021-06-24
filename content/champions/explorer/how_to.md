@@ -9,7 +9,7 @@ feature:
   - icon: number_1
     icon_pack: custom
     name: Register
-    description: Complete our registration form to let us know you're working through the videos. Although this track allows participants to work through material at their own speed, we would still like to hear from you and support you on your journey. You are also encouraged to provide feedback to help us improve content and delivery of the EXPLORER track. <br> <em> Registration form coming soon, please send an email to <a href="mailto:escalator@talarify.co.za">escalator@talarify.co.za</a> in the interrim.</em>
+    description: Complete our registration form to let us know you're working through the videos. Although this track allows participants to work through material at their own speed, we would still like to hear from you and support you on your journey. You are also encouraged to provide feedback to help us improve content and delivery of the EXPLORER track. <br> <em> Registration form coming soon, please send an email to <a href="mailto:escalator@talarify.co.za">escalator@talarify.co.za</a> in the interim.</em>
     link: ""
   - icon: number_2
     icon_pack: custom

@@ -15,7 +15,7 @@ design:
 
 ### WHO
 
-The EXPLORER track is open to anyone starting out with digital scholarship. There is no limit on the number of participants. 
+The EXPLORER track is open to anyone starting out with digital scholarship in Humanities or Social Sciences or related fields (e.g. Education). There is no limit on the number of participants and anyone is welcome, but the focus will be on the South African context and we therefore specifically welcome those affiliated with universities or research organisations in South Africa.
 __No previous experience with digital scholarship or computational research required__. We welcome anyone interested to learn more! We also invite those with more experience to join us and facilitate the monthly meetings. 
 
 ### WHAT

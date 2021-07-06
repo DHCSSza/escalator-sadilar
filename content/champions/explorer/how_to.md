@@ -9,13 +9,13 @@ feature:
   - icon: number_1
     icon_pack: custom
     name: Watch
-    description: Watch the <a href="#playlists">videos in our playlists</a> on your own time. You can select the topics that you are less familiar with. No need to work through everything. These resources should equip you with foundational knowledge about the topics at hand. For more detailed resources, please refer to our [curated list of training materials and courses](../../global-training-resources).
+    description: Watch the <a href="#playlists">videos in our playlists</a> at your own pace. You can start with topics that you are less familiar with, or only focus on those you are particularly interested in. No need to work through everything. These resources should equip you with foundational knowledge about the topics at hand. For more detailed resources, please refer to our [curated list of training materials and courses](../../global-training-resources).
     link: "#playlists"
   - icon: number_2
     icon_pack: custom
     name: Meet
     description: >
-      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. We'll run a regular meeting <b>every last Tuesday of the month</b>.<br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">27 July 2021 @ 15:30 - 16:30 SAST</a></b>
+      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a> or <a href="https://forms.gle/b5Ebwq2p19CXhA3B7">registering via the form</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. We'll run a regular meeting <b>every last Tuesday of the month</b>.<br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">27 July 2021 @ 15:30 - 16:30 SAST</a></b>
     link: "https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing"
   - icon: number_3
     icon_pack: custom

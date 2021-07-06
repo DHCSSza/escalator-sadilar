@@ -15,8 +15,8 @@ feature:
     icon_pack: custom
     name: Meet
     description: >
-      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a> or <a href="https://forms.gle/b5Ebwq2p19CXhA3B7">registering via the form</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. We'll run a regular meeting <b>every last Tuesday of the month</b>.<br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">27 July 2021 @ 15:30 - 16:30 SAST</a></b>
-    link: "https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing"
+      Have some questions or want to discuss any of the topics? Sign up for an informal virtual meeting simply by adding your name to our <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">open meetup document</a> or <a href="https://forms.gle/b5Ebwq2p19CXhA3B7" target=\"_blank\">registering via the form</a>. Connection details will be shared on the document and via <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">our Slack workspace</a> an hour before the meetups. We'll run a regular meeting <b>every last Tuesday of the month</b>.<br> <b>Next meeting: <a href="https://docs.google.com/document/d/1tdE9s8_fmwBTgCBRsGk1CiRR0YBymhX_adX9inPDu9I/edit?usp=sharing" target="_blank">27 July 2021 @ 15:30 - 16:30 SAST</a></b>
+    link: "https://forms.gle/b5Ebwq2p19CXhA3B7"
   - icon: number_3
     icon_pack: custom
     name: Discuss
@@ -25,7 +25,7 @@ feature:
   - icon: number_4
     icon_pack: custom
     name: Register & Feedback
-    description: Complete <a href="https://forms.gle/b5Ebwq2p19CXhA3B7">our registration form</a> to let us know you're interested in this track. Although this track allows participants to work through material at their own speed, we would still like to hear from you and support you on your journey. You are also encouraged to <a href="https://forms.gle/b5Ebwq2p19CXhA3B7">provide feedback</a> to help us improve content and delivery of the EXPLORER track. 
+    description: Complete <a href="https://forms.gle/b5Ebwq2p19CXhA3B7" target=\"_blank\">our registration form</a> to let us know you're interested in this track. Although this track allows participants to work through material at their own speed, we would still like to hear from you and support you on your journey. You are also encouraged to <a href="https://forms.gle/b5Ebwq2p19CXhA3B7" target=\"_blank\">provide feedback</a> to help us improve content and delivery of the EXPLORER track. 
     link: "https://forms.gle/b5Ebwq2p19CXhA3B7"
 
 ---

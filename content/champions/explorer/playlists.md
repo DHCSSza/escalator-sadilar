@@ -27,6 +27,6 @@ design:
   flip_alt_rows: false
 ---
 
-Many of the topics listed below are tightly connected to each other and you'll find that some of the categories are a bit cosmetic. We hope that by creating these different playlists, newcomers to digital and computational research will find it easier to compile a big picture of what it all entails.
+Many of the topics listed below are tightly connected to each other and you'll find that some of the categories are a bit cosmetic. We hope that by creating these different playlists, newcomers to digital and computational research will find it easier to compile a big picture of what it all entails. The topics covered here could also serve as prompts or conversation starters and encourage deeper discussion within your research group or institution.
 
 The playlists are under constant development. If you would like to suggest other topics to include or know of good video clips that illustrate these concepts well (especially shorter video clips with an African or South African focus), please <a href="../../contact" target="_blank">let us know</a>.

@@ -3,6 +3,8 @@ title: Join the Python for Social Sciences/Humanities study group
 
 subtitle: 
 
+authors: ["admin", "benito_trollip"]
+
 # Summary for listings and search engines
 summary: This July we're starting an informal study group for folks from Humanities or Social Sciences who want to learn Python or want to enhance their Python skills. Read more and join us!
 
@@ -43,7 +45,7 @@ categories:
 
 In the past few weeks several of our community members indicated an interest to learn Python to solve problems they're grappling with in their work. We heard you, and because there's such a wealth of online resources available to learn Python, we decided the best would be to [start a study group](#get-involved) where we can support and teach you to use those online resources.
 
-The aim of the study group is to provide a regular virtual meeting space where community members can come to learn at their own pace. It's also a great opportunity for more experienced Pythonista to dedicate time to work on their own Python projects or help others hone their programming skills. 
+The aim of the study group is to provide a regular virtual meeting space where community members can come to learn at their own pace. It's also a great opportunity for more experienced Pythonistas to dedicate time to work on their own Python projects or help others hone their programming skills. 
 
 The Python study group was inspired by [Mmasibidi Setaka](https://www.sadilar.org/index.php/en/9-about/65-researcher-sesotho), the Sesotho Researcher at [SADiLaR](https://sadilar.org), who wants to learn Python for work she'll be doing as part of her PhD studies. 
 

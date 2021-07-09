@@ -15,7 +15,7 @@ projects: []
 date: "2021-07-06T00:00:00Z"
 
 # Date updated
-lastmod: "2021-07-06T00:00:00Z"
+lastmod: "2021-07-09T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -40,6 +40,8 @@ categories:
 - programming
 
 ---
+
+*Edit 9 July* - Please note that we also now have an [R Study Group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/) <i class="fas fa-laugh-beam"></i>.
 
 [Python](https://www.python.org/) is a programming lanuage with many applications in Humanities and Social Sciences. Some examples include Natural Language Processing (NLP), image analysis, data visualisation, various applications of machine learning for example audio analysis and much much more.
 

@@ -4,19 +4,19 @@ title: ESCALATOR progress report - July 2021
 subtitle: 
 
 # Summary for listings and search engines
-summary: Wow! It’s been six months since ESCALATOR officially started and it’s time to reflect on what’s been done and where we’re going next.
+summary: June was a very exciting month for ESCALATOR! Read this post to learn how you can benefit from, or contribute to the programme and become part of our growing community...
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-06-04T00:00:00Z"
+date: "2021-07-09T00:00:00Z"
 
 # Date updated
-lastmod: "2021-06-04T00:00:00Z"
+lastmod: "2021-07-09T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: true
@@ -39,107 +39,50 @@ categories:
 
 ---
 
-First Explorer meeting
-Meetup with Empower speakers
-Spoke at DHSI
-Mapping stakeholders
+This month we're incredibly excited to share loads of news about activities and opportunities that our community can get involved in, learn from, or contribute to.
 
+### Digital Champions Initiative: First EXPLORER track meetup
 
+The [EXPLORER track](https://escalator.sadilar.org/champions/explorer/) provides newcomers to digital scholarship in Humanities and Social Sciences an opportunity to learn about foundational concepts and meet other the community members. As part of the track there is a regularly scheduled meetup on the last Tuesday of every month. Registered and prospective participants of are invited to join the meetup and ask questions related to the content, the EXPLORER track, or the ESCALATOR programme in general. 
 
+On 29 June we had our first monthly meetup and were joined by two community members. We discussed the content on [the EXPLORER webpage](https://escalator.sadilar.org/champions/explorer/), the registration form, and other topics related to the track. Thanks to their feedback, we were able to improve the site. 
 
+We look forward to our next meetup on 27 July at 15:30 - 16:30 SAST! Please join us there if you have any questions, comments, suggestions or if you'd like to meet other community members.
 
-The ESCALATOR project kicked off in December 2020. In this blog post we'll provide the community with an update of our progress, resources and opportunities that are available, and ways in which they can connect with the programme team and peers. This blog post will be a regular feature on the ESCALATOR site. Every month we’ll share with our community the progress we’ve made, challenges we experienced and where we plan to go next.
+### Digital Champions Initiative: Brainstorming with speakers for the EMPOWER track
 
+In August 2021 we'll be launching [the EMPOWER track](https://escalator.sadilar.org/champions/empower/). This track is specifically open to women students and staff in Humanities and Social Sciences at South African academic and research institutions. We want to provide a welcoming space where women can join the conversation about technology in research and beyond. In the last weeks we've had three meetings with our wonderful speakers. We'll start advertising shortly, but if you're curious, please see [the programme](https://escalator.sadilar.org/champions/empower/#schedule) and save the date in your calendar!
 
-### Brief summary
+### Presentation at Digital Humanities Summer Institute
 
-We’ve officially completed Phase I of the project, which was mostly about setting things up. We started off with revisiting the original project plan. Most importantly, we considered necessary changes related to the COVID-19 pandemic and incorporated insights we’ve gleaned over the past months based on conversations with our community and peers from all over the world. 
+The Open/Social/Digital Humanities Pedagogy Training and Mentorship is a Virtual Conference of the ADHO Special Interest Group for Digital Humanities Pedagogy and Training and the INKE Open Social Scholarship Cluster. The event took place alongside the [Digital Humanities Summer Institute 2021](https://dhsi.org/dhsi-2021-online-edition/) in June this year. 
 
-- New [communication channels](#communication) have been established
-- [Project documentation](#project-documentation) has been developed, finalised, and shared under open licenses
-- Various [events](#events) took place
-- Development and launch of the [Digital Champions Initiative](#digital-champions-initiative)
-- [Next steps](#next-steps)
+During this conference we presented a short overview of the history of Digital Humanities in South Africa and introduced the South African Centre for Digital Language Resources (SADiLaR) along with its two programmes focused on:
 
-### Communication 
-*\[<a href="#top">Back to top</a>\]*
+- Digitisation and
+- Growing a Digital Humanities community of practice through the ESCALATOR programme.
 
-You can now get more information about the ESCALATOR project and activities, opportunities and resources from our community and beyond on the following platforms:
+We also provided more information about the ESCALATOR programme and specifically focus on the Digital Champions Initiative.
 
-- Twitter: Follow us or Tweet at us on @DHCSSza - https://twitter.com/DHCSSza. We will be sharing news, resources, funding opportunities, awards, training opportunities, community showcases and more via this Twitter account. Please share useful content for us to reshare with the community.
-- Slack: [Slack](https://slack.com/intl/en-za/) is a collaboration platform that’s been successfully employed in academic and non-academic settings. We’ve created a Slack workspace - DHCSSza. Anyone interested to become part of the South African Digital Humanities and Computational Social Sciences community is welcome to join. No prior knowledge of computational or digital research practices is required. We’ll be sharing information there and members can meet peers, find resources, training opportunities, ask questions, share insights, and more. To join the DHCSSza Slack workspace, please [visit this link](https://escalator.sadilar.org/post/connect-with-the-community/). If you are new to Slack, [please reach out to us](https://escalator.sadilar.org/contact/) for support.
-- Our website: The website is available at https://escalator.sadilar.org/. We’re constantly updating information here. If you see any errors or omissions, [please contact us](https://escalator.sadilar.org/contact/) to ensure it is updated and corrected.
-- YouTube channel: All our recordings and other relevant videos will be shared via the [ESCALATOR YouTube channel and playlists](https://www.youtube.com/channel/UCcLjjFCG2SNzZhxUJZyLcLg/playlists). As far as possible resources will be published under open licenses to encourage reuse.
-- SADiLaR Newsletter: An article introducing ESCALATOR appeared in the latest SADiLaR Newsletter that is available in the 11 South African official languages. You can [read the newsletter on SADiLaR’s website](https://www.sadilar.org/index.php/en/10-news/283-newsletter-jun-2021).
+The [recording](https://youtu.be/yENMrJoKIQA) and [slides](https://doi.org/10.5281/zenodo.4740018) are available online under open licenses.
 
-### Project documentation
-*\[<a href="#top">Back to top</a>\]*
+### Mapping South African Digital Humanities & Computational Social Sciences landscape
 
-One of the key features of the ESCALATOR programme is its focus on monitoring and evaluation. We want to make sure that the programme activities address the needs of the community and will lead to the impact we want to have: Growing an inclusive and active community of practice in Digital Humanities and Computational Social Sciences in South Africa. 
+One of the goals of the ESCALATOR programme is to create a stakeholder map of Digital Humanities and Computational Social Sciences in South Africa (see our [Theory of Change for more info](https://doi.org/10.5281/zenodo.4736572)). We are excited to announce that this project will kick off properly in August. We are hoping to collect and share information about research, people, training materials, courses, publications, and more over the coming months. 
 
-To establish where we should start and how to go about it, we developed the following documents. These documents are published openly in line with our commitment to transparency and to encourage community engagement. All our documents are published under open licenses and added to our [community page on Zenodo](https://zenodo.org/communities/escalator/?page=1&size=20). These documents will be updated as more information becomes available about the relevance and success of various activities.
+### Digital Champions Initiative: ENHANCER Precursor - Python & R Study groups
 
-- [Theory of Change](https://doi.org/10.5281/zenodo.4736572): “A theory of change is project-specific and related to evaluation. It makes the underlying rationale of a project explicit, which supports planning, implementation, and assessment of the project.” *~ [Reinholz &  Andrews, 2020](https://doi.org/10.1186/s40594-020-0202-3)*
-- [Logical Framework](https://doi.org/10.5281/zenodo.4736570): The logframe is based on the Theory of Change and provides more details on the causal linkage between the activities, outputs, outcomes and long-term impact. It also includes information about how we’ll measure success and what assumptions must be fulfilled.
-- [Needs assessment](https://doi.org/10.5281/zenodo.4892776): One of the project outputs is a needs assessment that will be updated as our community grows.
-- [Communication strategy](https://doi.org/10.5281/zenodo.4898811): This document provides more information about how the programme will communicate with the community and how the community can connect with the programme team and peers.
+Since the start of ESCALATOR we've had several requests from community members wanting to learn to use R or python in their research. These programming languages are becoming increasingly popular for all kinds of data science workflows, not only in STEM fields, but also in Humanities and Social Sciences. 
 
-### Events
-*\[<a href="#top">Back to top</a>\]*
+SADiLaR in collaboration with [The Carpentries](https://carpentries.org/regions_za/) run regular workshops where various tools like R, Python, OpenRefine, and more are taught. We recognise, however, that workshops offer limited opportunity for participants to adopt and adapt their learnings to apply in their own work. Therefore we will kick off with [a Python](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and [R study group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/) in July. The study group will meet twice per month for two hours and will offer an informal, virtual co-working space where community members can continue to learn at their own pace with support from others.
 
-#### International Open Education Week
- 
-In March 2021, ESCALATOR participated in International Open Education Week where we briefly introduced the project. Please [read our blog post](https://escalator.sadilar.org/post/open-ed-week-feedback/) which includes links to the recording and slides.
+If you're keen to learn Python or R or improve your existing programming skills, we hope to see you there!
 
-#### Computational Research and Open Science Community Mentorship Indaba
+### Slack Workspace Activity
 
-One of our flagship activities is the [Digital Champions Initiative](https://escalator.sadilar.org/champions/overview/). This is a multi-track mentorship and networking programme that complements our other activities. Mentorship programmes have become more popular in recent years to complement formal education. In April, ESCALATOR organised and hosted the first virtual *Computational Research and Open Science Community Mentorship Indaba* where various existing mentorship programme developers shared their insights. The conversation was incredibly insightful and we’ll be incorporating lessons learned in the development of the Digital Champions Initiative. We’re also continuing collaborations with other mentorship initiatives. Read about the Mentorship Indaba in [our blog post](https://escalator.sadilar.org/post/2021/05/2021-05-03-mentorship-indaba/), which includes links to all presentations and recordings of the talks.
+We strongly encourage researchers and students from Humanities or Social Sciences disciplines who are keen to grow their digital and computational skills and networks to join the [DHCSSza Slack Workspace](https://escalator.sadilar.org/post/connect-with-the-community/).
 
-#### Outreach to universities
+The Slack workspace is used to share information, resources, opportunities, ask questions, collaborate, and much, much more. If you have any questions or would like to learn more about Slack, please [reach out to us](https://escalator.sadilar.org/contact/).
 
-The SADiLaR team has been meeting with a number of stakeholders at various universities to share more information about their work, opportunities, resources and more. These presentations included a brief introduction to ESCALATOR. 
-
-#### DH Colloquia
-
-SADiLaR hosts a [monthly DH Colloquium](https://www.sadilar.org/index.php/en/2-general/261-dh-colloquium) to introduce and discuss various elements of Digital Humanities. Visit their website for more information as well as links to previous recorded talks.
-
-#### 3rd Lagos Summer School in Digital Humanities 2021
-
-Prof Menno van Zaanen was invited as plenary speaker to the virtual edition of the Lagos Summer School in Digital Humanities that took place in May. His talk titled “Digital Humanities and its Multidisciplinary Perspective: A Case Study” included references to SADiLaR and the ESCALATOR programme.
-
-### Digital Champions Initiative
-*\[<a href="#top">Back to top</a>\]*
-
-As mentioned, the Digital Champions Initiative is one of the flagship activities of ESCALATOR. We initially planned to run a single mentorship programme, but based on the [needs assessment](https://doi.org/10.5281/zenodo.4892776) and our various community members’ interests, we’ve expanded this initiative to include six different tracks. The tracks will be rolled out in a phased manner. 
-
-The first track to become available is the [EXPLORER](https://escalator.sadilar.org/champions/explorer) track, which is targeted at researchers and students who are very new to digital scholarship. The second track to launch is the [EMPOWER](https://escalator.sadilar.org/champions/empower) track to encourage women in Humanities and Social Sciences to grow their digital and computational skills by joining existing communities who specifically support women in tech. Other tracks are under development and will be announced as soon as they are available. 
-
-Read more about the Digital Champions Initiative [on our website](https://escalator.sadilar.org/champions/overview/) and [please let us know](https://escalator.sadilar.org/contact/) if you have any feedback or suggestions or would like to get involved in the design and development.
-
-### Next steps
-*\[<a href="#top">Back to top</a>\]*
-
-Over the next few months, we’ll continue to reach out to the community via meetings, presentations, discussion sessions, social media, direct contact and other means.
-
-Based on first contact meetings with various universities’ faculties, we will schedule follow-up meetings to share more information about ESCALATOR and get feedback from researchers and students.
-
-We will also continue to encourage the community’s participation on the [DHCSSza Slack](https://escalator.sadilar.org/post/connect-with-the-community/) workspace and share information via Twitter. We realise that both of these platforms are not mainstream communication platforms for South African academics and students, and we will therefore reach out to the community via other platforms as well.
-
-The website will be updated continuously including regular blog posts and further information that may be useful to the community. Most notably, we’d like to add showcases and demonstrations of South African Digital Humanities and Computational Social Sciences research projects and learning resources.
-
-In June, we’ll also officially kick off a sub-project related to the mapping of the South African Digital Humanities (DH) and Computational Social Sciences (CSS) community. We’ve made a very small start on the website already, but we’ll be expanding this by bringing on board a new team member who’ll be reaching out to universities, research councils and other organisations to learn more about their specific activities and projects related to DH and CSS.
-
-This month we'll be presenting at the [Digital Humanities Summer Institute](https://dhsi.org/dhsi-2021-online-edition/) online edition as part of the [Open/Social/Digital Humanities Pedagogy, Training, and Mentorship](https://dhsi.org/dhsi-2021-online-edition/dhsi-2021-online-edition-aligned-conferences-and-events/dhsi-2021-open-social-digital-humanities-pedagogy-training-and-mentorship/) track.
-
-Menno van Zaanen will also be talking at ["The Human in Digital Humanities" online symposium](https://escalator.sadilar.org/talk/the-human-in-digital-humanities-online-symposium-tilburg-school-of-humanities-digital-sciences/) hosted by the Tilburg School of Humanities and Digital Sciences.
-
-### Please and thank you
-*\[<a href="#top">Back to top</a>\]*
-
-We are grateful to everyone who has contributed or expressed interest to get involved with ESCALATOR. This project is about you, the community.  We look forward to connecting more with you and learning about your interests, needs, successes, and challenges. Together we will work on identifying ways to support you or help you to find support or solutions in the broader community.
-
-Please [reach out to the project team](https://escalator.sadilar.org/contact/) if you have any questions or suggestions. We welcome your feedback and input.
-
-
-
+We currently have 33 members from institutions across South Africa, including North-West University, University of the Western Cape, University of Zululand, Cape Peninsula University of Technology, UNISA, and many more.
 

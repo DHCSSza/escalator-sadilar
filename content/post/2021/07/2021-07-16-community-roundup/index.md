@@ -59,7 +59,7 @@ This month you can read about:
 
 The [Digital Humanities Association of Southern Africa](https://digitalhumanities.org.za/) (DHASA) is organising its third conference with the theme __“Digitally Human, Artificially Intelligent”__. The field of Digital Humanities is currently still rather underdeveloped in Southern Africa. Hence, this conference has several aims including:
 - providing an opportunity for researchers (specifically from Southern Africa) from the broad field of DH to  showcase their research;
-- facilitating information sharing and network building to boost collaboration; and
+- facilitating information sharing and network building to boost collaboration; and,
 - offering various affiliated workshops and tutorials where researchers can learn about novel technologies and tools.
 
 __Important dates__
@@ -74,7 +74,7 @@ More information: [https://dh2021.digitalhumanities.org.za/](https://dh2021.digi
 ### CarpentryConnect South Africa 2021
 *\[<a href="#top">Back to top</a>\]*
 
-[The Carpentries](https://carpentries.org/) teaches foundational coding and data science skills to researchers worldwide. Content is available under open licenses and includes lessons about Python, R, SQL, OpenRefine, regular expressions, and more. In South Africa, Carpentries workshops have been run at universities, research councils, and alongside academic conferences since 2014. Thousands of learners have participated in these workshops and learned valuable skills related to data handling, analysis, and visualisation.
+[The Carpentries](https://carpentries.org/) teaches foundational coding and data science skills to researchers worldwide. Content is available under open licenses and includes lessons about Python, R, SQL, OpenRefine, regular expressions, and more. In South Africa, Carpentries workshops have been run at universities, research councils, and alongside academic conferences since 2014. Thousands of learners have participated in these workshops and learned valuable skills related to data handling, analysis and visualisation.
 
 CarpentryConnect events offer an opportunity for local communities to network and learn together. The [first South African CarpentryConnect](http://carpentryconnectza.org/) took place in 2018. 
 
@@ -90,7 +90,7 @@ In June, ESCALATOR was represented by Prof Menno van Zaanen at an online symposi
 ### Apply now for NIHSS SABTT BRICS Research and Teaching Mobility Grants
 *\[<a href="#top">Back to top</a>\]*
 
-The National Institute for the Humanities and the Social Sciences (NIHSS) and the South African BRICS Think Tank (SABTT) published a call for funding for the  [__2021/22 BRICS Research and Teaching Mobility Grants__](https://www.nihss.ac.za/content/latest/call-funding-202122-digital-brics-research-and-teaching-mobility-grant-humanities-and). The objective of the digital BRICS research and teaching initiative is to provide a platform for researchers and academics to exchange ideas and to generate evidence-based policy recommendations, with the integration of digital and/or hybrid tools, techniques, and platforms into research methodology. Priority will be accorded to the following BRICS thematic areas. For full detail [please visit the NIHSS website](https://www.nihss.ac.za/content/latest/call-funding-202122-digital-brics-research-and-teaching-mobility-grant-humanities-and).
+The National Institute for the Humanities and the Social Sciences (NIHSS) and the South African BRICS Think Tank (SABTT) published a call for funding for the  [__2021/22 BRICS Research and Teaching Mobility Grants__](https://www.nihss.ac.za/content/latest/call-funding-202122-digital-brics-research-and-teaching-mobility-grant-humanities-and). The objective of the digital BRICS research and teaching initiative is to provide a platform for researchers and academics to exchange ideas and to generate evidence-based policy recommendations, with the integration of digital and/or hybrid tools, techniques and platforms into research methodology. Priority will be accorded to the following BRICS thematic areas. For full detail [please visit the NIHSS website](https://www.nihss.ac.za/content/latest/call-funding-202122-digital-brics-research-and-teaching-mobility-grant-humanities-and).
 
 __Call for Funding Submission Deadline: 13 August 2021__
 
@@ -98,7 +98,7 @@ __Call for Funding Submission Deadline: 13 August 2021__
 ###  Methods Bites - A blog for Computational Social Science techniques
 *\[<a href="#top">Back to top</a>\]*
 
-> The Social Science Data Lab is an event series at the Mannheim Centre for European Social Research (MZES). It offers a platform for young scholars to present and discuss cutting-edge methods for the collection, management, analysis, and visualization of data in the social sciences.
+> The Social Science Data Lab is an event series at the Mannheim Centre for European Social Research (MZES). It offers a platform for young scholars to present and discuss cutting-edge methods for the collection, management, analysis and visualization of data in the social sciences.
 
 Methods Bites is the MZES Data and Methods Unit's effort to create a systematic and lasting infrastructure that provides accessible and applied illustrations of the materials covered at their events. Their expanding collection of blog posts makes these materials available to a broader audience and provides a forum for peer discussions and mutual learning. Follow the blog at https://www.mzes.uni-mannheim.de/socialsciencedatalab/.
 
@@ -112,7 +112,7 @@ Recent posts cover the following topics:
 ### The challenges and prospects of the intersection of humanities and data science
 *\[<a href="#top">Back to top</a>\]*
 
-The [Humanities and Data Science Special Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) based at [The Alan Turing Institute](https://www.turing.ac.uk/) recently produced a white paper titled [_The challenges and prospects of the intersection of humanities and data science_](https://www.turing.ac.uk/research/publications/challenges-and-prospects-intersection-humanities-and-data-science4).  The paper offers recommendations for funders, academic institutions, and researchers to support research in this area. It also highlights a series of recommendations for how these two communities can more easily and better work together to realise the full potential of interdisciplinary work. 
+The [Humanities and Data Science Special Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) based at [The Alan Turing Institute](https://www.turing.ac.uk/) recently produced a white paper titled [_The challenges and prospects of the intersection of humanities and data science_](https://www.turing.ac.uk/research/publications/challenges-and-prospects-intersection-humanities-and-data-science4).  The paper offers recommendations for funders, academic institutions and researchers to support research in this area. It also highlights a series of recommendations for how these two communities can more easily and better work together to realise the full potential of interdisciplinary work. 
 
 
 ### Nature Special Edition - Computational Social Science
@@ -125,7 +125,7 @@ Access the special edition at https://www.nature.com/collections/cadaddgige
 ### SICSS Festival
 *\[<a href="#top">Back to top</a>\]*
 
-In June 2021 the Summer Institutes in Computational Social Science (SICSS) hosted a series of online events including tutorials, panel discussions, and debates. The goals of the [SICSS Festival](https://sicss.io/festival) are to provide new learning opportunities for people interested in computational social science, to provide a venue for community building across SICSS partner locations, and to provide an opportunity for SICSS alumni to share their expertise.
+In June 2021, the Summer Institutes in Computational Social Science (SICSS) hosted a series of online events including tutorials, panel discussions and debates. The goals of the [SICSS Festival](https://sicss.io/festival) are to provide new learning opportunities for people interested in computational social science, to provide a venue for community building across SICSS partner locations, and to provide an opportunity for SICSS alumni to share their expertise.
 
 Access the full programme along with recordings at https://sicss.io/festival. 
 

@@ -77,7 +77,7 @@ Please register __[online](https://www.eventbrite.com/e/finding-your-place-as-wo
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
     <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">Growing tech skills as part of a community</a></td>
-    <td class="tg-0pky"><a href="https://angeliquevanrensburg.com/" target="_blank" rel="noopener noreferrer">Dr Angelique Trusler</a></td>
+    <td class="tg-0pky">Dr Angelique Trusler</td>
     <td class="tg-0pky"><a href="https://carpentries.org/" target="_blank" rel="noopener noreferrer">The Carpentries</a></td>
     <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/dr-c-hermann/" target="_blank" rel="noopener noreferrer">Dr Caroll Hermann</a></td>
     <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/" target="_blank" rel="noopener noreferrer">Faculty of Arts, University of Zululand</a></td>

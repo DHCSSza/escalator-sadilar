@@ -16,7 +16,7 @@ date: “2021-07-29T00:00:00Z”;
 
 # Date updated
 
-lastmod: &quot;2021-07-29T00:00:00Z&quot;
+lastmod: "2021-07-29T00:00:00Z"
 
 # Is this an unpublished draft?
 

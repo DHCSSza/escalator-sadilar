@@ -11,8 +11,8 @@ role: "Law PhD Researcher: SPS measures"
 user_groups: ["Contributors & Collaborators"]
 
 # Organizations/Affiliations to show in About widget
-organisation_name: TBC
-organisation_url: TBC
+organisation_name: North-West University
+organisation_url: https://za.linkedin.com/in/biandri-joubert-8270763b
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

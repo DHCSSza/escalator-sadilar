@@ -3,7 +3,7 @@ title: The first R/Python study group meetup
 
 subtitle:
 
-# authors: [“benito_trollip”, "biandri_joubert"]
+authors: [“benito_trollip”, "biandri_joubert"]
 
 # Summary for listings and search engines
 summary: This July we had our first informal study groups for folks from Humanities or Social Sciences who want to learn Python or R or want to enhance their skills. Read more and join us!

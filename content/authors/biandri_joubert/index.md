@@ -6,7 +6,7 @@ title: Biandri Joubert
 superuser: false
 
 # Role/position/tagline
-role: "Law PhD Researhcer: SPS measures"
+role: "Law PhD Researcher: SPS measures"
 
 user_groups: ["Contributors & Collaborators"]
 

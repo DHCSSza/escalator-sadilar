@@ -1,5 +1,5 @@
 ---
-title: The first R/Python study group meetup
+title: "The first R/Python study group meetup"
 
 subtitle:
 
@@ -12,7 +12,7 @@ summary: This July we had our first informal study groups for folks from Humanit
 projects: []
 
 # Date published
-date: "2021-07-29T00:00:00Z";
+date: "2021-07-29T00:00:00Z"
 
 # Date updated
 

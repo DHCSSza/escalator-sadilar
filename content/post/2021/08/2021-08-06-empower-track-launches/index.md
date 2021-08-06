@@ -77,7 +77,7 @@ The first EMPOWER event was well attended with 34 participants representing a wi
 [Join us for the next event on 12 August](https://www.google.com/url?q=https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547&sa=D&source=editors&ust=1628166402715000&usg=AOvVaw0KAyBd2j3tqiYG1JnVqBDz) when we’ll hear more about the RLadies initiative and how researchers are using R in Humanities and Social Sciences.
 - Speaker 1: 
   - [Vebash Naidoo](https://education.rstudio.com/trainers/people/naidoo+vebashini/) (RLadies Johannesburg) 
-  - Learning in a community, 'S Wonderful 'S Marvelous
+  - __Learning in a community, 'S Wonderful 'S Marvelous__
 - Speaker 2:
   - [Dr. Ekemini Eyita-Okon](https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/) (Postdoctoral research fellow, Centre for Africa-China Studies)
-  - Data like a Girl: Building data #GirlSquad
+  - __Data like a Girl: Building data #GirlSquad__

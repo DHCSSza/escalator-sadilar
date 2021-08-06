@@ -1,8 +1,9 @@
 ---
-title: Digital Champions Initiative EMPOWER track launches
+title: "The first R/Python study group meetup"
 
 subtitle:
 
+authors: ["benito_trollip", "biandri_joubert"]
 
 # Summary for listings and search engines
 summary: This July we had our first informal study groups for folks from Humanities or Social Sciences who want to learn Python or R or want to enhance their skills. Read more and join us!
@@ -11,11 +12,11 @@ summary: This July we had our first informal study groups for folks from Humanit
 projects: []
 
 # Date published
-date: "2021-08-06T00:00:00Z"
+date: "2021-07-29T00:00:00Z"
 
 # Date updated
 
-lastmod: "2021-08-06T00:00:00Z"
+lastmod: "2021-07-29T00:00:00Z"
 
 # Is this an unpublished draft?
 
@@ -27,7 +28,7 @@ featured: true
 
 #Featured image
 image:
-  caption: networking by Iconathon, US in the <a href="https://thenounproject.com/Iconathon1/collection/redefining-women">Redefining Women Collection</a>
+  caption: Image by <a href="https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4172154">Mudassar Iqbal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4172154">Pixabay</a>
   focal_point: ""
   placement: 2
   preview_only: true
@@ -35,48 +36,25 @@ image:
 #Place an image named `featured.jpg/png` in this page&#39;s folder and customize its options here.
 
 tags:
-- women
-- EMPOWER
-- Digital storytelling
-- Digital Champions Initiative
+- Python
+- programming
+- R
 
 categories:
-- women
-- EMPOWER
-- Digital storytelling
-- Digital Champions Initiative
-
+- Python
+- R
+- programming
+- study groups
 ---
 
-> South Africa commemorates Women’s Month in August as a tribute to the more than 20 000 women who marched to the Union Buildings on 9 August 1956 in protest against the extension of Pass Laws to women. The Government of South Africa declared August Women’s Month and 9 August is celebrated annually as Women’s Day. ([https://www.gov.za/womens-month](https://www.gov.za/womens-month))
+The first study group meetup for R and Python for Social Sciences/Humanities took place on 21 July 2021. There were seven participants at the meetup, two interested in learning R and five interested in learning Python. The discussion was lively as everyone talked about what they hope to learn, irrespective of the different mastery levels between everyone. We broke off into two groups (one for R and one for Python), discussing the way forward and how everyone plans to apply the skills they hope to learn. 
 
+In the Python room, we made sure everyone was ready to start working through some tutorials, by going through the installation of Anaconda and [Jupyter Notebook](https://jupyter.org/).
 
-This year, ESCALATOR is celebrating Women’s Month by launching the [EMPOWER track](https://escalator.sadilar.org/champions/empower) of the [Digital Champions Initiative](https://escalator.sadilar.org/champions/overview). To start off, EMPOWER will offer a series of events under the title “Finding your place in an increasingly digital world as a woman in Humanities or Social Sciences”. The events are open to women affiliated with South African research and academic institutes at all career stages and with any level of digital or technical experience. 
+>The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-The series aims to show women in Humanities and Social Sciences why they need to become part of the tech conversation, use technology, how they can learn and grow, and where they can get support. We’ll specifically showcase communities that are dedicated to growing inclusivity and diversity in technology such as [WanaData](https://medium.com/wanadata-africa), [RLadies](https://rladies.org/), [The Carpentries](https://carpentries.org), and [Youthmappers](https://www.youthmappers.org/). Our speakers also include technology practitioners within diverse research fields such as education, anthropology, international relations studies, and psychology.
+In the R room, we decided to start working through [R for Data Science](https://r4ds.had.co.nz/) (R4DS) by Hadley Wickham and Garrett Grolemund. R4DS is a free online book which could also be ordered online from Amazon if people prefer a hardcopy. We aim to refer participants to materials that are freely available and under open licenses to ensure no-one is left behind.
 
-According to a report from 2018 published by the Organisation for Economic Co-operation and Development (OECD) titled “[BRIDGING THE DIGITAL GENDER DIVIDE INCLUDE, UPSKILL, INNOVATE](https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf)” (2018), women are still far less likely to use technology. In the foreword, the authors say the following:
+When the groups rejoined, everyone had positive feedback, whether it was about the help they received during the discussion or the excitement of hearing about other participants' plans. __It is really encouraging to be part of a community where one can learn, discuss and get help while not feeling any pressure to know more than you know__. There is no set learning plan or course for these study groups, so you can fall in when there's a meetup and bring your own data to work on by yourself or/and with other participants! If you're not sure where to start, we can also help you identify good tutorials or textbooks that will help grow a good R or Python foundation. Be sure to join our next meetup that is scheduled for __Wednesday, 4 August 2021 at 10:00-12:00 SAST__.
 
-> Today the digital transformation provides new avenues for the economic empowerment of women and can contribute to greater gender equality. The Internet, digital platforms, mobile phones and digital financial services offer “leapfrog” opportunities for all and can help bridge the divide by giving women the possibility to earn additional income, increase their employment opportunities, and access knowledge and general information. We need to seize this opportunity to foster greater gender equality in the labour market, boost economic growth and build a more inclusive, digital world.
-
-And building a more inclusive digital world is precisely one of the big aims of the [ESCALATOR programme](https://escalator.sadilar.org). The Digital Champions Initiative, a flagship activity of ESCALATOR, is a six-track mentorship programme to support Humanities and Social Sciences researchers in their digital and computational journeys. The six tracks are all aimed at different audiences with the EMPOWER track specifically focussing on supporting women.
-
-The EMPOWER track was launched on 5 August with presentations for the first session looking at “How Stories Breathe: A Digital Perspective”. During the event, our two speakers shared their own experience with digital storytelling. 
-
-[Adaugo Isaac](https://www.linkedin.com/in/adaugoonyebuchi/) currently leads Code for Africa’s WanaData women data science/storytelling network across seven African countries. [WanaData](https://medium.com/wanadata-africa) is a Pan-African network of female data scientists, journalists and technologists working to change the digital landscape by producing and promoting data-driven projects while applying digital technologies in storytelling. Watch Ada’s talk “Women + Data: Changing Africa’s story” [on YouTube](https://www.youtube.com/watch?v=Zf2vcungb_E) or [view her slides](https://docs.google.com/presentation/d/e/2PACX-1vSTbKvkOLX8qzWvxTWYWBpuJ8SySybAQQ8KdAY5tuEmO9xn7HTBzzoKe4bjp7_vCNCchHX419x4DR8t/pub?start=false&loop=false&delayms=3000&slide=id.g9046600c8b_0_0).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zf2vcungb_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Dr. Candice Livingston](https://sites.google.com/view/drcandicelivingston/home) is the Research coordinator on the Wellington Campus of the Faculty of Education at the Cape Peninsula University of Technology. She’s also a researcher and lecturer. Candice’s talk focussed on how they are using digital storytelling as part of the curriculum to help students connect with content and learn digital storytelling as methodology. Watch Candice’s talk “Autobiographical learning for student engagement in digital storytelling” [on YouTube](https://youtu.be/rakXAc4VF6E) or [view her slides](https://doi.org/10.5281/zenodo.5163072) on Zenodo.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rakXAc4VF6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-The first EMPOWER event was well attended with 34 participants representing a wide variety of universities including: UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT and more!
-
-[Join us for the next event on 12 August](https://www.google.com/url?q=https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547&sa=D&source=editors&ust=1628166402715000&usg=AOvVaw0KAyBd2j3tqiYG1JnVqBDz) when we’ll hear more about the RLadies initiative and how researchers are using R in Humanities and Social Sciences.
-- Speaker 1: 
-  - [Vebash Naidoo](https://education.rstudio.com/trainers/people/naidoo+vebashini/) (RLadies Johannesburg) 
-  - Learning in a community, 'S Wonderful 'S Marvelous
-- Speaker 2:
-  - [Dr. Ekemini Eyita-Okon](https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/) (Postdoctoral research fellow, Centre for Africa-China Studies)
-  - Data like a Girl: Building data #GirlSquad
+See the previous blogs about the [Python study group](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and the [R study group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/). To get involved or learn more, please join our [DHCSSza Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) and let us know that you're interested in Python and/or R, or directly join the #learning-python or #learning-r channel.

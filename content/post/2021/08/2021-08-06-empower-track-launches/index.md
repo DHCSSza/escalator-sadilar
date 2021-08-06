@@ -5,7 +5,7 @@ subtitle:
 
 
 # Summary for listings and search engines
-summary: This July we had our first informal study groups for folks from Humanities or Social Sciences who want to learn Python or R or want to enhance their skills. Read more and join us!
+summary: To coincide with Women's Month we launched the EMPOWER Digital Champions track this month.
 
 # Link this post with a project
 projects: []

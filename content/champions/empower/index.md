@@ -86,12 +86,11 @@ Please register __[online](https://www.eventbrite.com/e/finding-your-place-as-wo
     <td class="tg-f975">26 August 2021</td>
     <td class="tg-0pky">Thursday</td>
     <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">TBC</a></td>
+    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">There's a place for you in this digital world!</a></td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/laura-mugeha/" target="_blank" rel = "noopener noreferrer">Laura Mugeha</a></td>
     <td class="tg-0pky">Regional Ambassador, YouthMappers</td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/in/ingrid-brudvig-5893a334?originalSubdomain=za" target="_blank" rel = "noopener noreferrer">Dr Ingrid Brudvig</a></td>
-    <td class="tg-0pky">Independent C
-    onsultant, Digital Anthropologist</td>
+    <td class="tg-0pky">Independent Consultant, Digital Anthropologist</td>
     
   </tr>
 </tbody>
@@ -99,4 +98,10 @@ Please register __[online](https://www.eventbrite.com/e/finding-your-place-as-wo
 
 [![Poster for overall Empower Track](empower_august.png)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
 
-[![Poster for first Empower presentation](digital_stories.png)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+[![Poster for first Empower presentation](EMPOWER-session1.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+
+[![Poster for second Empower presentation](EMPOWER-session2.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+
+[![Poster for third Empower presentation](EMPOWER-session3.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+
+[![Poster for fourth Empower presentation](EMPOWER-session4.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)

@@ -74,10 +74,18 @@ The EMPOWER track was launched on 5 August with presentations for the first sess
  
 The first EMPOWER event was well attended with 34 participants representing a wide variety of universities including: UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT and more!
 
-[Join us for the next event on 12 August](https://www.google.com/url?q=https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547&sa=D&source=editors&ust=1628166402715000&usg=AOvVaw0KAyBd2j3tqiYG1JnVqBDz) when we’ll hear more about the RLadies initiative and how researchers are using R in Humanities and Social Sciences.
+The second event took place on 12 August and we were fortunate to have two wonderful speakers who introduced the RLadies initiative and how researchers in Humanities and Social Sciences can grow their digital and computational skills.
+
 - Speaker 1: 
   - [Vebash Naidoo](https://education.rstudio.com/trainers/people/naidoo+vebashini/) (RLadies Johannesburg) 
   - __Learning in a community, 'S Wonderful 'S Marvelous__
+  - Slides: [https://sciencificity.github.io/empower-talk/](https://sciencificity.github.io/empower-talk/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQtqeNMVAUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Speaker 2:
   - [Dr. Ekemini Eyita-Okon](https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/) (Postdoctoral research fellow, Centre for Africa-China Studies)
   - __Data like a Girl: Building data #GirlSquad__
+  - Slides: [https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view](https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9EPgWNKdaqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

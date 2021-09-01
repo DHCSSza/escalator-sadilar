@@ -74,17 +74,17 @@ The EMPOWER track was launched on 5 August with presentations for the first sess
  
 The second event took place on 12 August and we were fortunate to have two wonderful speakers who introduced the RLadies initiative and how researchers in Humanities and Social Sciences can grow their digital and computational skills.
 
-- Speaker 1: 
+- Speaker 1: *Learning in a community, 'S Wonderful 'S Marvelous*
   - [Vebash Naidoo](https://education.rstudio.com/trainers/people/naidoo+vebashini/) (RLadies Johannesburg) 
-  - __Learning in a community, 'S Wonderful 'S Marvelous__
-  - Slides: [https://sciencificity.github.io/empower-talk/](https://sciencificity.github.io/empower-talk/)
+  - [Recorded talk](https://www.youtube.com/embed/SQtqeNMVAUM)
+  - [Slides](https://sciencificity.github.io/empower-talk/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQtqeNMVAUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Speaker 2:
+- Speaker 2: *Data like a Girl: Building data #GirlSquad*
   - [Dr. Ekemini Eyita-Okon](https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/) (Postdoctoral research fellow, Centre for Africa-China Studies)
-  - __Data like a Girl: Building data #GirlSquad__
-  - Slides: [https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view](https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view)
+  - [Recorded talk](https://www.youtube.com/embed/9EPgWNKdaqY)
+  - [Slides](https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9EPgWNKdaqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -102,7 +102,7 @@ In the second speaking slot, Dr Ingrid Brudvig, an independent digital anthropol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRjrFPkRMck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The series were very well attended and participants contributed valuable comments and questions during and after the sessions.  Organisations that were represented included the HSRC, UP, UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT, WITS and more! We look forward to continuing the engagement with this growing community of women in Humanities and Social Sciences interested in the intersection of research and teaching and technology.
+The series was very well attended and participants contributed valuable comments and questions during and after the sessions.  Organisations that were represented include the HSRC, UP, UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT, WITS and more! We look forward to continuing the engagement with this growing community of women in Humanities and Social Sciences interested in the intersection of research and teaching and technology.
 
 
 

@@ -89,3 +89,22 @@ The second event took place on 12 August and we were fortunate to have two wonde
   - Slides: [https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view](https://drive.google.com/file/d/1qIUbJlw7B2IXnLDmBQmTexOieRBXIETk/view)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9EPgWNKdaqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On 19 August we looked at the importance of being part of a community when learning and growing digital and computational skills. [Dr Angelique Trusler](https://carpentries.org/regions_za/) specifically shared more information about the international organisation, [The Carpentries](https://carpentries.org), that teaches foundational research data science skills to researchers across the globe. We've been running Carpentries workshops in South Africa since 2013 and have built up a community of instructors and learners. Angelique's talk is available [on YouTube](https://docs.google.com/presentation/d/1gIgJ1diP2ZKYK5ibjtgx1q2K4jSJcfMiBBR7BCoqBNY/edit?usp=sharing) as well. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LnZMf9-8Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Angelique's talk was followed by [Dr Caroll Hermann](http://www.arts.unizulu.ac.za/dr-c-hermann/) from the Faculty of Arts at University of Zululand. Caroll is a member of the Carpentries community and as Psychology lecturer and researcher have been applying what she's learned through the Carpentries in her classrooms and own research.
+
+The final session took place on 26 August and this time we specifically looked at the importance of making sure woman are involved in digital transformation. Laura Mugeha, Regional Ambassador for [YouthMappers](https://www.youthmappers.org/) in Kenya, told us about the work that they do to empower women through programmes such as Everywhere She Maps and others. A recording of Laura's talk, "Bridging the digital divide: Open learning, sharing and collaborating through tech and science communities", is [available online](https://youtu.be/gAOrr930oYQ) along with [her slides](https://drive.google.com/file/d/1LgoW-QbbMQTvMfBFs7c5FCTwz5-1xAtv/view?usp=sharing).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gAOrr930oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the second speaking slot, Dr Ingrid Brudvig, an independent digital anthropology consultant, helped us explore topics such as identity and belonging through her talk titled "Towards a Feminist Digital Ethnography: Navigating Identity, Belonging and In-Betweenness at the Frontier of Online and Offline Spaces". Ingrid's [talk](https://youtu.be/BRjrFPkRMck) and [slides](https://drive.google.com/file/d/1OD67rwn96hqUA01pv2NssCg0ozJ_HwSG/view?usp=sharing) are also available online.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRjrFPkRMck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The series were very well attended and participants contributed valuable comments and questions during and after the sessions. We look forward to continuing the engagement with this growing community of women in Humanities and Social Sciences interested in the intersection of their research and teaching and technology.
+
+
+

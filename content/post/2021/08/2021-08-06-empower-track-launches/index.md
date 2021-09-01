@@ -52,9 +52,9 @@ categories:
 > South Africa commemorates Women’s Month in August as a tribute to the more than 20 000 women who marched to the Union Buildings on 9 August 1956 in protest against the extension of Pass Laws to women. The Government of South Africa declared August Women’s Month and 9 August is celebrated annually as Women’s Day. ([https://www.gov.za/womens-month](https://www.gov.za/womens-month))
 
 
-This year, ESCALATOR is celebrating Women’s Month by launching the [EMPOWER track](https://escalator.sadilar.org/champions/empower) of the [Digital Champions Initiative](https://escalator.sadilar.org/champions/overview). To start off, EMPOWER will offer a series of events under the title “Finding your place in an increasingly digital world as a woman in Humanities or Social Sciences”. The events are open to women affiliated with South African research and academic institutes at all career stages and with any level of digital or technical experience. 
+This year, ESCALATOR celebrated Women’s Month by launching the [EMPOWER track](https://escalator.sadilar.org/champions/empower) of the [Digital Champions Initiative](https://escalator.sadilar.org/champions/overview). To kick off, EMPOWER offered a series of events under the title “Finding your place in an increasingly digital world as a woman in Humanities or Social Sciences”. The events were open to women affiliated with South African research and academic institutes at all career stages and with any level of digital or technical experience. 
 
-The series aims to show women in Humanities and Social Sciences why they need to become part of the tech conversation, use technology, how they can learn and grow, and where they can get support. We’ll specifically showcase communities that are dedicated to growing inclusivity and diversity in technology such as [WanaData](https://medium.com/wanadata-africa), [RLadies](https://rladies.org/), [The Carpentries](https://carpentries.org), and [Youthmappers](https://www.youthmappers.org/). Our speakers also include technology practitioners within diverse research fields such as education, anthropology, international relations studies, and psychology.
+The series aimed to show women in Humanities and Social Sciences why they need to become part of the tech conversation, use technology, how they can learn and grow, and where they can get support. We specifically showcased communities that are dedicated to growing inclusivity and diversity in technology such as [WanaData](https://medium.com/wanadata-africa), [RLadies](https://rladies.org/), [The Carpentries](https://carpentries.org), and [Youthmappers](https://www.youthmappers.org/). Our speakers also included technology practitioners within diverse research fields such as education, anthropology, international relations studies, and psychology.
 
 According to a report from 2018 published by the Organisation for Economic Co-operation and Development (OECD) titled “[BRIDGING THE DIGITAL GENDER DIVIDE INCLUDE, UPSKILL, INNOVATE](https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf)” (2018), women are still far less likely to use technology. In the foreword, the authors say the following:
 
@@ -72,8 +72,6 @@ The EMPOWER track was launched on 5 August with presentations for the first sess
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rakXAc4VF6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-The first EMPOWER event was well attended with 34 participants representing a wide variety of universities including: UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT and more!
-
 The second event took place on 12 August and we were fortunate to have two wonderful speakers who introduced the RLadies initiative and how researchers in Humanities and Social Sciences can grow their digital and computational skills.
 
 - Speaker 1: 
@@ -104,7 +102,7 @@ In the second speaking slot, Dr Ingrid Brudvig, an independent digital anthropol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRjrFPkRMck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The series were very well attended and participants contributed valuable comments and questions during and after the sessions. We look forward to continuing the engagement with this growing community of women in Humanities and Social Sciences interested in the intersection of their research and teaching and technology.
+The series were very well attended and participants contributed valuable comments and questions during and after the sessions.  Organisations that were represented included the HSRC, UP, UCT, CPUT, SPU, UFH, UKZN, NWU, DUT, UWC, UNIZULU, UFS, TUT, WITS and more! We look forward to continuing the engagement with this growing community of women in Humanities and Social Sciences interested in the intersection of research and teaching and technology.
 
 
 

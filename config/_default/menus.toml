@@ -73,7 +73,7 @@
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Educator: Developing training materials "
+    name = "Educator: Developing Open Educational Materials "
     url = "champions/educator/"
     weight = 60
 

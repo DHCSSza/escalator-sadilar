@@ -31,9 +31,3 @@ programme:
     link: https://teachtogether.tech/
     description: "This book by Greg Wilson offers practical and very useful tips for developing better ways of teaching tech skills. The content is based on research evidence (with great links to references from education science) and years of experience in the classroom. The book is freely available online."
 ---
-### WHAT
-
-This track will connect those wanting to develop educational materials related to Digital Humanities or Computational Social Sciences in the South African context to open education communities and existing resources. There is no physical mentorship available via ESCALATOR at this stage, but we can help community members connect to various programmes listed below to get support there. The track is under development and may offer direct mentorship in the future depending on availability and interest from the growing local community.
-
-For now we would like to point you to existing communities where mentorship, training, support and/or resources are available to guide your educational resource development.
-

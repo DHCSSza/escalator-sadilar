@@ -27,12 +27,12 @@ feature:
   - icon: educate-icon
     icon_pack: custom
     name: Educator
-    description:  Master skills in developing contextualised open educational resources <br><em>* Coming soon</em>
+    description:  Master skills in developing contextualised open educational resources <br><em>* Applications now open!</em>
     link: ../educator
   - icon: empower-icon
     icon_pack: custom
     name: Empower
-    description: Join a community of women using digital and computational skills<br><em>* Launcing 5 August 2021</em> 
+    description: Join a community of women using digital and computational skills<br><em>* Launched August 2021</em> 
     link: ../empower
 
  

@@ -49,39 +49,45 @@
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Explorer: What is this about?"
+    name = "Track 1: Explorer"
     url = "champions/explorer/"
     weight = 20
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Embarker: Getting started"
+    name = "Track 2: Embarker"
     url = "champions/embarker/"
     weight = 30
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Enhancer: Growing more skilled "
+    name = "Track 3: Enhancer"
     url = "champions/enhancer/"
     weight = 40
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Enabler: Helping others"
+    name = "Track 4: Enabler"
     url = "champions/enabler/"
     weight = 50
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Educator: Developing Open Educational Materials "
+    name = "Track 5: Educator"
     url = "champions/educator/"
     weight = 60
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Empower: Women in technology "
-    url = "champions/empower/"
+    name = "Track 5: Educator - DH OER Champions "
+    url = "champions/dh-oer/"
     weight = 70
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Track 6: Empower "
+    url = "champions/empower/"
+    weight = 80
 
 
 [[main]]

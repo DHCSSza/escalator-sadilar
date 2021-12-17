@@ -5,7 +5,11 @@ subtitle: In collaboration with the NWU UNESCO Chair on Multimodal Learning and 
 headless: false
 ---
 
-<p style="color:#d11f26;">Applications now open!!</p>
+<p style="color:#d11f26;">Applications now open!!
+<br>
+Deadline: 15 February 2022
+<br>
+<em>Notification of outcomes: 1 March 2022</em></p>
 
 ### Contents
 
@@ -14,11 +18,13 @@ headless: false
 3. [What constitutes a DH OER?](#what-constitutes-a-dh-oer)
 4. [What does the programme include?](#this-12-month-programme-involves-the-following)
 5. [What can you gain from this fellowship?](#what-can-you-gain-from-this-fellowship)
-6. [Process](#process)
-7. [Application form](#application-form)
-8. [Timeline](#timeline)
-9. [Contact details](#contact-details)
-10. [Additional information](#additional-information)
+6. [Eligibility](#eligibility)
+7. [Process](#process)
+8. [Application form](#application-form)
+9. [Q&A sessions](#question-and-answer-sessions)
+10. [Timeline](#timeline)
+11. [Contact details](#contact-details)
+12. [Additional information](#additional-information)
 
 
 ### Introduction
@@ -83,6 +89,17 @@ Since digital humanities is still in its infancy in South Africa, we recognise a
 - Skills exchange with others and support to develop your online profiles
 - An opportunity to co-develop this program by sharing feedback.
 
+### Eligibility
+*\[<a href="#top">Back to top</a>\]*
+
+- Applicants can apply as individuals or in teams of up to 5 (if you want to enter a bigger team, please [get in touch](#contact-details))
+- The lead applicant and at least 50% of the project team should be affiliated with any public university in South Africa (we aim to select 1 project per university)
+- Applicants can include researchers, lecturers, postgraduate students (Masters, PhD), postdoctoral research fellows, librarians, archivists, and other university staff
+- Teams can include members affiliated with non-academic institutions such as National Libraries, NPOs, NGOs, civil tech organisations, etc. 
+- Applicants should be able to commit to attend training and scheduled meetings (we anticipate between 4 - 10 hours a month depending on the type of project submitted)
+- Projects can include participants from humanities/social sciences/computational fields/libraries/... but OER projects must have the aim to grow Digital Humanities capacity in South Africa
+- Each group member must have support from there line manager/supervisor/institution to participate in the programme to ensure they are able to commit time and attention to the activities.
+
 ### Process
 *\[<a href="#top">Back to top</a>\]*
 
@@ -100,6 +117,22 @@ If successful, a line manager will have to endorse participation in this program
 Please apply here:
 [https://forms.gle/H8GpZxz8nc7ygYkU8](https://forms.gle/H8GpZxz8nc7ygYkU8)
 
+This application form is also available in Google Doc format to facilitate collaborative proposal development. Please feel free to make a copy of the Google Doc and develop your proposal before pasting the answers into this application form.
+Google doc is available at https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing.
+
+Please note: Only applications submitted through the official application form at [https://forms.gle/H8GpZxz8nc7ygYkU8](https://forms.gle/H8GpZxz8nc7ygYkU8) will be considered. The Google doc is merely for proposal development.
+
+### Question and answer sessions
+*\[<a href="#top">Back to top</a>\]*
+
+We are hosting two open Q&A sessions to answer questions related to the programme, schedule, content, and application process. You are also welcome to join these sessions if you'd like to discuss your project idea. 
+
+**Please sign up** by completing this short form: [https://forms.gle/rHTcJtkwHMxFzceL7](https://forms.gle/rHTcJtkwHMxFzceL7).
+
+**Session dates:**
+- 25 January 2022 @ 9:00 - 10:00 am SAST
+- 8 February 2022 @ 16:00 - 17:00 pm SAST
+
 ### Timeline
 *\[<a href="#top">Back to top</a>\]*
 
@@ -107,8 +140,8 @@ Please apply here:
 |------------------------------|---------------------------------------|
 |September-November 2021       | Programme proposal and budget planning|
 |December 2021 – February 2022 | Advertisement of programme            |
-|February 2022                 | Selection process                     |
-|28 February 2022              | Feedback to applicants                |
+|15 - 28 February 2022         | Selection process                     |
+|1 March     2022              | Feedback to applicants                |
 |March 2022                    | Orientation general meeting           |
 |March – November 2022         | Short learning programme              |
 |April 2022                    | Individual meetings                   |

@@ -140,6 +140,7 @@ We are hosting two open Q&A sessions to answer questions related to the programm
 |------------------------------|---------------------------------------|
 |September-November 2021       | Programme proposal and budget planning|
 |December 2021 – February 2022 | Advertisement of programme            |
+|15 February 2022              | Applications close                    |
 |15 - 28 February 2022         | Selection process                     |
 |1 March     2022              | Feedback to applicants                |
 |March 2022                    | Orientation general meeting           |

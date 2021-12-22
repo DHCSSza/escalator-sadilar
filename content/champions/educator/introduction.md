@@ -20,7 +20,7 @@ This track aims to connect those wanting to develop educational materials relate
 
 ### Local Initiatives 
 
-[![apply now button](apply-now.png)](../dh-oer)
+[![apply now button](apply-now.png)](../dh-oer){:target="_blank"}
 
 Our flagship initiative for the Educator track is the [Digital Humanities Open Educational Resources Champions](#dh-oer-champions) initiative led by Prof Jako Olivier, NWU UNESCO Chair on Multimodal Learning and Open Educational Resources (OER).
 
@@ -31,7 +31,7 @@ Since the DH OER Champions programme will have a specific intake date and durati
 
 For a range of global initiatives, please see [the list](#other-programmes) below.
 
-If you are interested to learn more about initiatives listed here, please [let us know](../../contact)!
+If you are interested to learn more about initiatives listed here, please [let us know](../../contact){:target="_blank"}!
 
 
 

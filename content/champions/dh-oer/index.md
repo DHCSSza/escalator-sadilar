@@ -32,7 +32,7 @@ Deadline: 15 February 2022
 
 Scholars from South African universities are invited to apply to participate in the Digital Humanities Open Educational Resources (OER) Champions Initiative. This is an ideal opportunity for researchers, lecturers, and postgraduate students interested in including new online resources in their teaching or adapting their resources to their students' specific contexts to receive support and funding for creating or adapting open learning content and researching the process.
 
-This is an initiative of the South African Centre for Digital Language Resources (SADiLaR) through the [ESCALATOR Digital Champions Initiative](https://escalator.sadilar.org/){:target="_blank"} and the [NWU UNESCO Chair on Multimodal Learning and Open Educational Resources](https://education.nwu.ac.za/UNESCO-chair-OER){:target="_blank"}.
+This is an initiative of the South African Centre for Digital Language Resources (SADiLaR) through the <a href="https://escalator.sadilar.org/" target="_blank">ESCALATOR Digital Champions Initiative</a> and the <a href="https://education.nwu.ac.za/UNESCO-chair-OER" target="_blank">NWU UNESCO Chair on Multimodal Learning and Open Educational Resources</a>.
 
 
 ### Programme aim
@@ -57,11 +57,11 @@ OER are “learning, teaching and research materials in any format and medium th
 
 For other examples of OERs, please see:
 
-- [https://www.oercommons.org/](https://www.oercommons.org/){:target="_blank"}
-- [http://www.dot4d.uct.ac.za/](http://www.dot4d.uct.ac.za/){:target="_blank"}
-- [https://www.merlot.org/merlot/](https://www.merlot.org/merlot/){:target="_blank"}
+- <a href="https://www.oercommons.org/" target="_blank">https://www.oercommons.org/</a>
+- <a href="hhttp://www.dot4d.uct.ac.za/" target="_blank">http://www.dot4d.uct.ac.za/</a>
+- <a href="hhttps://www.merlot.org/merlot/" target="_blank">https://www.merlot.org/merlot/</a>
 
-You can also learn more on the ESCALATOR [Explorer Track YouTube playlist about open educational resources](https://www.youtube.com/playlist?list=PLAWb55M7X2CGnlbEBkSBtFhmde9aD7P7L){:target="_blank"}.
+You can also learn more on the ESCALATOR <a href="https://www.youtube.com/playlist?list=PLAWb55M7X2CGnlbEBkSBtFhmde9aD7P7L" target="_blank">Explorer Track YouTube playlist about open educational resources</a>.
 
 ### What constitutes a DH OER?
 *\[<a href="#top">Back to top</a>\]*
@@ -92,7 +92,7 @@ Since the field of digital humanities is still in its infancy in South Africa, w
 ### Eligibility
 *\[<a href="#top">Back to top</a>\]*
 
-- Applicants can apply as individuals or in teams of up to 5 (if you want to enter a bigger team, please [get in touch](#contact-details){:target="_blank"})
+- Applicants can apply as individuals or in teams of up to 5 (if you want to enter a bigger team, please [get in touch](#contact-details)
 - The lead applicant and at least 50% of the project team should be affiliated with any public university in South Africa (we aim to select 1 project per university)
 - Applicants can include researchers, lecturers, postgraduate students (Masters, PhD), postdoctoral research fellows, librarians, archivists, and other university staff
 - Teams can include members affiliated with non-academic institutions such as National Libraries, NPOs, NGOs, civil tech organisations, etc. 
@@ -115,19 +115,19 @@ If successful, a line manager will have to endorse participation in this program
 *\[<a href="#top">Back to top</a>\]*
 
 Please apply here:
-[https://forms.gle/H8GpZxz8nc7ygYkU8](https://forms.gle/H8GpZxz8nc7ygYkU8){:target="_blank"}
+<a href"https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a>.
 
 This application form is also available in Google Doc format to facilitate collaborative proposal development. Please feel free to copy the Google Doc and develop your proposal before pasting the answers into this application form.
-Google doc is available at [https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing](https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing){:target="_blank"}.
+Google doc is available at <a href="https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing" target="_blank">https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing</a>.
 
-Please note: Only applications submitted through the official application form at [https://forms.gle/H8GpZxz8nc7ygYkU8](https://forms.gle/H8GpZxz8nc7ygYkU8){:target="_blank"} will be considered. The Google doc is merely for proposal development.
+Please note: Only applications submitted through the official application form at <a href"https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a> will be considered. The Google doc is merely for proposal development.
 
 ### Question and answer sessions
 *\[<a href="#top">Back to top</a>\]*
 
 We are hosting two open Q&A sessions to answer questions related to the programme, schedule, content, and application process. You are also welcome to join these sessions if you'd like to discuss your project idea. 
 
-**Please sign up** by completing this short form: [https://forms.gle/rHTcJtkwHMxFzceL7](https://forms.gle/rHTcJtkwHMxFzceL7){:target="_blank"}.
+**Please sign up** by completing this short form: <a href="https://forms.gle/rHTcJtkwHMxFzceL7" target="_blank">https://forms.gle/rHTcJtkwHMxFzceL7</a>.
 
 **Session dates:**
 - 25 January 2022 @ 9:00 - 10:00 am SAST
@@ -156,12 +156,12 @@ We are hosting two open Q&A sessions to answer questions related to the programm
 ### Contact Details
 *\[<a href="#top">Back to top</a>\]*
 
-We invite you to [join our Slack](https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA){:target="_blank"} workspace and ask questions in the #champions-educator-track channel. Please read our [blog post](https://escalator.sadilar.org/post/connect-with-the-community/){:target="_blank"} for more information about the Slack workspace.
+We invite you to <a href="https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA" target="_blank">join our Slack workspace</a> and ask questions in the #champions-educator-track channel. Please read our <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">blog post</a> for more information about the Slack workspace.
 
 You can also contact the following people directly via email:
 
-- Prof Jako Olivier: [Jako.Olivier@nwu.ac.za](mailto:Jako.Olivier@nwu.ac.za){:target="_blank"}
-- Anelda van der Walt: [escalator@talarify.co.za](mailto:escalator@talarify.co.za){:target="_blank"}
+- Prof Jako Olivier: <a href="mailto:Jako.Olivier@nwu.ac.za" target="_blank">Jako.Olivier@nwu.ac.za</a>
+- Anelda van der Walt: <a href="mailto:escalator@talarify.co.za" target="_blank">escalator@talarify.co.za</a>
 
 ### Additional Information
 *\[<a href="#top">Back to top</a>\]*
@@ -183,7 +183,7 @@ The following objectives are set for this programme:
 
 #### Background and rationale
 
-This programme is based on the OER Research Fellowship for university lecturers in North America as organised by the [Open Education Group](https://openedgroup.org/fellowship){:target="_blank"}. Currently, no such fellowship exists in Africa. Their research focus is on “the impact of open educational resources on the cost of education, student success outcomes, patterns of usage of OER, and Perceptions of OER” (OEG, 2019). However, in the South African context, it is suggested that themes be determined from participants through colloquiums. This programme will be based on the highly successful NWU OER Fellowship that commenced at the NWU in 2020.
+This programme is based on the OER Research Fellowship for university lecturers in North America as organised by the <a href="https://openedgroup.org/fellowship" target="_blank">Open Education Group</a>. Currently, no such fellowship exists in Africa. Their research focus is on “the impact of open educational resources on the cost of education, student success outcomes, patterns of usage of OER, and Perceptions of OER” (OEG, 2019). However, in the South African context, it is suggested that themes be determined from participants through colloquiums. This programme will be based on the highly successful NWU OER Fellowship that commenced at the NWU in 2020.
 
 The rationale for this programme is to stimulate not only the use, adaptation and/or creation of OERs in South Africa, but also to create a network of scholars working in this area; give acknowledgement of the work already being done as well as initiate and support research in terms of OERs.
 

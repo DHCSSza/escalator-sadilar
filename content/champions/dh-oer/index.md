@@ -115,12 +115,12 @@ If successful, a line manager will have to endorse participation in this program
 *\[<a href="#top">Back to top</a>\]*
 
 Please apply here:
-<a href"https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a>.
+<a href="https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a>.
 
 This application form is also available in Google Doc format to facilitate collaborative proposal development. Please feel free to copy the Google Doc and develop your proposal before pasting the answers into this application form.
 Google doc is available at <a href="https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing" target="_blank">https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing</a>.
 
-Please note: Only applications submitted through the official application form at <a href"https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a> will be considered. The Google doc is merely for proposal development.
+Please note: Only applications submitted through the official application form at <a href="https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a> will be considered. The Google doc is merely for proposal development.
 
 ### Question and answer sessions
 *\[<a href="#top">Back to top</a>\]*
@@ -191,7 +191,7 @@ The rationale for this programme is to stimulate not only the use, adaptation an
 
 An essential element of this programme is to empower lecturers at universities to use, adapt and/or create OERs and do research in this context.
 
-#### Preliminary short course content\workshop planning
+#### Preliminary short course content/workshop planning
 
 - Introduction to openness and OER
 - Finding and evaluating OER

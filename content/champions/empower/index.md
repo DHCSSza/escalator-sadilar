@@ -10,21 +10,20 @@ headless: false
 
 ### WHAT
 
-To get this track started in 2021, we'll kick off during women's month (August) with a series of talks by women who are involved in tech communities and women who are currently using various forms of digital and computational skills in their own research and teaching. A second series will be run during March 2022 to coincide with International Womens' Day.
+To get this track started in 2021, we kicked off during women's month (August) with a series of talks by women who are involved in tech communities and women who are using various forms of digital and computational skills in their own research and teaching. A second series will be run during March 2022 to coincide with International Womens' Day.
 
-The presentations will be followed by a question and answer session where audience members will be able to speak to the presenters and other community members about the topic.
+### RECORDINGS AND PRESENTATIONS
+
+All talks were recorded and is available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
+
+Presentations and recordings can also be accessed via the blog post summarising the inaugeral EMPOWER series. [Please read more...](https://escalator.sadilar.org/post/2021/08/2021-08-06-empower-track-launches/)
+
 
 ### WHO
 
 All sessions are open to women who are currently involved in humanities or social sciences research or teaching at any of the public universities or research councils in South Africa. Social sciences and humanities undergraduates are welcome too!
 
 __No previous experience with digital scholarship or computational research required__. We welcome anyone interested to learn more!
-
-### REGISTER
-
-Registration is now open on EventBrite. All presentations can be attended online at no cost. 
-
-Please register __[online](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)__.
 
 ### SCHEDULE
 

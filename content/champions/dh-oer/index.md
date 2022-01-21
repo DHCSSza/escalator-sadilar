@@ -175,11 +175,11 @@ Furthermore, the aims of the Chair relate to UNESCO's Sustainable Development Go
 #### Key programme objectives
 
 The following objectives are set for this programme:
-    • informing champions about the practices in the use, adaptation or creation of and research on OERs for DH;
-    • supporting champions to openly publish an OER and embed that through open pedagogy;
-    • supporting the establishment of champions to promote OERs for DH at different higher education institutions;
-    • providing support towards OERs for DH research practices; and
-    • creating an opportunity for scholarly discourse around OERs for DH as well as related research.
+- informing champions about the practices in the use, adaptation or creation of and research on OERs for DH;
+- supporting champions to openly publish an OER and embed that through open pedagogy;
+- supporting the establishment of champions to promote OERs for DH at different higher education institutions;
+- providing support towards OERs for DH research practices; and
+- creating an opportunity for scholarly discourse around OERs for DH as well as related research.
 
 #### Background and rationale
 

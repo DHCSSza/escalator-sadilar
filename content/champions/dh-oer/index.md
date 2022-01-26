@@ -22,9 +22,10 @@ Deadline: 15 February 2022
 7. [Process](#process)
 8. [Application form](#application-form)
 9. [Q&A sessions](#question-and-answer-sessions)
-10. [Timeline](#timeline)
-11. [Contact details](#contact-details)
-12. [Additional information](#additional-information)
+10. [FAQs](#faqs)
+11. [Timeline](#timeline)
+12. [Contact details](#contact-details)
+13. [Additional information](#additional-information)
 
 
 ### Introduction
@@ -130,8 +131,15 @@ We are hosting two open Q&A sessions to answer questions related to the programm
 **Please sign up** by completing this short form: <a href="https://forms.gle/rHTcJtkwHMxFzceL7" target="_blank">https://forms.gle/rHTcJtkwHMxFzceL7</a>.
 
 **Session dates:**
-- 25 January 2022 @ 9:00 - 10:00 am SAST
+- ~~25 January 2022 @ 9:00 - 10:00 am SAST~~
 - 8 February 2022 @ 16:00 - 17:00 pm SAST
+
+### FAQs
+*\[<a href="#top">Back to top</a>\]*
+
+We've started to compile a list of frequently asked questions based on questions we've received from the community.
+
+Please view the [FAQs online](https://docs.google.com/document/d/1KB5XvP5uVDDmCh27Ke2gVy3bhyCl4M3A7ltGLe8RxLE/edit#).
 
 ### Timeline
 *\[<a href="#top">Back to top</a>\]*

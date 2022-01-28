@@ -73,7 +73,7 @@ Since the field of digital humanities is still in its infancy in South Africa, w
 
 ### This 12-month programme involves the following:
 *\[<a href="#top">Back to top</a>\]*
-- A grant of R20 000 for individuals or groups working on a project to develop OERs that will support the growth of DH capacity and related skills in South Africa (adaptation, text editing, and/or research expenses)
+- A grant of R20 000 per project for individuals or groups working to develop OERs that will support the growth of DH capacity and related skills in South Africa (adaptation, text editing, and/or research expenses)
 - Opportunities to attend workshops on DH OERs, open licensing, and open pedagogy
 - Discussion sessions to relate general OER sessions to the DH context
 - Support to create or adapt open educational resources such as open textbooks, online tutorials, wikibooks, or combinations of open learning objects

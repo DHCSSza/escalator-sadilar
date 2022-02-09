@@ -22,9 +22,17 @@ Researchers, students, and support staff who are already familiar with concepts 
 
 ### PRECURSOR: Python and R Study Groups
 
-While we're setting up a more formalised mentorship programme, we would like to give our community opportunities to continue learning an growing. Therefore we started a [Python](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and [R for Humanities and Social Sciences Study Group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/). Please join us there if you want to learn Python or R or if you'd like to support others in their Python/R journey.
+While we're setting up a more formalised mentorship programme, we would like to give our community opportunities to continue learning an growing. Therefore we started a [Python](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and [R for Humanities and Social Sciences Study Group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/). 
 
-Join us on the [Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) at the _#learning-python_ or _#learning-r_ channel to learn more or contribute.
+_Please join us if you want to learn Python or R, enhance your own skills, work on a specific project or if you'd like to support others in their Python/R journey._
+
+We offer a welcoming virtual space where you can learn at your own pace. We typically don't provide any instruction, but work with individuals to get to a point where you can work through online open training materials such as tutorials and textbooks at your own pace, while being supported.
+
+We meet bi-weekly on a Wednesday at 11:00 - 13:00 SAST. You're welcome to join as often as you want. No need to commit to participate in every session, join when you can!
+
+__[Registration form](https://forms.gle/EWvHp48pkVpk4i6i8)__ _(Please sign up to receive connection details and calendar invitations to upcoming meetups.)_
+
+Chat to us and meet some peers on the [Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) at the _#learning-python_ or _#learning-r_ channel
 
 
 

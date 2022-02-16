@@ -5,11 +5,9 @@ subtitle: In collaboration with the NWU UNESCO Chair on Multimodal Learning and 
 headless: false
 ---
 
-<p style="color:#d11f26;">Applications now open!!
-<br>
-Deadline: 15 February 2022
-<br>
-<em>Notification of outcomes: 1 March 2022</em></p>
+<p style="color:#d11f26;">Application deadline extended to <b>28 February 2022</b>!!
+
+<em>Notification of outcomes: 15 March 2022</em></p>
 
 ### Contents
 
@@ -132,7 +130,8 @@ We are hosting two open Q&A sessions to answer questions related to the programm
 
 **Session dates:**
 - ~~25 January 2022 @ 9:00 - 10:00 am SAST~~
-- 8 February 2022 @ 16:00 - 17:00 pm SAST
+- ~~8 February 2022 @ 16:00 - 17:00 pm SAST~~
+- 23 February 2022 @ 11:00 - 12:00 SAST
 
 ### FAQs
 *\[<a href="#top">Back to top</a>\]*
@@ -148,13 +147,13 @@ Please view the [FAQs online](https://docs.google.com/document/d/1KB5XvP5uVDDmCh
 |------------------------------|---------------------------------------|
 |September - November 2021     | Programme proposal and budget planning|
 |December 2021 - February 2022 | Advertisement of programme            |
-|15 February 2022              | Applications close                    |
-|15 - 28 February 2022         | Selection process                     |
-|1 March 2022                  | Feedback to applicants                |
-|March 2022                    | Orientation general meeting           |
-|March - November 2022         | Short learning programme              |
+|28 February 2022              | Applications close                    |
+|1 - 14 March 2022             | Selection process                     |
+|15 March 2022                 | Feedback to applicants                |
+|April/May 2022                | Orientation general meeting           |
+|April - November 2022         | Short learning programme              |
 |April 2022                    | Individual meetings                   |
-|1 May 2022                    | OER proposal submission               |
+|15 May 2022                   | OER proposal submission               |
 |June 2022                     | Feedback colloquium                   |
 |August 2022                   | Individual meetings                   |
 |November 2022                 | Final reflective colloquium           |

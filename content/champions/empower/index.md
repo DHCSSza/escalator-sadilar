@@ -8,99 +8,64 @@ headless: false
 ---
 <img src="empower-icon.svg" width="200px">
 
-### WHAT
 
-To get this track started in 2021, we kicked off during women's month (August) with a series of talks by women who are involved in tech communities and women who are using various forms of digital and computational skills in their own research and teaching. A second series will be run during March 2022 to coincide with International Womens' Day.
+<p style="color:#d11f26;">** Join us for the launch event of EMPOWER 2022 on <b>16 March 2022 @ 14:30 - 15:30</b>! <a href="https://www.eventbrite.com/e/empower-track-2022-launch-event-tickets-287975902677">Sign up here</a>.**
 
-### RECORDINGS AND PRESENTATIONS
+<em>More information about the full programme will be shared shortly.</em></p>
 
-All talks were recorded and is available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
+### HOW IT STARTED
 
-Presentations and recordings can also be accessed via the blog post summarising the inaugeral EMPOWER series. [Please read more...](https://escalator.sadilar.org/post/2021/08/2021-08-06-empower-track-launches/)
+To get this track started in 2021, we kicked off during women's month (August) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
+
+All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
+
+Presentations and recordings can also be accessed via the blog post summarising the inaugural EMPOWER series. [Please read more...](https://escalator.sadilar.org/post/2021/08/2021-08-06-empower-track-launches/)
 
 
-### WHO
+### PLANS FOR 2022
 
-All sessions are open to women who are currently involved in humanities or social sciences research or teaching at any of the public universities or research councils in South Africa. Social sciences and humanities undergraduates are welcome too!
+Thanks to the positive response from the community, we established a small [working group](../../groups/champions_empower) to lead the design, development, and implementation of the second iteration of the EMPOWER track. The team had an initial brainstorming meeting to discuss ideas and the needs identified in the community.
 
-__No previous experience with digital scholarship or computational research required__. We welcome anyone interested to learn more!
+Based on lived experiences of the working group members (as women in humanities/social sciences research environments in South Africa), the most significant need identified was described as follows:
 
-### SCHEDULE
+> There are many opportunities to learn about digital and computational skills, resources, practices and methodologies in research through open educational resources, online training opportunities, hands-on workshops, webinars and talks. A learning environment is lacking where theory is introduced, and participants get a chance to apply the newly learned skill in their work through practice, collaboration, and connection.
 
-<style type="text/css">
-.tg  {border-color:black;border-style:solid;border-width:1px;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0thz{border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0thz"><span style="font-weight:bold">Date</span></th>
-    <th class="tg-fymr">Day</th>
-    <th class="tg-fymr">Time</th>
-    <th class="tg-fymr">Topic</th>
-    <th class="tg-fymr">1st Speaker</th>
-    <th class="tg-fymr">Affiliation</th>
-    <th class="tg-fymr">2nd Speaker</th>
-    <th class="tg-fymr">Affiliation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f975">5 August 2021</td>
-    <td class="tg-0pky">Thursday</td>
-    <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">How Stories Breathe: A Digital Perspective</a></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/in/adaugoonyebuchi/" target="_blank">Adaugo Isaac</a></td>
-    <td class="tg-0pky"><a href="https://medium.com/wanadata-africa/about-us-a4c53027b716" target="_blank">WanaData</a></td>
-    <td class="tg-0pky"><a href="https://sites.google.com/view/drcandicelivingston/home" target="_blank">Dr Candice Livingston</a></td>
-    <td class="tg-0pky">Research coordinator, <a href="https://www.cput.ac.za/academic/faculties/education/" target="_blank">Faculty of Education, Cape Peninsula University of Technology</a></td>
-  </tr>
-  <tr>
-    <td class="tg-f975">12 August 2021</td>
-    <td class="tg-0pky">Thursday</td>
-    <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">R for Humanities and Social Sciences</a></td>
-    <td class="tg-0pky"><a href="https://education.rstudio.com/trainers/people/naidoo+vebashini/" target="_blank" rel="noopener noreferrer">Vebash Naidoo</a></td>
-    <td class="tg-0pky"><a href="https://rladies.org/" target="_blank" rel="noopener noreferrer">RLadies</a></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/in/ekemini-eyita-okon-10b77a76/" target="_blank" rel="noopener noreferrer">Dr. Ekemini Eyita-Okon</a></td>
-    <td class="tg-0pky">Post-Doctoral Fellow, <a href="http://www.cacs.org.za/" target="_blank" rel="noopener noreferrer">Centre for Africa-China Studies</a> (CACS)</td>
-  </tr>
-  <tr>
-    <td class="tg-f975">19 August 2021</td>
-    <td class="tg-0pky">Thursday</td>
-    <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">Growing tech skills as part of a community</a></td>
-    <td class="tg-0pky">Dr Angelique Trusler</td>
-    <td class="tg-0pky"><a href="https://carpentries.org/" target="_blank" rel="noopener noreferrer">The Carpentries</a></td>
-    <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/dr-c-hermann/" target="_blank" rel="noopener noreferrer">Dr Caroll Hermann</a></td>
-    <td class="tg-0pky"><a href="http://www.arts.unizulu.ac.za/" target="_blank" rel="noopener noreferrer">Faculty of Arts, University of Zululand</a></td>
-  </tr>
-  <tr>
-    <td class="tg-f975">26 August 2021</td>
-    <td class="tg-0pky">Thursday</td>
-    <td class="tg-0pky">10:00-11:00 SAST</td>
-    <td class="tg-0pky"><a href="https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547" target="_blank">There's a place for you in this digital world!</a></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/in/laura-mugeha/" target="_blank" rel = "noopener noreferrer">Laura Mugeha</a></td>
-    <td class="tg-0pky">Regional Ambassador, YouthMappers</td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/in/ingrid-brudvig-5893a334?originalSubdomain=za" target="_blank" rel = "noopener noreferrer">Dr Ingrid Brudvig</a></td>
-    <td class="tg-0pky">Independent Consultant, Digital Anthropologist</td>
-    
-  </tr>
-</tbody>
-</table>
+In 2022 we will roll out a series of activities over seven months that will include:
+- March: a launch event to (1) connect with the community, (2) introduce the new iteration’s objectives and structure, (3) get feedback from the community;
+- April - September (per month): one presentation on a topic (1 - 1.5 hours) followed by a collaborative, co-working and discussion session (1.5 hours) two weeks later;
+- October: a wrap-up session to get feedback from the community and discuss the next steps.
+- asynchronous discussions on the Slack workspace;
+- an optional mailing list to supplement discussions.
 
-[![Poster for overall Empower Track](empower_august.png)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+### WHAT WILL BE COVERED?
 
-[![Poster for first Empower presentation](EMPOWER-session1.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+The working group will confirm programme content in March. The content will include foundational digital and computational skills for humanities and social sciences researchers.
 
-[![Poster for second Empower presentation](EMPOWER-session2.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+### WHO SHOULD JOIN?
 
-[![Poster for third Empower presentation](EMPOWER-session3.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+All sessions are open to women currently involved in humanities or social sciences research or teaching at public universities or research councils in South Africa. Social sciences and humanities undergraduates are welcome too!
 
-[![Poster for fourth Empower presentation](EMPOWER-session4.jpg)](https://www.eventbrite.com/e/finding-your-place-as-woman-in-an-increasingly-digital-world-tickets-164179915547)
+__No previous experience with digital scholarship or computational research required__. 
+
+We welcome anyone interested to learn more!
+
+### HOW TO GET INVOLVED
+
+#### Register for launch event - 16 March 2022 @ 14:30 - 15:30
+
+To join the launch event on 16 March 2022 @ 14:30 - 15:30 SAST, please register via the [Eventbrite page](https://www.eventbrite.com/e/empower-track-2022-launch-event-tickets-287975902677).
+
+#### Follow us on Twitter
+
+You can get information about upcoming events, useful resources, and much more via our Twitter account. Follow us now on [@DHCSSza](https://twitter.com/DHCSSza).
+
+#### Join the conversation on Slack
+
+We have created a Slack workspace for the community. Slack is used in many online communities for asynchronous communication, knowledge sharing, brainstorming, general community building and networking. Please join our Slack Workspace to join the conversation, not only for the EMPOWER track, but for anything related to digital and computational skills in humanities and social sciences. We want to hear from you!
+
+[Read more and join...](https://escalator.sadilar.org/post/connect-with-the-community/)
+
+#### Stay informed via the mailing list
+
+We will create a mailing list to supplement communication via Twitter, Slack, and the website. More information will be shared shortly.
+

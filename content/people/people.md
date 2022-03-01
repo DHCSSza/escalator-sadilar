@@ -7,6 +7,7 @@ subtitle:
 content:
   user_groups:
     - "Programme management"
+    - "Working group: EMPOWER track 2022"
     - "Contributors & Collaborators" 
 
 design:

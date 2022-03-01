@@ -9,7 +9,7 @@ subtitle: "Keen to get more involved?"
 ---
 
 In the earliest phase of the ESCALATOR programme working groups will be established that are directly linked to programme deliverables. Initially these working groups will focus on:
-- [development of the champions programme](../champions)
+- developing various tracks for the champions programme e.g. the [EMPOWER track 2022](../champions_empower)
 - [monitoring and evaluation of the ESCALATOR programme](../monitor)
 - [mapping the landscape of stakeholders and training initiatives](../initiatives) for digital humanities and computational social science in South Africa.
 

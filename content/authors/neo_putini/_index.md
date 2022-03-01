@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Your name here
+title: Neo Putini
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role: Please confirm your title/role?
 
-user_groups: ["Working group: Champions Programme"]
+user_groups: ["Working group: EMPOWER track 2022"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: UKZN
+  url: https://www.linkedin.com/in/neo-putini-103b787a/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -37,15 +37,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
 - icon: github
   icon_pack: fab
   link: 
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/neo-putini-103b787a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

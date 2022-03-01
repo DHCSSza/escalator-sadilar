@@ -144,7 +144,7 @@
   [[main]]
     parent = "Working groups"
     name = "Champions programme: Empower 2022"
-    url = "groups/champions/"
+    url = "groups/champions_empower/"
     weight = 20
 
   [[main]]

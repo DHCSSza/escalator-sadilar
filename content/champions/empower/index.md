@@ -15,7 +15,7 @@ headless: false
 
 ### HOW IT STARTED
 
-We [kicked this track off during Women's Month 2021](empower2021) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
+We [kicked this track off during Women's Month 2021](2021) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
 
 All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
 

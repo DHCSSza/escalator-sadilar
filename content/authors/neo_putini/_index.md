@@ -6,7 +6,7 @@ title: Neo Putini
 superuser: false
 
 # Role/position/tagline
-role: MA candidate & Freelance Language Consultant
+role: MA Candidate & Freelance Language Consultant
 
 user_groups: ["Working group: EMPOWER track 2022"]
 

@@ -12,7 +12,7 @@ user_groups: ["Working group: EMPOWER track 2022"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: "Cape Peninsula University of Technology : Media Department"
+- name: "CPUT: Media Department"
   url: https://sites.google.com/view/sisandankoala/home
 
 # Short bio (displayed in user profile at end of posts)

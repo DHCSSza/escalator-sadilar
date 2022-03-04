@@ -16,6 +16,6 @@ Current members include:
 - [Dr Caroll Hermann](../../authors/caroll_hermann/) (UNIZULU)
 - [Marissa Griesel](../../authors/marissa_griesel/) (UNISA)
 - [Neo Putini](../../authors/neo_putini/) (UKZN)
-- [Dr Sisanda Nkoala](../../authors/sisanda_nkoala/) (CPUT)
+- [Ms Sisanda Nkoala](../../authors/sisanda_nkoala/) (CPUT)
 
 For more information about the working group, please email [escalator@talarify.co.za](mailto:escalator@talarify.co.za).

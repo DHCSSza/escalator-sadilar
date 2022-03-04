@@ -15,7 +15,7 @@ headless: false
 
 ### HOW IT STARTED
 
-We [kicked this track off during Women's Month 2021](2021) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
+We <a href="2021">kicked this track off during Women's Month 2021</a> with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
 
 All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
 
@@ -24,7 +24,7 @@ Presentations and recordings can also be accessed via the blog post summarising 
 
 ### PLANS FOR 2022
 
-Thanks to the positive response from the community, we established a small [working group](../../groups/champions_empower) to lead the design, development, and implementation of the second iteration of the EMPOWER track. The team had an initial brainstorming meeting to discuss ideas and the needs identified in the community.
+Thanks to the positive response from the community, we established a small [working group]({{< ref "/groups/champions_empower" >}})  to lead the design, development, and implementation of the second iteration of the EMPOWER track. The team had an initial brainstorming meeting to discuss ideas and the needs identified in the community.
 
 Based on lived experiences of the working group members (as women in humanities/social sciences research environments in South Africa), the most significant need identified was described as follows:
 

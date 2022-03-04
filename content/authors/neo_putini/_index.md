@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests: ["Linguistics", "Natural language processing", "African languages", "Digital humanities]
+interests: ["Linguistics", "Natural language processing", "African languages", "Digital humanities"]
 
 
 # Education to show in About widget

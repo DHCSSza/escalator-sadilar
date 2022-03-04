@@ -15,7 +15,7 @@ headless: false
 
 ### HOW IT STARTED
 
-To get this track started in 2021, we kicked off during women's month (August) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
+We [kicked this track off during Women's Month 2021](empower2021) with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
 
 All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
 
@@ -31,9 +31,9 @@ Based on lived experiences of the working group members (as women in humanities/
 > There are many opportunities to learn about digital and computational skills, resources, practices and methodologies in research through open educational resources, online training opportunities, hands-on workshops, webinars and talks. A learning environment is lacking where theory is introduced, and participants get a chance to apply the newly learned skill in their work through practice, collaboration, and connection.
 
 In 2022 we will roll out a series of activities over seven months that will include:
-- March: a launch event to (1) connect with the community, (2) introduce the new iteration’s objectives and structure, (3) get feedback from the community;
-- April - September (per month): one presentation on a topic (1 - 1.5 hours) followed by a collaborative, co-working and discussion session (1.5 hours) two weeks later;
-- October: a wrap-up session to get feedback from the community and discuss the next steps.
+- **March**: a launch event to (1) connect with the community, (2) introduce the new iteration’s objectives and structure, (3) get feedback from the community;
+- **April - September** (per month): one presentation on a topic (1 - 1.5 hours) followed by a collaborative, co-working and discussion session (1.5 hours) two weeks later - presentations will be recorded and can be watched asynchronously and co-working sessions will be optional to attend and could be replaced by discussion in the Slack workspace for example;
+- **October**: a wrap-up session to get feedback from the community and discuss the next steps;
 - asynchronous discussions on the Slack workspace;
 - an optional mailing list to supplement discussions.
 

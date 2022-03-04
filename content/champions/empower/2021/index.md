@@ -1,6 +1,6 @@
 ---
 type: page
-title: The Empower Track
+title: The Empower Track 2021
 subtitle: Join a community of women using digital and computational skills in research and beyond!
 # Homepage is headless, other widget pages are not.
 headless: false
@@ -12,6 +12,8 @@ headless: false
 
 To get this track started in 2021, we kicked off during women's month (August) with a series of talks by women who are involved in tech communities and women who are using various forms of digital and computational skills in their own research and teaching. A second series will be run during March 2022 to coincide with International Womens' Day.
 
+[Read our blogpost for more information...](https://escalator.sadilar.org/post/2021/08/2021-08-06-empower-track-launches/)
+
 ### RECORDINGS AND PRESENTATIONS
 
 All talks were recorded and is available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
@@ -21,7 +23,7 @@ Presentations and recordings can also be accessed via the blog post summarising 
 
 ### WHO
 
-All sessions are open to women who are currently involved in humanities or social sciences research or teaching at any of the public universities or research councils in South Africa. Social sciences and humanities undergraduates are welcome too!
+All sessions were open to women involved in humanities or social sciences research or teaching at any of the public universities or research councils in South Africa. Social sciences and humanities undergraduates were welcome too!
 
 __No previous experience with digital scholarship or computational research required__. We welcome anyone interested to learn more!
 

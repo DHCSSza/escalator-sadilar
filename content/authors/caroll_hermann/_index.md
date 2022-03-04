@@ -6,7 +6,7 @@ title: Dr Caroll Hermann
 superuser: false
 
 # Role/position/tagline
-role: Please confirm your title/role?
+role: Senior Lecturer - Psychology
 
 user_groups: ["Working group: EMPOWER track 2022"]
 
@@ -16,10 +16,10 @@ organizations:
   url: https://www.linkedin.com/in/caroll-dewar-hermann-69a08631/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: "https://www.linkedin.com/in/caroll-dewar-hermann-69a08631/"
 
 # Interests to show in About widget
-interests:
+interests: ["Ecopsychology", "Developmental Psychology", "Natural Language Processing", "Digital Humanities"]
 
 
 # Education to show in About widget
@@ -31,18 +31,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/neo-putini-103b787a/
+  link: https://www.linkedin.com/in/caroll-dewar-hermann-69a08631/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

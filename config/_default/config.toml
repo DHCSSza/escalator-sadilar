@@ -10,7 +10,7 @@ title = "SADiLaR - ESCALATOR"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://escalator.sadilar.org/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -22,6 +22,9 @@ fundingbody = "This project is sponsored by the Department of Science and Innova
 ############################
 ## Advanced options below ##
 ############################
+
+relativeURLs = true
+
 
 # Get last modified date for content from Git?
 enableGitInfo = false

@@ -5,7 +5,7 @@ subtitle: In collaboration with the NWU UNESCO Chair on Multimodal Learning and 
 headless: false
 ---
 
-<p style="color:#d11f26;">Application deadline extended to <b>28 February 2022</b>!!
+<p style="color:#d11f26;">Applications are now closed.
 
 <em>Notification of outcomes: 15 March 2022</em></p>
 
@@ -18,12 +18,10 @@ headless: false
 5. [What can you gain from this fellowship?](#what-can-you-gain-from-this-fellowship)
 6. [Eligibility](#eligibility)
 7. [Process](#process)
-8. [Application form](#application-form)
-9. [Q&A sessions](#question-and-answer-sessions)
-10. [FAQs](#faqs)
-11. [Timeline](#timeline)
-12. [Contact details](#contact-details)
-13. [Additional information](#additional-information)
+8. [FAQs](#faqs)
+9. [Timeline](#timeline)
+10. [Contact details](#contact-details)
+11. [Additional information](#additional-information)
 
 
 ### Introduction
@@ -106,32 +104,10 @@ Up to 26 projects will be accepted for the 2022/2023 intake. Applicants can appl
 
 Ideally, we hope to support at least one project led by a representative from the 26 South African public universities in 2022/2023.
 
-Applications will be evaluated by a panel consisting of the UNESCO Chair on Multimodal Learning and Open Educational Resources Executive Committee and representation from ESCALATOR/SADiLaR. Applicants may be invited to provide more information about their project via an online meeting. The panel's decision is final. Feedback will be provided by or on 1 March 2022.
+Applications will be evaluated by a panel consisting of the UNESCO Chair on Multimodal Learning and Open Educational Resources Executive Committee and representation from ESCALATOR/SADiLaR. Applicants may be invited to provide more information about their project via an online meeting. The panel's decision is final. Feedback will be provided by or on 15 March 2022.
 
 If successful, a line manager will have to endorse participation in this programme.
 
-### Application form
-*\[<a href="#top">Back to top</a>\]*
-
-Please apply here:
-<a href="https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a>.
-
-This application form is also available in Google Doc format to facilitate collaborative proposal development. Please feel free to copy the Google Doc and develop your proposal before pasting the answers into this application form.
-Google doc is available at <a href="https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing" target="_blank">https://docs.google.com/document/d/13PbOe0nSaRQQAyWCapJnsHZ-e3JrKSDPg8wb4krJU28/edit?usp=sharing</a>.
-
-Please note: Only applications submitted through the official application form at <a href="https://forms.gle/H8GpZxz8nc7ygYkU8" target="_blank">https://forms.gle/H8GpZxz8nc7ygYkU8</a> will be considered. The Google doc is merely for proposal development.
-
-### Question and answer sessions
-*\[<a href="#top">Back to top</a>\]*
-
-We are hosting two open Q&A sessions to answer questions related to the programme, schedule, content, and application process. You are also welcome to join these sessions if you'd like to discuss your project idea. 
-
-**Please sign up** by completing this short form: <a href="https://forms.gle/rHTcJtkwHMxFzceL7" target="_blank">https://forms.gle/rHTcJtkwHMxFzceL7</a>.
-
-**Session dates:**
-- ~~25 January 2022 @ 9:00 - 10:00 am SAST~~
-- ~~8 February 2022 @ 16:00 - 17:00 pm SAST~~
-- 23 February 2022 @ 11:00 - 12:00 SAST
 
 ### FAQs
 *\[<a href="#top">Back to top</a>\]*

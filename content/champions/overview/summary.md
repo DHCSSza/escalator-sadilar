@@ -27,13 +27,25 @@ feature:
   - icon: educate-icon
     icon_pack: custom
     name: Educator
-    description:  Master skills in developing contextualised open educational resources <br><em>* Applications now open!</em>
+    description:  Master skills in developing contextualised open educational resources <br><em>* Launched in January 2022</em>
     link: ../educator
   - icon: empower-icon
     icon_pack: custom
     name: Empower
     description: Join a community of women using digital and computational skills<br><em>* Launched August 2021</em> 
     link: ../empower
+  - icon: executive-icon
+    icon_pack: custom
+    name: Executive
+    description: Resources and information to support management with decision making, budgeting, and partnering to grow digital and computational skills in their units <br><em>* Coming soon</em>
+  - icon: exchanger-icon
+    icon_pack: custom
+    name: Exchanger
+    description:  Scholars from computational sciences can learn more about working in humanities or social sciences contexts (e.g. data, pitfalls, vocabulary, ...)<br><em>* Coming soon</em>
+  - icon: engager-icon
+    icon_pack: custom
+    name: Engager
+    description: A track for citizens and high school students to learn about digital humanities and computational social sciences<br><em>* Launcing in 2023</em> 
 
  
 ---

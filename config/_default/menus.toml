@@ -103,27 +103,33 @@
 
   [[main]]
     parent = "Resources"
+    name = "DH & CSS Stakeholder Map"
+    url = "stakeholder-map/"
+    weight = 20
+
+  [[main]]
+    parent = "Resources"
     name = "Global training resources"
     url = "global-training-resources/"
-    weight = 20
+    weight = 30
 
   [[main]]
     parent = "Resources"
     name = "Useful tools in DH & CSS"
     url = "useful-tools/"
-    weight = 30
+    weight = 40
 
   [[main]]
     parent = "Resources"
     name = "YouTube playlists"
     url = "https://www.youtube.com/channel/UCcLjjFCG2SNzZhxUJZyLcLg/playlists"
-    weight = 40
+    weight = 50
 
   [[main]]
     parent = "Resources"
     name = "Zenodo Open Documents"
     url = "https://zenodo.org/communities/escalator/?page=1&size=20"
-    weight = 50 
+    weight = 60 
 
 [[main]]
   name = "Events"
@@ -155,7 +161,7 @@
 
   [[main]]
     parent = "Working groups"
-    name = "Stakeholders & Training Initiatives"
+    name = "Stakeholder Map"
     url = "groups/initiatives/"
     weight = 40  
 

@@ -8,6 +8,7 @@ content:
   user_groups:
     - "Programme management"
     - "Working group: EMPOWER track 2022"
+    - "Working group: Stakeholder map"
     - "Contributors & Collaborators" 
 
 design:

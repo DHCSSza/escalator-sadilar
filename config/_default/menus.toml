@@ -134,7 +134,7 @@
   [[main]]
     parent = "Resources"
     name = "Information leaflets & publications"
-    url = "publications"
+    url = "publication"
     weight = 70 
 
 [[main]]

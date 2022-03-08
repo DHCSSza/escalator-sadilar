@@ -162,7 +162,7 @@
   [[main]]
     parent = "Working groups"
     name = "Stakeholder Map"
-    url = "groups/initiatives/"
+    url = "groups/stakeholder-map-wg/"
     weight = 40  
 
 [[main]]

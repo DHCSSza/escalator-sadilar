@@ -131,6 +131,12 @@
     url = "https://zenodo.org/communities/escalator/?page=1&size=20"
     weight = 60 
 
+  [[main]]
+    parent = "Resources"
+    name = "Information leaflets & publications"
+    url = "publications"
+    weight = 70 
+
 [[main]]
   name = "Events"
   url = "events/"

@@ -45,6 +45,10 @@ In Q2 2022, community members will have the opportunity to publish their data in
 
 [![afrimapr community meetup](afrimapr-community-meetup.png)](https://qkt.io/afrimapr-Apr2022)
 
+#### Official launch of the Stakeholder Map Project
+
+- **Date**: 28 April 2022 - to coincide with International Day of DH
+- **Description**: More info coming shortly
 
 #### SADiLaR DH Colloquium
 

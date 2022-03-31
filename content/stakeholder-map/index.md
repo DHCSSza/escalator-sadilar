@@ -38,9 +38,12 @@ In Q2 2022, community members will have the opportunity to publish their data in
 
 #### afrimapr community meetup
 
-- **Date**: 27 April 2022
+- **Date**: 20 April 2022
 - **Time**: 12:00 - 13:00 SAST
-- **Description**: An overview of the stakeholder map data pipeline and workflow, focusing on using R to integrate the platforms used: from data collection to data visualisation.
+- **Description**: An overview of the stakeholder map data pipeline and workflow, focusing on using R to integrate the platforms used: from data collection to data visualisation. This presentation is hosted by [afrimapr](https://afrimapr.org).
+- **Registration:** [https://qkt.io/afrimapr-Apr2022](https://qkt.io/afrimapr-Apr2022)
+
+[![afrimapr community meetup](afrimapr-community-meetup.png)](https://qkt.io/afrimapr-Apr2022)
 
 
 #### SADiLaR DH Colloquium

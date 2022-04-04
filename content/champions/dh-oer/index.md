@@ -5,9 +5,9 @@ subtitle: In collaboration with the NWU UNESCO Chair on Multimodal Learning and 
 headless: false
 ---
 
-<p style="color:#d11f26;">Applications are now closed.
+<p style="color:#d11f26;">The 2022 DH OER Champions intake include more than 80 participants from 14 South African universities!
 
-<em>Notification of outcomes: 15 March 2022</em></p>
+<em> Successful projects will be shared here shortly! Read the [press release](https://escalator.sadilar.org/post/2022/04/launch-dh-oer/).</em></p>
 
 ### Contents
 

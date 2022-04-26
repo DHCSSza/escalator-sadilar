@@ -42,6 +42,17 @@ categories:
 
 The South African Centre for Digital Language Resources (SADiLaR) is excited to announce the launch of the stakeholder map, which aims to collect and share data on Digital Humanities (DH), Computational Social Sciences (CSS) and related activities and initiatives in South Africa.
 
+<div style="width: 50%;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://youtube.com/embed/YCrDrp5BZYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+      style="position:absolute;top:0;left:50%;
+      width:100%;height:100%;">
+    </iframe>
+  </div>
+</div>
+<br>
+
+
 The launch of the [stakeholder map project](https://escalator.sadilar.org/stakeholder-map/) coincides with the [International Day of DH](https://dhcenternet.org/initiatives/day-of-dh/2022), and includes data on projects, people, publications, datasets, training courses, learning materials, tools, archives, and unclassified records. Information on these record types can now be submitted to the stakeholder map using our [online form](https://docs.google.com/forms/d/e/1FAIpQLSeQ4jwaOWP1KPaxo2Kb6DnrqspUs_68Etuh_dQO_-pgCMtpKg/viewform?usp=sf_link).
 
 The stakeholder map data can be visualised via two online interactive platforms, available through the [ESCALATOR website](../../../../stakeholder-map/).

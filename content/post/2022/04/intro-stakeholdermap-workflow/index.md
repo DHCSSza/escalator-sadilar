@@ -63,8 +63,8 @@ The overview of the data pipeline is shown in Fig 2. The basic outline is to rea
 
 - [x] Blog 1: [Understanding the lay of the land: the DHCSSza Stakeholder Map Project](../launch-stakeholder-map/)
 - [x] Blog 2: [Introducing the DHCSS Stakeholder Map workflow](.)
-- [ ] Blog 2: Setting up the authorisations needed to read from Google Sheets 
-- [ ] Blog 3: File encryption, and automation with GitHub Actions
-- [ ] Blog 4: GitHub Action for deploying a Shiny app.
+- [ ] Blog 3: Setting up the authorisations needed to read from Google Sheets 
+- [ ] Blog 4: File encryption, and automation with GitHub Actions
+- [ ] Blog 5: GitHub Action for deploying a Shiny app.
 
 For more information on the Stakeholder Map project, please visit our [visualisations](../../../../stakeholder-map/) or the [detailed description](../../../../stakeholder-map-info/).

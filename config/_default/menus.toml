@@ -100,15 +100,22 @@
 
   [[main]]
     parent = "Stakeholder Map"
-    name = "Information"
+    name = "Overview"
     url = "stakeholder-map-info/"
     weight = 20
 
   [[main]]
     parent = "Stakeholder Map"
+    name = "Add your data"
+    url = "stakeholder-map-data/"
+    weight = 30
+
+
+  [[main]]
+    parent = "Stakeholder Map"
     name = "Workflow development"
     url = "/post/2022/04/intro-stakeholdermap-workflow/"
-    weight = 30
+    weight = 40
 
 [[main]]
   name = "Resources"

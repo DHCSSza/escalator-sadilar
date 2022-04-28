@@ -9,7 +9,7 @@ title: "Would you like to..."
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLSeQ4jwaOWP1KPaxo2Kb6DnrqspUs_68Etuh_dQO_-pgCMtpKg/viewform'
+  url: '../stakeholder-map-data'
   label: Upload your data
   icon_pack: fas
   icon: clipboard-list

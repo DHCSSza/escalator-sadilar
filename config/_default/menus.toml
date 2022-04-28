@@ -38,7 +38,6 @@
 
 [[main]]
   name = "Champions Initiative"
-  url = "champions/"
   weight = 30
 
   [[main]]
@@ -89,58 +88,72 @@
     url = "champions/empower/"
     weight = 80
 
+[[main]]
+  name = "Stakeholder Map"
+  weight = 40
+
+  [[main]]
+    parent = "Stakeholder Map"
+    name = "Interactive visualisations"
+    url = "stakeholder-map/"
+    weight = 10
+
+  [[main]]
+    parent = "Stakeholder Map"
+    name = "Information"
+    url = "stakeholder-map-info/"
+    weight = 20
+
+  [[main]]
+    parent = "Stakeholder Map"
+    name = "Workflow development"
+    url = "/post/2022/04/intro-stakeholdermap-workflow/"
+    weight = 30
 
 [[main]]
   name = "Resources"
-  url = "resources/"
-  weight = 40
-
-   [[main]]
-    parent = "Resources"
-    name = "DH & CSS Stakeholder Map"
-    url = "stakeholder-map/"
-    weight = 10
+  weight = 50
 
   [[main]]
     parent = "Resources"
     name = "SA training initiatives & communities"
     url = "initiatives/"
-    weight = 20
+    weight = 10
 
    [[main]]
     parent = "Resources"
     name = "Global training resources"
     url = "global-training-resources/"
-    weight = 30
+    weight = 20
 
   [[main]]
     parent = "Resources"
     name = "Useful tools in DH & CSS"
     url = "useful-tools/"
-    weight = 40
+    weight = 30
 
   [[main]]
     parent = "Resources"
     name = "YouTube playlists"
     url = "https://www.youtube.com/channel/UCcLjjFCG2SNzZhxUJZyLcLg/playlists"
-    weight = 50
+    weight = 40
 
   [[main]]
     parent = "Resources"
     name = "Zenodo Open Documents"
     url = "https://zenodo.org/communities/escalator/?page=1&size=20"
-    weight = 60 
+    weight = 50 
 
   [[main]]
     parent = "Resources"
     name = "Information leaflets & publications"
     url = "publication"
-    weight = 70 
+    weight = 60 
 
 [[main]]
   name = "Working groups"
   url = "groups/"
-  weight = 50
+  weight = 60
 
   [[main]]
     parent = "Working groups"
@@ -162,19 +175,19 @@
 
   [[main]]
     parent = "Working groups"
-    name = "Stakeholder Map"
+    name = "DHCSS Stakeholder Map"
     url = "groups/stakeholder-map-wg/"
     weight = 40  
 
 [[main]]
   name = "Blog"
   url = "post/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Connect"
   url = "connect/"
-  weight = 70
+  weight = 80
 
 
 

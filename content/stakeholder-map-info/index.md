@@ -21,6 +21,8 @@ Research articles can be added to an [open collection in Zotero](https://www.zot
 
 The pipeline is primarily based on open-source software and platforms often used in the open science community. A series of blog posts will be published detailing the data pipeline development. Data is captured via Google Forms linked to a Google Sheet and manipulated using R scripts, available on [GitHub](https://github.com/DHCSSza/stakeholder_map/) and archived in Zenodo. Interactive visualisations include a Shiny app that will allow the community to explore data through a web interface and a Kumu network visualisation. The non-interactive data pipeline is automated using GitHub Actions. 
 
+You can learn more about the development of the workflow through our [series of blog posts](../post/2022/04/intro-stakeholdermap-workflow/). 
+
 
 #### Data visualisations
 
@@ -51,7 +53,7 @@ In Q2 2022, community members will have the opportunity to publish their data in
 #### Official launch of the Stakeholder Map Project
 
 - **Date:** 28 April 2022 - to coincide with [International Day of DH](https://dhcenternet.org/initiatives/day-of-dh/2022)
-- **Description:** [Read our blog post]() about the launch of the stakeholder map project.
+- **Description:** [Read our blog post](../post/2022/04/launch-stakeholder-map/) about the launch of the stakeholder map project.
 
 #### SADiLaR DH Colloquium
 

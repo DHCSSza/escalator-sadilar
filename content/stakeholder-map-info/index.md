@@ -5,6 +5,16 @@ title: DH & CSS Stakeholder Map Project
 headless: false
 ---
 
+<div style="width: 50%;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://youtube.com/embed/YCrDrp5BZYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+      style="position:absolute;top:0;left:50%;
+      width:100%;height:100%;">
+    </iframe>
+  </div>
+</div>
+<br>
+
 The stakeholder map project aims to collect and share data on Digital Humanities (DH), Computational Social Sciences (CSS) and related activities and initiatives in South Africa. The map includes data on projects, people, publications, datasets, training courses, learning materials, tools, archives, and unclassified records.  The aim is to provide deeper insight into the breadth of activities in this area, facilitate enhanced networking and collaboration, and support the optimal use of resources. The stakeholder map will, for example, support researchers looking for collaborators, help potential students to identify undergraduate and postgraduate training programmes, and highlight gaps and opportunities to funders and institutions.
 
 <a href="https://doi.org/10.5281/zenodo.6334088"><img src="stakeholder_map_workflow.png"></a>

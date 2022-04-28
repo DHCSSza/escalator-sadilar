@@ -95,19 +95,19 @@
   url = "resources/"
   weight = 40
 
-  [[main]]
+   [[main]]
     parent = "Resources"
-    name = "SA training initiatives & communities"
-    url = "initiatives/"
+    name = "DH & CSS Stakeholder Map"
+    url = "stakeholder-map/"
     weight = 10
 
   [[main]]
     parent = "Resources"
-    name = "DH & CSS Stakeholder Map"
-    url = "stakeholder-map/"
+    name = "SA training initiatives & communities"
+    url = "initiatives/"
     weight = 20
 
-  [[main]]
+   [[main]]
     parent = "Resources"
     name = "Global training resources"
     url = "global-training-resources/"
@@ -138,14 +138,9 @@
     weight = 70 
 
 [[main]]
-  name = "Events"
-  url = "events/"
-  weight = 50
-
-[[main]]
   name = "Working groups"
   url = "groups/"
-  weight = 60
+  weight = 50
 
   [[main]]
     parent = "Working groups"
@@ -174,7 +169,13 @@
 [[main]]
   name = "Blog"
   url = "post/"
+  weight = 60
+
+[[main]]
+  name = "Connect"
+  url = "connect/"
   weight = 70
+
 
 
 

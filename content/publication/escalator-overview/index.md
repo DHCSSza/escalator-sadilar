@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "An short flyer with more information about the ESCALATOR programme, our flagship activities, and ways to connect to the community."
+abstract: "A short flyer with more information about the ESCALATOR programme, our flagship activities, and ways to connect to the community. Please download the [full PDF](escalator-overview.pdf)."
 
 # Summary. An optional shortened abstract.
 summary: ""

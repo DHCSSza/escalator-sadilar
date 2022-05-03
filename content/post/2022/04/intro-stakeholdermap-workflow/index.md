@@ -42,7 +42,7 @@ In this series of blogs, we share the data workflow and development process used
 
 The aim of collecting the data is to provide deeper insight into the breadth of activities in South Africa. The map will facilitate enhanced networking and collaboration, and support the optimal use of resources (e.g. it could help researchers looking for collaborators or potential students wanting to identify training programmes, and it could highlight gaps and opportunities to funders and institutions, amongst others). For this project, Open Source and/or freeware tools were used as shown in Fig 1 and Table 1. These tools were chosen for various reasons (see Table 1). We also evaluated the possibility of being able to integrate them into an automated workflow. Furthermore we wanted to develop a open workflow to faciltate re-use in other domains, countries, and regions.
 
-{{< figure src="stakeholder_map_workflow.png" caption="Open Source tools used in the Stakeholder Map project (Anelda van der Walt, & Anne Treasure. (2022). ESCALATOR - Stakeholder map data workflow (v0.1). Zenodo. https://doi.org/10.5281/zenodo.6334089)." numbered="true" >}}
+{{< figure src="stakeholder_map_workflow.png" caption="Open Source tools used in the Stakeholder Map project (Anelda van der Walt, & Anne Treasure. (2022). ESCALATOR - Stakeholder map data workflow (v0.1). Zenodo. https://doi.org/10.5281/zenodo.6334089.)" numbered="true" >}}
 
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrjwHZcMoouYkxmMfxUSGjZpngaAH_524aPt0Z6Zunu5uOGy5Wa0E7opWMqGAXwDEyAMpbz_dQiHwo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}

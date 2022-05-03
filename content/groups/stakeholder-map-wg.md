@@ -10,7 +10,7 @@ subtitle: "Who is part of the community? What resources, training, and funding i
 
 One of the cornerstone activities of ESCALATOR is the DH & CSS Stakeholder Map developed to gain a better understanding of the role players and resources in the field of digital humanities and computational social sciences in South Africa. We want to learn who are offering training opportunities, what work is being done, where are the gaps in terms of the training, research, and funding, and more. With this information in hand, we will know what to focus on, how to bring people with shared interests together, where our country's strengths lie and what challenges need to be addressed. Information gathered through the project will be published openly on the ESCALATOR website via interactive web apps.
 
-For more information about the stakeholder map project, [please visit our webpage](../stakeholder-map/).
+For more information about the stakeholder map project, [please visit our webpage](../../stakeholder-map/).
 
 
 ### Working group

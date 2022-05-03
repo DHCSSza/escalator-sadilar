@@ -38,6 +38,7 @@
 
 [[main]]
   name = "Champions Initiative"
+  url = "champions/overview/"
   weight = 30
 
   [[main]]
@@ -100,7 +101,7 @@
 
   [[main]]
     parent = "Stakeholder Map"
-    name = "Overview"
+    name = "Project info"
     url = "stakeholder-map-info/"
     weight = 20
 

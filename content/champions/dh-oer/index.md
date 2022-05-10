@@ -11,17 +11,22 @@ headless: false
 
 ### Contents
 
-1. [Introduction](#introduction)
-2. [Programme aim](#programme-aim)
-3. [What constitutes a DH OER?](#what-constitutes-a-dh-oer)
-4. [What does the programme include?](#this-12-month-programme-involves-the-following)
-5. [What can you gain from this fellowship?](#what-can-you-gain-from-this-fellowship)
-6. [Eligibility](#eligibility)
-7. [Process](#process)
-8. [FAQs](#faqs)
-9. [Timeline](#timeline)
-10. [Contact details](#contact-details)
-11. [Additional information](#additional-information)
+- [Contents](#contents)
+- [Introduction](#introduction)
+- [Programme aim](#programme-aim)
+- [What constitutes a DH OER?](#what-constitutes-a-dh-oer)
+- [This 12-month programme involves the following:](#this-12-month-programme-involves-the-following)
+- [What can you gain from this fellowship?](#what-can-you-gain-from-this-fellowship)
+- [Eligibility](#eligibility)
+- [Process](#process)
+- [FAQs](#faqs)
+- [Timeline](#timeline)
+- [Contact Details](#contact-details)
+- [Additional Information](#additional-information)
+  - [Key programme objectives](#key-programme-objectives)
+  - [Background and rationale](#background-and-rationale)
+  - [Capacity building](#capacity-building)
+  - [Preliminary short course content/workshop planning](#preliminary-short-course-contentworkshop-planning)
 
 
 ### Introduction
@@ -119,22 +124,13 @@ Please view the [FAQs online](https://docs.google.com/document/d/1KB5XvP5uVDDmCh
 ### Timeline
 *\[<a href="#top">Back to top</a>\]*
 
-|Date                          | Activity                              |
-|------------------------------|---------------------------------------|
-|September - November 2021     | Programme proposal and budget planning|
-|December 2021 - February 2022 | Advertisement of programme            |
-|28 February 2022              | Applications close                    |
-|1 - 14 March 2022             | Selection process                     |
-|15 March 2022                 | Feedback to applicants                |
-|April/May 2022                | Orientation general meeting           |
-|April - November 2022         | Short learning programme              |
-|April 2022                    | Individual meetings                   |
-|15 May 2022                   | OER proposal submission               |
-|June 2022                     | Feedback colloquium                   |
-|August 2022                   | Individual meetings                   |
-|November 2022                 | Final reflective colloquium           |
-|December 2022 - June 2023     | Open publication of an OER            |
-|December 2022 - June 2023     | Submission of research publication    |
+|Descriptions                         |Date          | Time        |
+|-------------------------------------|--------------|-------------|
+|Introduction to openness and OER     | 21/04/2022   | 15:00-16:00 |
+|Introduction to DH                   | 28/04/2022   | 12:00-13:00 |
+|Finding and evaluating OER           | 04/05/2022   | 16:00-17:00 |
+|Localization of OER                  | 12/05/2022   | 16:00-17:00 |
+
 
 ### Contact Details
 *\[<a href="#top">Back to top</a>\]*

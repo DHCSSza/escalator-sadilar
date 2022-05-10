@@ -1,6 +1,6 @@
 ---
 title: "Introducing the DHCSS Stakeholder Map workflow (part 2)"
-subtitle: 
+subtitle: "Setting up the authorisations needed to read from Google Sheets"
 
 # Summary for listings and search engines
 summary: This is the third blog in a series about how to set up a data pipeline using R, GitHub Actions, Kumu, and Shiny that was developed for the SADiLaR Stakeholder Map project. 

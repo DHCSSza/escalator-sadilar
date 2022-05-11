@@ -74,8 +74,8 @@ This was first setup to work locally; then it was adapted for GitHub Actions.
 
 3. Create a service account key (Fig 4) and download the .json file (Fig 5)
 
-See [here](https://cloud.google.com/iam/docs/creating-managing-service-account-keys) for more info on service account keys
-.json file: For working on the R project locally, the downloaded .json file was moved into the R project folder. For the GitHub Actions though, this file needs to be encrypted / hidden. Find more information on this below.
+- See [here](https://cloud.google.com/iam/docs/creating-managing-service-account-keys) for more info on service account keys
+- .json file: For working on the R project locally, the downloaded .json file was moved into the R project folder. For the GitHub Actions though, this file needs to be encrypted / hidden. Find more information on this below.
 
 {{< figure src="fig3.png" caption=" Create a service account key." numbered="true" >}}
 
@@ -110,10 +110,10 @@ Below are useful links.
 
 ##### Service account tokens, non-interactive, workflows for this
 
-<https://github.com/tidyverse/googledrive/issues/327> - used this for workflow
-<https://github.com/tidyverse/googlesheets4/issues/170>
-<https://github.com/marketplace/actions/google-sheets-secrets-action> - useful bit on workflow for service account, token, etc
-Creating a data pipeline with Github Actions & the {googledrive} package for the Canadian Premier League soccer data initiative! - setting up GCP service account, etc
+- <https://github.com/tidyverse/googledrive/issues/327> - used this for workflow
+- <https://github.com/tidyverse/googlesheets4/issues/170>
+- <https://github.com/marketplace/actions/google-sheets-secrets-action> - useful bit on workflow for service account, token, etc
+- [Creating a data pipeline with Github Actions](https://www.r-bloggers.com/2021/09/creating-a-data-pipeline-with-github-actions-the-googledrive-package-for-the-canadian-premier-league-soccer-data-initiative/) & the `{googledrive}` package for the Canadian Premier League soccer data initiative! - setting up GCP service account, etc
 
 ##### Non-interactive authorisations
 

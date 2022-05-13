@@ -8,7 +8,7 @@ summary:
 # Link this post with a project
 projects: []
 
-authors: ["anne_treasure", "admin"]
+authors: ["anne_treasure", "menno_van_zaanen","admin"]
 
 # Date published
 date: "2022-05-13T00:00:00Z"

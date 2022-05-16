@@ -1,0 +1,70 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Wrapping up & Feedback"
+event: More information and registration
+event_url: https://bit.ly/empower-2022
+address:
+  street: Online
+  city:
+  region:
+  postcode:
+  country:
+summary: 
+abstract: >
+ In December, community members will be invite to share how their research lifecycles have changed since they joined the programme, what challenges they experienced, innovative solutions they came up with, who they learned with, and what they're planning next.
+
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2022-12-08T11:30:00+02:00
+date_end: 2022-12-08T13:00:00+02:00
+all_day: false
+
+# Schedule page publish date (NOT event date).
+publishDate: 2022-05-16T22:00:46+02:00
+
+authors: []
+tags: ["EMPOWER", "2022"]
+
+# Is this a featured event? (true/false)
+featured: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+# Optional filename of your slides within your event's folder or a URL.
+url_slides:
+
+url_code:
+url_pdf:
+url_video:
+
+# Markdown Slides (optional).
+#   Associate this event with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+

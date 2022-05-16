@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Our schedule for 2022
 cms_exclude: true
 
 # View.

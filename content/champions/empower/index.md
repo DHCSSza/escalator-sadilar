@@ -1,26 +1,37 @@
 ---
-type: page
+type: widget_page
 title: The Empower Track
-subtitle: Join a community of women using digital and computational skills in research and beyond!
+subtitle: Join a community of womxn using digital and computational skills in research and beyond!
 # Homepage is headless, other widget pages are not.
 headless: false
 
 ---
 <img src="empower-icon.svg" width="200px">
 
+<p style="color:#d11f26;">**Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields. <br>
+<b>First event: 19 May 2022 @ 11:30 - 13:00</b>. <a href="https://bit.ly/empower-2022">Register now!</a>**
 
-<p style="color:#d11f26;">** Join us for the launch event of EMPOWER 2022 on <b>16 March 2022 @ 14:30 - 15:30</b>! <a href="https://www.eventbrite.com/e/empower-track-2022-launch-event-tickets-287975902677">Sign up here</a>.**
+### WHO SHOULD JOIN?
 
-<em>More information about the full programme will be shared shortly.</em></p>
+All sessions are open to womxn currently involved in humanities or social sciences research or teaching at public universities or research councils in South Africa.
+
+**No previous experience with digital scholarship or computational research required**.
+
+We welcome all womxn interested to learn more!
+
+### OUR 8-STEP PLAN
+
+
 
 ### HOW IT STARTED
 
-We <a href="../empower2021">kicked this track off during Women's Month 2021</a> with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching. 
+We <a href="../empower2021"> kicked this track off during Women's Month 2021</a> with a series of talks by womxn involved in tech communities and womxn using various forms of digital and computational skills in their research and teaching.
 
 All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
 
 Presentations and recordings can also be accessed via the blog post summarising the inaugural EMPOWER series. [Please read more...](https://escalator.sadilar.org/post/2021/08/2021-08-06-empower-track-launches/)
 
+In March 2022 we hosted a community connection event where participants were invited to 
 
 ### PLANS FOR 2022
 
@@ -31,6 +42,7 @@ Based on lived experiences of the working group members (as women in humanities/
 > There are many opportunities to learn about digital and computational skills, resources, practices and methodologies in research through open educational resources, online training opportunities, hands-on workshops, webinars and talks. A learning environment is lacking where theory is introduced, and participants get a chance to apply the newly learned skill in their work through practice, collaboration, and connection.
 
 In 2022 we will roll out a series of activities over seven months that will include:
+
 - **March**: a launch event to (1) connect with the community, (2) introduce the new iteration’s objectives and structure, (3) get feedback from the community;
 - **April - September** (per month): one presentation on a topic (1 - 1.5 hours) followed by a collaborative, co-working and discussion session (1.5 hours) two weeks later - presentations will be recorded and can be watched asynchronously and co-working sessions will be optional to attend and could be replaced by discussion in the Slack workspace for example;
 - **October**: a wrap-up session to get feedback from the community and discuss the next steps;
@@ -41,13 +53,7 @@ In 2022 we will roll out a series of activities over seven months that will incl
 
 The working group will confirm programme content in March. The content will include foundational digital and computational skills for humanities and social sciences researchers.
 
-### WHO SHOULD JOIN?
 
-All sessions are open to women currently involved in humanities or social sciences research or teaching at public universities or research councils in South Africa. Social sciences and humanities undergraduates are welcome too!
-
-__No previous experience with digital scholarship or computational research required__. 
-
-We welcome anyone interested to learn more!
 
 ### HOW TO GET INVOLVED
 
@@ -68,4 +74,3 @@ We have created a Slack workspace for the community. Slack is used in many onlin
 #### Stay informed via the mailing list
 
 We will create a mailing list to supplement communication via Twitter, Slack, and the website. More information will be shared shortly.
-

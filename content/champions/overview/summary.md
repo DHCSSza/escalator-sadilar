@@ -32,7 +32,7 @@ feature:
   - icon: empower-icon
     icon_pack: custom
     name: Empower
-    description: Join a community of women using digital and computational skills<br><em>* Launched August 2021</em> 
+    description: Join a community of womxn using digital and computational skills<br><em>* Launched August 2021</em> 
     link: ../empower
   - icon: executive-icon
     icon_pack: custom
@@ -52,6 +52,9 @@ feature:
 
 The ESCALATOR Digital Champions Initiative is a multi-track mentorship and networking programme that complements our other activities. The programme is open to researchers, professional staff, and students from the [26 public universities](https://www.usaf.ac.za/public-universities-in-south-africa/) and research councils in South Africa. Each track offers a unique learning opportunity to support community members' distinct needs and motivations. Tracks differ based on the target audience, expected learning outcomes, engagement strategies, number of participants that can be accommodated, committment expected from participants, and duration.
 
-We are collaborating with, and learning from, existing mentorship programmes in the areas of Open Education, Open Science, Machine Learning, Resarch, Data Journalism, and more. To learn more about our preparation for developing the Digital Champions Initiative, please read about the [Mentorship Indaba](https://escalator.sadilar.org/post/2021/05/2021-05-03-mentorship-indaba/) which ESCALATOR hosted in April 2021.
+We are collaborating with, and learning from, existing mentorship programmes in the areas of Open Education, Open Science, Machine Learning, Resarch, Data Journalism, and more. To learn more about our preparation for developing the Digital Champions Initiative, please read about the [Mentorship Indaba](https://escalator.sadilar.org/post/2021/05/2021-05-03-mentorship-indaba/) which ESCALATOR hosted in April 2021. 
+
+**Read our peer-reviewed paper on "[Ten simple rules for establishing a mentorship programme](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010015)" now in PLOS Computational Biology.**
 
 The Digital Champions Initiative will be rolled out in a phased approach to harness the strengths of our growing community optimally. For more detail on each track, click on the links below. We will also shortly share a side-by-side comparison of the different tracks.
+

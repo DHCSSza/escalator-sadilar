@@ -15,18 +15,18 @@ feature:
     icon_pack: custom
     name: Review your existing workflows
     description: >
-      Once we've taken a step back to look at various research workflows, we'll take a moment to review our own. Which tools and methodologies do we use? What is happening in our respective research fields? What is happening across the research lifecycle in our own work? What does other people in our community do?
+      Once we've taken a step back to look at various research workflows, we'll take a moment to review our own. Which tools and methodologies do we use? What is happening in our respective research fields? What is happening across the research lifecycle in our own work? What do other people in our community do?
     link: ""
   - icon: three
     icon_pack: custom
     name: Identify & prioritise learning areas
     description: >
-      The next step is to consider what we would like to change in our research workflows? What might have the largest impact in the short term - the next few weeks or months? What do we need to learn to complete a project that you're working on? What new skill or tool could be a stepping stone to the next thing?
+      The next step is to consider what we would like to change in our research workflows? What might have the largest impact in the short term - the next few weeks or months? What do you need to learn to complete a project that you're working on? What new skill or tool could be a stepping stone to the next thing?
     link: 
   - icon: four
     icon_pack: custom
     name: Become part of a learning community
-    description: Throughout it all, we'll help to embed you in a community of womxn following  the same learning path. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool-or methodology-specific support.
+    description: Throughout it all, we'll help to embed you in a community of womxn following  the same learning path. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool- or methodology-specific support.
     link: 
   - icon: five
     icon_pack: custom
@@ -50,6 +50,6 @@ feature:
     name: Continue to learn & grow
     description: >
       We know the womxn in our community have diverse needs based on career stage, research topic, personal situation, access to infrastructure and other resources to name only a few. We also know that everyone learns at their own pace. Some may take the rest of the year to learn their new skill/tool, others may set new goals every few weeks or months. We look forward to embarking on this learning journey with you!
-    link: "https://forms.gle/b5Ebwq2p19CXhA3B7"
+    link: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: widget_page
 title: The Empower Track
-subtitle: Join a community of womxn using digital and computational skills in research and beyond!
+subtitle: Join a community of women using digital and computational skills in research and beyond!
 # Homepage is headless, other widget pages are not.
 headless: false
 
@@ -13,11 +13,11 @@ headless: false
 
 ### WHO SHOULD JOIN?
 
-All sessions are open to womxn currently involved in humanities or social sciences research or teaching at public universities or research councils in South Africa.
+All sessions are open to women currently involved in humanities or social sciences research or teaching at public universities or research councils in South Africa.
 
 **No previous experience with digital scholarship or computational research required**.
 
-We welcome all womxn interested to learn more!
+We welcome all women interested to learn more!
 
 ### OUR 8-STEP PLAN
 
@@ -25,7 +25,7 @@ We welcome all womxn interested to learn more!
 
 ### HOW IT STARTED
 
-We <a href="../empower2021"> kicked this track off during Women's Month 2021</a> with a series of talks by womxn involved in tech communities and womxn using various forms of digital and computational skills in their research and teaching.
+We <a href="../empower2021"> kicked this track off during Women's Month 2021</a> with a series of talks by women involved in tech communities and women using various forms of digital and computational skills in their research and teaching.
 
 All talks were recorded and are available on the [ESCALATOR EMPOWER YouTube playlist](https://www.youtube.com/playlist?list=PLAWb55M7X2CHsI5HWOFx9ysQrMlJHFolW).
 

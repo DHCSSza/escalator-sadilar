@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: >
- In August we'll take a closer look at various tools and methods used in the outreach phase of research.
+ In October we'll take a closer look at various tools and methods used in the outreach phase of research.
 
 
 # Talk start and end times.

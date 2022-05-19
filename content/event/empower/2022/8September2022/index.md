@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: >
- In August we'll take a closer look at various tools and methods used in the publication phase of research.
+ In September we'll take a closer look at various tools and methods used in the publication phase of research.
 
 
 # Talk start and end times.

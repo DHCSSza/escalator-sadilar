@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: >
- In August we'll take a closer look at various tools and methods used in the assessment phase of research.
+ In November we'll take a closer look at various tools and methods used in the assessment phase of research.
 
 
 # Talk start and end times.

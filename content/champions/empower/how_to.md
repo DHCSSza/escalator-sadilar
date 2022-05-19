@@ -4,7 +4,6 @@ title: "Our 8-step plan"
 headless: true  # This file represents a page section.
 weight: 30
 
-
 feature:
   - icon: one
     icon_pack: custom
@@ -26,7 +25,7 @@ feature:
   - icon: four
     icon_pack: custom
     name: Become part of a learning community
-    description: Throughout it all, we'll help to embed you in a community of womxn following  the same learning path. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool- or methodology-specific support.
+    description: Throughout it all, we'll help to embed you in a community of women following  the same learning path. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool- or methodology-specific support.
     link: 
   - icon: five
     icon_pack: custom
@@ -49,7 +48,7 @@ feature:
     icon_pack: custom
     name: Continue to learn & grow
     description: >
-      We know the womxn in our community have diverse needs based on career stage, research topic, personal situation, access to infrastructure and other resources to name only a few. We also know that everyone learns at their own pace. Some may take the rest of the year to learn their new skill/tool, others may set new goals every few weeks or months. We look forward to embarking on this learning journey with you!
+      We know the women in our community have diverse needs based on career stage, research topic, personal situation, access to infrastructure and other resources to name only a few. We also know that everyone learns at their own pace. Some may take the rest of the year to learn their new skill/tool, others may set new goals every few weeks or months. We look forward to embarking on this learning journey with you!
     link: ""
 ---
 

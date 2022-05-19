@@ -40,7 +40,7 @@ categories:
 
 We recently created the [@DHCSSza](https://twitter.com/DHCSSza) Twitter handle where we aim to broadcast opportunities and resources related to South Africans in these fields. If you are already working in the fields of DH or CSS, we'd like to share information about your projects and related opportunities with others via @DHCSSza as well.
 
-You can now also join the [DHCSSza Slack workspace](https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA). Slack is an online collaboration and networking platform that has been gaining popularity amongst academic communities globally. It allows members to participate in various conversations via different channels. We already created the following channels:
+You can now also join the [DHCSSza Slack workspace](https://join.slack.com/t/dhcssza/shared_invite/zt-197bu993q-B4ONTBX5sGPkKyHFGQgSEg). Slack is an online collaboration and networking platform that has been gaining popularity amongst academic communities globally. It allows members to participate in various conversations via different channels. We already created the following channels:
 
 - events *(information about upcoming events including training)*
 - funding-and-awards *(information about funding related to computational/digital practices in humanities and social sciences)*

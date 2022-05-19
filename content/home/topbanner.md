@@ -8,7 +8,7 @@ title: Towards an inclusive & active <br> South African community of practice <b
 # Name of image in `static/media/`.
 hero_media: 
 cta:
-  url: 'https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA'
+  url: 'https://join.slack.com/t/dhcssza/shared_invite/zt-197bu993q-B4ONTBX5sGPkKyHFGQgSEg'
   label: Join us on Slack
   icon_pack: fab
   icon: slack

@@ -158,7 +158,7 @@ Please view the [FAQs online](https://docs.google.com/document/d/1KB5XvP5uVDDmCh
 
 *\[<a href="#top">Back to top</a>\]*
 
-We invite you to <a href="https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA" target="_blank">join our Slack workspace</a> and ask questions in the #champions-educator-track channel. Please read our <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">blog post</a> for more information about the Slack workspace.
+We invite you to <a href="https://join.slack.com/t/dhcssza/shared_invite/zt-197bu993q-B4ONTBX5sGPkKyHFGQgSEg" target="_blank">join our Slack workspace</a> and ask questions in the #champions-educator-track channel. Please read our <a href="https://escalator.sadilar.org/post/connect-with-the-community/" target="_blank">blog post</a> for more information about the Slack workspace.
 
 You can also contact the following people directly via email:
 

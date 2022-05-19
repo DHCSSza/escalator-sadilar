@@ -17,7 +17,7 @@ Connect with us on Twitter to stay informed of activities in the community or sh
 #### Slack for connecting
 
 Slack is a digital platform that's gaining popularity in research communities to enable connection, collaboration, sharing, and learning. We run weekly onboarding sessions to help newcomers find their feet in our workspace. Please [sign up for an onboarding session](https://forms.gle/m8xJieMzAAoMzk3P9) if you need help with the platform or if you have any questions about the community.
-{{< cta cta_text="Join our Slack" cta_link="https://join.slack.com/t/dhcssza/shared_invite/zt-o3s8i5f7-JzA3rSdUNFMQM6BxXEnyxA" cta_new_tab="false" >}}
+{{< cta cta_text="Join our Slack" cta_link="https://join.slack.com/t/dhcssza/shared_invite/zt-197bu993q-B4ONTBX5sGPkKyHFGQgSEg" cta_new_tab="false" >}}
 
 
 #### Mailing lists for staying up to date

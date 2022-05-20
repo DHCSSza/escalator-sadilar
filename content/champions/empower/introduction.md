@@ -15,11 +15,14 @@ design:
 
 {{% callout note %}}
 Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields.
-<br>**First event: 19 May 2022 @ 11:30 - 13:00**.
+<br>**Co-working session: 26 May 2022 @ 11:30 - 13:00**.
 
 {{< cta cta_alt_text="**Register now!**" cta_alt_link="https://bit.ly/empower-2022" cta_alt_new_tab="true" >}}
 
 {{% /callout %}}
+
+{{< cta cta_text="**Watch recording from first session!**" cta_link="https://youtu.be/jH618mF66HM" cta_new_tab="true" cta_alt_text="**Access our templates**" cta_alt_link="https://doi.org/10.5281/zenodo.6563415" cta_alt_new_tab="true">}}
+
 
 ### WHO SHOULD JOIN?
 
@@ -36,5 +39,7 @@ We encourage our community to share this learning opportunity with colleagues at
 
 [Download EMPOWER flyer](empower.pdf)
 
-[Download flyer for event on 19 May 2022](19May2022.pdf)
+[Download flyer for event on 26 May 2022](26May2022.pdf)
+
+[View flyer from event on 19 May 2022](19May2022.pdf)
 

@@ -47,18 +47,18 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: 
 
-url_code:
-url_pdf:
-url_video:
+url_code: 
+url_pdf: 19May2022.pdf
+url_video: https://youtu.be/jH618mF66HM
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "https://tinyurl.com/escalatorworkflows"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -73,6 +73,15 @@ projects: []
 
 - **Bianca Kramer** *(Scholarly communication/open science librarian, Utrecht University Library)*
 - **Jeroen Bosman** *(Scholarly communications & geoscience librarian, Utrecht University Library*
-)
 
+#### Resources from event:
+
+- Slides: https://tinyurl.com/escalatorworkflows
+- Recording: https://youtu.be/jH618mF66HM
+- Templates: https://doi.org/10.5281/zenodo.6563415
+
+{{< youtube jH618mF66HM >}}
+
+#### Flyer
 [![19May2022](19May2022.png)](https://bit.ly/empower-2022)
+

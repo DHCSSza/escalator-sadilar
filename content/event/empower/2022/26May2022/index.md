@@ -50,8 +50,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: 26May2022.pdf
+url_video: https://youtu.be/jH618mF66HM
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -68,3 +68,20 @@ slides: ""
 projects: []
 ---
 
+#### Resources from previous session
+
+In preparation for this session, you are welcome to watch the recording from our first event on 19 May 2022.
+
+- Slides: <https://tinyurl.com/escalatorworkflows>
+- Recording: <https://youtu.be/jH618mF66HM>
+
+{{< youtube jH618mF66HM >}}
+
+#### Templates
+
+You can also access our templates online:
+
+- **Template 1:** A reflection template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
+- **Template 2:**  A learning path template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.656341>
+
+[![26May2022](26May2022.png)](https://bit.ly/empower-2022)

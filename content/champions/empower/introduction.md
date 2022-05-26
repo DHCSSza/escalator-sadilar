@@ -21,7 +21,9 @@ Join our 8-step programme to grow your digital/computational skills as a researc
 
 {{% /callout %}}
 
-{{< cta cta_text="**Watch recording from first session!**" cta_link="https://youtu.be/jH618mF66HM" cta_new_tab="true" cta_alt_text="**Access our templates**" cta_alt_link="https://doi.org/10.5281/zenodo.6563415" cta_alt_new_tab="true">}}
+{{< cta cta_text="**Watch recording from 1st session!**" cta_link="https://youtu.be/jH618mF66HM" cta_new_tab="true" cta_alt_text="**Access our templates**" cta_alt_link="https://doi.org/10.5281/zenodo.6563415" cta_alt_new_tab="true">}}
+
+{{< cta cta_text="**Watch recording from 2nd session!**" cta_link="https://youtu.be/rYENh7-aYU0" cta_new_tab="true" >}}
 
 
 ### WHO SHOULD JOIN?

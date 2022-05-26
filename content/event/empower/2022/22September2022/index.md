@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Co-working & discussion session"
+title: "Co-working & discussion session - 22 September"
 event: More information and registration
 event_url: https://bit.ly/empower-2022
 address:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Co-working & discussion session"
+title: "Co-working & discussion session - 24 November"
 event: More information and registration
 event_url: https://bit.ly/empower-2022
 address:
@@ -18,7 +18,7 @@ abstract: >
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-11-24T11:30:00+02:00
-date_end: 2022-10-24T13:00:00+02:00
+date_end: 2022-11-24T13:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).

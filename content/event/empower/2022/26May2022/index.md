@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Co-working & discussion session"
+title: "Co-working & discussion session - 26 May"
 event: More information and registration
 event_url: https://bit.ly/empower-2022
 address:
@@ -51,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf: 26May2022.pdf
-url_video: https://youtu.be/jH618mF66HM
+url_video: https://youtu.be/rYENh7-aYU0
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -75,13 +75,18 @@ In preparation for this session, you are welcome to watch the recording from our
 - Slides: <https://tinyurl.com/escalatorworkflows>
 - Recording: <https://youtu.be/jH618mF66HM>
 
-{{< youtube jH618mF66HM >}}
+#### Resources from this session
+
+- Slides: [link](https://docs.google.com/presentation/d/e/2PACX-1vRPIzEAYnlTRt08M0A0zJ8jC8o5U6KQjU-5nIrAc2DFU1KUgmCO1j6WlR0FXUzlKcnhFc5Yw4PKO2i7/pub?start=false&loop=false&delayms=3000)
+- Recording: <https://youtu.be/rYENh7-aYU0>
+
+{{< youtube rYENh7-aYU0 >}}
 
 #### Templates
 
 You can also access our templates online:
 
 - **Template 1:** A reflection template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
-- **Template 2:**  A learning path template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.656341>
+- **Template 2:**  A learning path template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
 
 [![26May2022](26May2022.png)](https://bit.ly/empower-2022)

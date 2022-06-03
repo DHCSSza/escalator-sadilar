@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: >
- In May 2022 we will kick off by looking at the plethora of tools that are available to researchers across the research lifecycle. The introductory presentation will feature [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com/) - a project that evaluated software and workflows used throughout the research lifecycle. Resources produced by the 101 Innovations team are available under open licences and can be re-used by community members in their learning and training. 
+ In May 2022 we kicked off by looking at the plethora of tools that are available to researchers across the research lifecycle. The introductory presentation featured [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com/) - a project that evaluated software and workflows used throughout the research lifecycle. Resources produced by the 101 Innovations team are available under open licences and can be re-used by community members in their learning and training. 
 
 
 # Talk start and end times.

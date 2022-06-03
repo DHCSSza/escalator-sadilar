@@ -15,7 +15,7 @@ design:
 
 {{% callout note %}}
 Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields.
-<br>**Co-working session: 26 May 2022 @ 11:30 - 13:00**.
+<br>**Next session: 9 June 2022 @ 11:30 - 13:00** - _Software & Practices used in the PREPARATION & DISCOVERY phase of your research project_.
 
 {{< cta cta_alt_text="**Register now!**" cta_alt_link="https://bit.ly/empower-2022" cta_alt_new_tab="true" >}}
 
@@ -33,15 +33,4 @@ All sessions are open to women currently involved in humanities or social scienc
 **No previous experience with digital scholarship or computational research required**.
 
 We welcome all women interested to learn more!
-
-### Advertise
-
-We encourage our community to share this learning opportunity with colleagues at South African research organisations. You're welcome to share the flyers below.
-
-
-[Download EMPOWER flyer](empower.pdf)
-
-[Download flyer for event on 26 May 2022](26May2022.pdf)
-
-[View flyer from event on 19 May 2022](19May2022.pdf)
 

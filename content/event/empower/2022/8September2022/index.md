@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Software & Practices for PUBLICATION"
+title: "Software & Practices for the PUBLICATION phase of your research project"
 event: More information and registration
 event_url: https://bit.ly/empower-2022
 address:

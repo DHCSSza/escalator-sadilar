@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Software & Practices for ASSESSMENT"
+title: "Software & Practices for the ASSESSMENT phase of your research project"
 event: More information and registration
 event_url: https://bit.ly/empower-2022
 address:

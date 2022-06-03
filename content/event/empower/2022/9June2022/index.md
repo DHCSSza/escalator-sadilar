@@ -50,7 +50,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: 9June2022.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -102,3 +102,7 @@ You can also access our templates online:
 
 - **Template 1:** A reflection template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
 - **Template 2:**  A learning path template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
+
+#### Flyer
+[![9June2022](9June2022.png)](https://bit.ly/empower-2022)
+

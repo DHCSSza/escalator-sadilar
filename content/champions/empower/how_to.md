@@ -25,7 +25,7 @@ feature:
   - icon: four
     icon_pack: custom
     name: Become part of a learning community
-    description: Throughout it all, we'll help to embed you in a community of women following  the same learning path. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool- or methodology-specific support. [Join us now](../../connect/).
+    description: Throughout it all, we'll help to embed you in a community of women on the same journey. Although each of us will be following a personalised learning path, learning different tools and skills, each at our own pace, we'll be learning together. We will also introduce you to other online learning communities that could provide tool- or methodology-specific support. [Join us now](../../connect/).
     link: "../connect/"
   - icon: five
     icon_pack: custom

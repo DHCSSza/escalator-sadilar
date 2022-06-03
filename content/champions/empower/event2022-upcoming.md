@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Our 2022 programme'
+title: 'Future events - 2022'
 subtitle:
 
 content:
@@ -24,7 +24,7 @@ content:
     tag: '2022'
     exclude_featured: false
     exclude_future: false
-    exclude_past: false
+    exclude_past: true
     publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0

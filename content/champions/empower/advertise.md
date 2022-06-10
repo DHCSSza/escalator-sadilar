@@ -23,7 +23,7 @@ design:
 cta_note:
   label: "We encourage our community to share this learning opportunity with colleagues at South African research organisations. You're welcome to share the flyers below. <br> [EMPOWER overview flyer](flyers/empower.pdf)<br>[Flyer from event on 19 May 2022](flyers/19May2022.pdf)<br>
   [Flyer for event on 26 May 2022](flyers/26May2022.pdf)<br>
-  [Flyer from event on 9 June 2022](flyers/9June2022.pdf)"
-
+  [Flyer from event on 9 June 2022](flyers/9June2022.pdf) <br>
+  [Flyer from event on 23 June 2022](flyers/23June2022.pdf)"
 ---
 

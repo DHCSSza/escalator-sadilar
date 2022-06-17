@@ -40,14 +40,14 @@ categories:
 
 ---
 
-This is the fourth blog in a series about how to set up a data pipeline using R, GitHub Actions, Kumu, and Shiny that was developed for the SADiLaR Stakeholder Map project. The [first blog described the launch](../04/launch-stakeholder-map/) of the Stakeholder Map project, and the [second blog provided an introduction to the data pipeline](../04/intro-stakeholdermap-workflow/) and the software used. The third blog looked at how to set up the [authorisations needed to read data from Google Sheets](../05/stakeholder_map_workflow2/). Here, we describe how to encrypt the .json file and automate the whole process using a GitHub Action.
+This is the fourth blog in a series about how to set up a data pipeline using R, GitHub Actions, Kumu, and Shiny that was developed for the SADiLaR Stakeholder Map project. The [first blog described the launch](../../04/launch-stakeholder-map/) of the Stakeholder Map project, and the [second blog provided an introduction to the data pipeline](../../04/intro-stakeholdermap-workflow/) and the software used. The third blog looked at how to set up the [authorisations needed to read data from Google Sheets](../../05/stakeholder_map_workflow2/). Here, we describe how to encrypt the .json file and automate the whole process using a GitHub Action.
 
 A recording where the data pipeline is explained is available at <https://youtu.be/dAx6CWbraA4> . The slides can be accessed using this link: <https://doi.org/10.5281/zenodo.6473091>.
 
 {{< youtube dAx6CWbraA4 >}}
 <br>
 
-As described [in the previous blog](../05/stakeholder_map_workflow2/), the data pipeline is divided into three stages: input, processing, and output (Fig 1). The processing stage can be divided into three steps: 1) data import and manipulation, including the authorisations needed to read from and write to Google Sheets, 2) the data output files used to run the visualisations, and 3) GitHub Actions that are used to automate the process. The first two steps were discussed in the previous blog. Here, we move onto the third step.
+As described [in the previous blog](../../05/stakeholder_map_workflow2/), the data pipeline is divided into three stages: input, processing, and output (Fig 1). The processing stage can be divided into three steps: 1) data import and manipulation, including the authorisations needed to read from and write to Google Sheets, 2) the data output files used to run the visualisations, and 3) GitHub Actions that are used to automate the process. The first two steps were discussed in the previous blog. Here, we move onto the third step.
 
 {{< figure src="featured.png" caption="The data pipeline overview." numbered="true" >}}
 

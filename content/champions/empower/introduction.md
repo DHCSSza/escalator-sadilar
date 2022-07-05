@@ -15,7 +15,7 @@ design:
 
 {{% callout note %}}
 Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields.
-<br>**Next session: 23 June 2022 @ 11:30 - 13:00** - _Co-working and collaboration session_.
+<br>**Next session: 7 July 2022 @ 11:30 - 13:00** - _Software & Practices used for the ANALYSIS phase of your research project_.
 
 {{< cta cta_alt_text="**Register now!**" cta_alt_link="https://bit.ly/empower-2022" cta_alt_new_tab="true" >}}
 

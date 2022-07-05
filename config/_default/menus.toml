@@ -26,9 +26,15 @@
 
 [[main]]
   parent = "About"
+  name = "Working groups"
+  url = "groups/"
+  weight = 30
+
+[[main]]
+  parent = "About"
   name = "Code of Conduct"
   url = "conduct/"
-  weight = 30
+  weight = 40
 
 [[main]]
   parent = "About"
@@ -37,9 +43,59 @@
   weight = 40
 
 [[main]]
+  name = "Regional Events"
+  url = "dh-ignite/"
+  weight = 30
+
+  [[main]]
+    parent = "Regional Events"
+    name = "Information"
+    url = "dh-ignite/"
+    weight = 10
+
+
+  [[main]]
+    parent = "Regional Events"
+    name = "29  & 20 Aug 2022 (KwaZulu Natal)"
+    url = "dh-ignite/"
+    weight = 20
+
+
+  [[main]]
+    parent = "Regional Events"
+    name = "31 Oct & 1 Nov 2022 (Northern region)"
+    url = "dh-ignite/"
+    weight = 30
+
+  [[main]]
+    parent = "Regional Events"
+    name = "21 & 22 Nov 2022 (Gauteng)"
+    url = "dh-ignite/"
+    weight = 40
+
+  [[main]]
+    parent = "Regional Events"
+    name = "20 & 21 Feb 2023 (Western Cape)"
+    url = "dh-ignite/"
+    weight = 50
+
+  [[main]]
+    parent = "Regional Events"
+    name = "17 & 18 Apr 2023 (Eastern Cape)"
+    url = "dh-ignite/"
+    weight = 60
+
+  [[main]]
+    parent = "Regional Events"
+    name = "29 & 30 May 2023 (North-western region)"
+    url = "dh-ignite/"
+    weight = 70
+
+
+[[main]]
   name = "Champions Initiative"
   url = "champions/overview/"
-  weight = 30
+  weight = 40
 
   [[main]]
     parent = "Champions Initiative"
@@ -91,7 +147,7 @@
 
 [[main]]
   name = "Stakeholder Map"
-  weight = 40
+  weight = 50
 
   [[main]]
     parent = "Stakeholder Map"
@@ -120,7 +176,7 @@
 
 [[main]]
   name = "Resources"
-  weight = 50
+  weight = 60
 
   [[main]]
     parent = "Resources"
@@ -158,44 +214,17 @@
     url = "publication"
     weight = 60 
 
-[[main]]
-  name = "Working groups"
-  url = "groups/"
-  weight = 60
 
-  [[main]]
-    parent = "Working groups"
-    name = "General information"
-    url = "groups/info/"
-    weight = 10
-
-  [[main]]
-    parent = "Working groups"
-    name = "Champions programme: Empower 2022"
-    url = "groups/champions_empower/"
-    weight = 20
-
-  [[main]]
-    parent = "Working groups"
-    name = "Monitoring & Evaluation"
-    url = "groups/monitor/"
-    weight = 30
-
-  [[main]]
-    parent = "Working groups"
-    name = "DHCSS Stakeholder Map"
-    url = "groups/stakeholder-map-wg/"
-    weight = 40  
 
 [[main]]
   name = "Blog"
   url = "post/"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Connect"
   url = "connect/"
-  weight = 80
+  weight = 90
 
 
 

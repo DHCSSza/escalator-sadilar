@@ -51,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/AEoAUiwMSTg
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -68,9 +68,14 @@ slides: ""
 projects: []
 ---
 
+#### Resources from this session
+
+- Recording: <https://youtu.be/AEoAUiwMSTg>
+- Slides: [link](https://docs.google.com/presentation/d/1wHWqP8odqIxcCLI48FDEwVmBPe7Mq8FywmnQkLG-LUQ/edit?usp=sharing)
+
+
+
 #### Resources from previous sessions 
-
-
 
 ##### 19 May 2022
 

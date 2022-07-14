@@ -55,3 +55,5 @@ DH-IGNITE will be happening in your region on the following dates:
 DH-IGNITE will also provide universities an opportunity to showcase how they support their faculties in adopting digital and computational methodologies and interdisciplinary approaches in humanities and social sciences research. The event will be offered in hybrid format to allow participants to join in person or virtually. Universities are encouraged to host relevant workshops directly before or after DH-IGNITE to bring more learning and networking opportunities to their institutions.
 
 Read more about DH-IGNITE: <https://dh-ignite.org/>
+
+![dh-ignite](dh-ignite.png)](dh-ignite.pdf)

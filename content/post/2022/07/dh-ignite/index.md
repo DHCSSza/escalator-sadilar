@@ -56,4 +56,4 @@ DH-IGNITE will also provide universities an opportunity to showcase how they sup
 
 Read more about DH-IGNITE: <https://dh-ignite.org/>
 
-![dh-ignite](dh-ignite.png)](dh-ignite.pdf)
+[![dh-ignite](dh-ignite.png)](dh-ignite.pdf)

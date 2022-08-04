@@ -50,8 +50,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: 11Aug2022.pdf
+url_video: https://youtu.be/6h0RANa86g4
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

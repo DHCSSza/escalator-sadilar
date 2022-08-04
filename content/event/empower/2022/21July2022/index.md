@@ -68,6 +68,11 @@ slides: ""
 projects: []
 ---
 
+#### Resources from this session:
+
+- Slides: [link](https://docs.google.com/presentation/d/1WGBLXCf78xTPoKdJigUB1LJuD0d2c1Ibd45IrGZW3h8/edit?usp=sharing)
+- Recording: <https://youtu.be/6h0RANa86g4>
+
 #### Resources from previous sessions 
 
 ##### 19 May 2022

@@ -25,6 +25,7 @@ cta_note:
   [Flyer for event on 26 May 2022](flyers/26May2022.pdf)<br>
   [Flyer from event on 9 June 2022](flyers/9June2022.pdf) <br>
   [Flyer from event on 23 June 2022](flyers/23June2022.pdf) <br>
-  [Flyer from event on 21 July 2022](flyers/21July2022.pdf)"
+  [Flyer from event on 21 July 2022](flyers/21July2022.pdf)<br>
+  [Flyer from event on 11 August 2022](flyers/11Aug2022.pdf)"
 ---
 

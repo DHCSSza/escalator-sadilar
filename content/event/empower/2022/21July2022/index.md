@@ -51,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf: 21July2022.pdf
-url_video:
+url_video: https://youtu.be/uUOs_d9HpLY
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -71,7 +71,7 @@ projects: []
 #### Resources from this session:
 
 - Slides: [link](https://docs.google.com/presentation/d/1WGBLXCf78xTPoKdJigUB1LJuD0d2c1Ibd45IrGZW3h8/edit?usp=sharing)
-- Recording: <https://youtu.be/6h0RANa86g4>
+- Recording: <https://youtu.be/uUOs_d9HpLY>
 
 #### Resources from previous sessions 
 

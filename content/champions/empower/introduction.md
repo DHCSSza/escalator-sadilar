@@ -29,7 +29,8 @@ Join our 8-step programme to grow your digital/computational skills as a researc
 
 {{< cta cta_text="**Watch recording from 4nd session!**" cta_link="https://youtu.be/AEoAUiwMSTg" cta_new_tab="true" >}}
 
-{{< cta cta_text="**Watch recording from 5th session!**" cta_link="https://youtu.be/6h0RANa86g4" cta_new_tab="true" >}}
+{{< cta cta_text="**Watch recording from 5th session!**" cta_link="https://youtu.be/uUOs_d9HpLY" cta_new_tab="true" >}}
+
 
 ### WHO SHOULD JOIN?
 

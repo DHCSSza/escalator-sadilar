@@ -65,25 +65,25 @@
     parent = "Regional Events"
     name = "21 & 22 Nov 2022 (Gauteng)"
     url = "https://dh-ignite.org/event/gauteng-region/"
-    weight = 40
+    weight = 30
 
   [[main]]
     parent = "Regional Events"
     name = "2023 (Western Cape)"
     url = "https://dh-ignite.org/event/westerncape-region/"
-    weight = 50
+    weight = 40
 
   [[main]]
     parent = "Regional Events"
     name = "2023 (Eastern Cape)"
     url = "https://dh-ignite.org/event/easterncape-region/"
-    weight = 60
+    weight = 50
 
   [[main]]
     parent = "Regional Events"
     name = "2023 (North-western region)"
     url = "https://dh-ignite.org/event/northwestern-region/"
-    weight = 70
+    weight = 60
 
   [[main]]
     parent = "Regional Events"

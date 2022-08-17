@@ -56,16 +56,10 @@
 
   [[main]]
     parent = "Regional Events"
-    name = "29  & 20 Aug 2022 (KwaZulu Natal)"
+    name = "18 & 19 Oct 2022 (KwaZulu Natal)"
     url = "https://dh-ignite.org/event/kzn-region/"
     weight = 20
 
-
-  [[main]]
-    parent = "Regional Events"
-    name = "31 Oct & 1 Nov 2022 (Northern region)"
-    url = "https://dh-ignite.org/event/northern-region/"
-    weight = 30
 
   [[main]]
     parent = "Regional Events"
@@ -75,21 +69,27 @@
 
   [[main]]
     parent = "Regional Events"
-    name = "20 & 21 Feb 2023 (Western Cape)"
+    name = "2023 (Western Cape)"
     url = "https://dh-ignite.org/event/westerncape-region/"
     weight = 50
 
   [[main]]
     parent = "Regional Events"
-    name = "17 & 18 Apr 2023 (Eastern Cape)"
+    name = "2023 (Eastern Cape)"
     url = "https://dh-ignite.org/event/easterncape-region/"
     weight = 60
 
   [[main]]
     parent = "Regional Events"
-    name = "29 & 30 May 2023 (North-western region)"
+    name = "2023 (North-western region)"
     url = "https://dh-ignite.org/event/northwestern-region/"
     weight = 70
+
+  [[main]]
+    parent = "Regional Events"
+    name = "2023 (Northern region)"
+    url = "https://dh-ignite.org/event/northern-region/"
+    weight = 30
 
 
 [[main]]

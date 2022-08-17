@@ -89,7 +89,7 @@
     parent = "Regional Events"
     name = "2023 (Northern region)"
     url = "https://dh-ignite.org/event/northern-region/"
-    weight = 30
+    weight = 70
 
 
 [[main]]

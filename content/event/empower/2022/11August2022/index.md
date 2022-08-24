@@ -51,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf: 11Aug2022.pdf
-url_video: 
+url_video: https://youtu.be/1WDX7ef-57c
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -68,3 +68,44 @@ slides: ""
 projects: []
 ---
 
+#### Resources from this session:
+
+- Slides:
+    - Neo Putini: [Link](https://docs.google.com/presentation/d/18bP7FyRt0uxOylcgzgbWHOPE4cC5Yczy/edit?usp=sharing&ouid=106395724383600944408&rtpof=true&sd=true)
+    - Noma Maphanga: [Link](https://docs.google.com/presentation/d/1TXopE7rr3-9ffF0NkKOIhN_JYARTGlcKfPZKSNDm29o/edit?usp=sharing)
+- Recording: <https://youtu.be/1WDX7ef-57c>
+
+
+#### Resources from previous sessions 
+
+##### 19 May 2022
+
+- Slides: <https://tinyurl.com/escalatorworkflows>
+- Recording: <https://youtu.be/jH618mF66HM>
+
+##### 26 May 2022
+
+- Slides: [link](https://docs.google.com/presentation/d/e/2PACX-1vRPIzEAYnlTRt08M0A0zJ8jC8o5U6KQjU-5nIrAc2DFU1KUgmCO1j6WlR0FXUzlKcnhFc5Yw4PKO2i7/pub?start=false&loop=false&delayms=3000)
+- Recording: <https://youtu.be/rYENh7-aYU0>
+
+##### 9 June 2022
+
+- Recording: <https://youtu.be/HeHIh-GPAIc>
+- Slides: [link](https://docs.google.com/presentation/d/1-yZlTiWprcXmAhH3K6rV1T-ajTWvHN-2rrn9hMMEd-8/edit#slide=id.g11eb8603442_0_30)
+
+##### 23 June 2022
+
+- Recording: <https://youtu.be/AEoAUiwMSTg>
+- Slides: [link](https://docs.google.com/presentation/d/1wHWqP8odqIxcCLI48FDEwVmBPe7Mq8FywmnQkLG-LUQ/edit?usp=sharing)
+
+##### 21 July 2022
+
+- Slides: [link](https://docs.google.com/presentation/d/1WGBLXCf78xTPoKdJigUB1LJuD0d2c1Ibd45IrGZW3h8/edit?usp=sharing)
+- Recording: <https://youtu.be/uUOs_d9HpLY>
+
+#### Templates
+
+You can also access our templates online:
+
+- **Template 1:** A reflection template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>
+- **Template 2:**  A learning path template to support my growth in digital/computational research - <https://doi.org/10.5281/zenodo.6563415>

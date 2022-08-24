@@ -15,21 +15,13 @@ design:
 
 {{% callout note %}}
 Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields.
-<br>**Next session: 11 August 2022 @ 11:30 - 13:00** - _Software & Practices used for the WRITING phase of your research project_.
+<br>**Next session: 25 August 2022 @ 11:30 - 13:00** - _Collaboration and co-working session_.
 
 {{< cta cta_alt_text="**Register now!**" cta_alt_link="https://bit.ly/empower-2022" cta_alt_new_tab="true" >}}
 
 {{% /callout %}}
 
-{{< cta cta_text="**Watch recording from 1st session!**" cta_link="https://youtu.be/jH618mF66HM" cta_new_tab="true" cta_alt_text="**Access our templates**" cta_alt_link="https://doi.org/10.5281/zenodo.6563415" cta_alt_new_tab="true">}}
-
-{{< cta cta_text="**Watch recording from 2nd session!**" cta_link="https://youtu.be/rYENh7-aYU0" cta_new_tab="true" >}}
-
-{{< cta cta_text="**Watch recording from 3nd session!**" cta_link="https://youtu.be/HeHIh-GPAIc" cta_new_tab="true" >}}
-
-{{< cta cta_text="**Watch recording from 4nd session!**" cta_link="https://youtu.be/AEoAUiwMSTg" cta_new_tab="true" >}}
-
-{{< cta cta_text="**Watch recording from 5th session!**" cta_link="https://youtu.be/uUOs_d9HpLY" cta_new_tab="true" >}}
+{{< cta cta_text="**Access our templates**" cta_link="https://doi.org/10.5281/zenodo.6563415" cta_alt_new_tab="true">}}
 
 
 ### WHO SHOULD JOIN?

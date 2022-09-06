@@ -50,7 +50,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: 8September2022.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -68,3 +68,4 @@ slides: ""
 projects: []
 ---
 
+{{< figure src="8September2022.png"  >}}

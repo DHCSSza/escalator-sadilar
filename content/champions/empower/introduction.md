@@ -15,7 +15,7 @@ design:
 
 {{% callout note %}}
 Join our 8-step programme to grow your digital/computational skills as a researcher or postgraduate student in humanities, social sciences, and related fields.<br>
-<br>**Next session: 8 September 2022 @ 11:30 - 13:00** - _Software & Practices for the PUBLICATION phase of your research project_ with Jo Haveman, trainer and consultant in Open Science Communication and digital Science Project Management and [AfricArXiv](https://africarxiv.pubpub.org/) co-founder.
+<br>**Next session: 29 September 2022 @ 11:30 - 13:00** - _Co-working and collaboration session_.
 
 {{< cta cta_alt_text="**Register now!**" cta_alt_link="https://bit.ly/empower-2022" cta_alt_new_tab="true" >}}
 

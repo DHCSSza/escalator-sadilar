@@ -7,7 +7,7 @@ headless: false
 
 <p style="color:#d11f26;">The 2022 DH OER Champions intake include more than 80 participants from 14 South African universities!
 
-<em> Successful projects will be shared here shortly! Read the [press release](https://escalator.sadilar.org/post/2022/04/launch-dh-oer/).</em></p>
+<em>Read the [press release](https://escalator.sadilar.org/post/2022/04/launch-dh-oer/).</em></p>
 
 ### Contents
 

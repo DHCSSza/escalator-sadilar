@@ -2,7 +2,7 @@
 widget: accordion
 title: Alternative resources for Educators
 headless: true
-weight: 30
+weight: 40
 programme:
   - title: Open Education for a Better World
     link: https://oe4bw.org/

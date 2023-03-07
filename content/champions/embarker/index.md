@@ -8,25 +8,17 @@ headless: false
 ---
 <img src="embark-icon.svg" width="200px">
 
-### WHAT
+### What will you learn?
 
-The Embarker track will offer a more tailored experience to participants accepted into the programme. Content will be focused specifically on researchers and students who are quite new to digital and computational practices in research and learning. The track will run over several weeks and will include instructional presentations, open discussions with community members, and small tasks to perform in participants' own time to apply newly acquired skills and knowledge.
+The Embarker track will offer a more tailored experience to participants accepted into the programme. Content will be focused specifically on researchers and students who are quite new to digital and computational practices in research. The track will run over several months and will include opportunity for mentorship, growth and networking.
 
-The curriculum is currently under development. We welcome input from anyone wanting to contribute to the content or act as mentor or expert on the track.
+### Is this track for you?
 
-### WHO
+Researchers and students who have attended a [DH-IGNITE](https://dh-ignite.org) event and want to continue working with the ESCALATOR programme to bring opportunities to their institution may apply for this track.
 
-Researchers and students studying, or working in humanities or social sciences who want to learn more about digital and computational research practices, resources, tools, and communities in general. 
+Details will be released in April 2023.
 
-A limited number of participants will be accepted into this track.
+A limited number of participants will be accepted.
 
-__No prior experience is needed__ but we strongly advise applicants to work through the [Explorer Track](../explorer) before submitting their applications. We welcome anyone interested to learn more!
-
-### APPLICATIONS
-
-Application information will be shared on this page and via our other communication channels as soon as the curriculum and application form are finalised.
-
-### SCHEDULE
-
-A draft schedule will be shared here shortly.  
+ 
 

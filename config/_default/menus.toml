@@ -56,22 +56,24 @@
 
   [[main]]
     parent = "Regional Events"
-    name = "18 & 19 Oct 2022 (KwaZulu Natal)"
+    name = "18 - 19 Oct 2022 (KwaZulu Natal)"
     url = "https://dh-ignite.org/event/kzn-region/"
     weight = 20
+
+  [[main]]
+    parent = "Regional Events"
+    name = "8 - 10 March 2023 (Western Cape)"
+    url = "https://dh-ignite.org/event/westerncape-region/"
+    weight = 30
 
 
   [[main]]
     parent = "Regional Events"
     name = "2023 (Gauteng)"
     url = "https://dh-ignite.org/event/gauteng-region/"
-    weight = 30
-
-  [[main]]
-    parent = "Regional Events"
-    name = "2023 (Western Cape)"
-    url = "https://dh-ignite.org/event/westerncape-region/"
     weight = 40
+
+
 
   [[main]]
     parent = "Regional Events"
@@ -105,45 +107,39 @@
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 1: Explorer"
+    name = "Explorer"
     url = "champions/explorer/"
     weight = 20
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 2: Embarker"
+    name = "Embarker"
     url = "champions/embarker/"
     weight = 30
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 3: Enhancer"
+    name = "Enhancer"
     url = "champions/enhancer/"
     weight = 40
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 4: Enabler"
+    name = "Enabler"
     url = "champions/enabler/"
     weight = 50
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 5: Educator"
+    name = "Educator"
     url = "champions/educator/"
     weight = 60
 
   [[main]]
     parent = "Champions Initiative"
-    name = "Track 5: Educator - DH OER Champions "
-    url = "champions/dh-oer/"
-    weight = 70
-
-  [[main]]
-    parent = "Champions Initiative"
-    name = "Track 6: Empower "
+    name = "Empower "
     url = "champions/empower/"
-    weight = 80
+    weight = 70
 
 [[main]]
   name = "Stakeholder Map"

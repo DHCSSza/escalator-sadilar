@@ -18,12 +18,12 @@ design:
 
 This track aims to connect those wanting to develop educational materials related to Digital Humanities or Computational Social Sciences in the South African context to open education communities and existing resources. 
 
-### Local Initiatives 
+### The ESCALATOR DH OER Champions Initiative
 
-Our flagship initiative for the Educator track is the [Digital Humanities Open Educational Resources Champions](#dh-oer-champions) initiative led by Prof Jako Olivier, NWU UNESCO Chair on Multimodal Learning and Open Educational Resources (OER).
+Our flagship initiative for the Educator track is the [Digital Humanities Open Educational Resources Champions](#dh-oer-champions) initiative led by Prof Jako Olivier, previously NWU UNESCO Chair on Multimodal Learning and Open Educational Resources (OER).
 
 
-### Other Initiatives
+### Other Global Initiatives
 
 Since the DH OER Champions programme will have a specific intake date and duration, we would like to highlight the existance of other opportunities to get involved in the development and use of OERs for those who are unable to participate in the DH OER Champions programme.
 

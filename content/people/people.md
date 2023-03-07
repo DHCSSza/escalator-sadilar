@@ -10,6 +10,7 @@ content:
     - "Working group: EMPOWER track 2022"
     - "Working group: Stakeholder map"
     - "Contributors & Collaborators" 
+    - "Alumni"
 
 design:
   # Show user's social networking links? (true/false)

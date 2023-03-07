@@ -7,7 +7,7 @@ superuser: false
 # Role/position/tagline
 role: "Project Manager & Data Science Mentor"
 
-user_groups: ["Working group: EMPOWER track 2022"]
+user_groups: ["Working group: EMPOWER track 2022", "Working group: Stakeholder map"]
 
 # Organizations/Affiliations to show in About widget
 organizations:

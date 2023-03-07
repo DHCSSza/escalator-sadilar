@@ -7,7 +7,7 @@ superuser: false
 # Role/position/tagline
 role: "Research Analyst & Trainer"
 
-user_groups: ["Working group: Stakeholder map"]
+user_groups: ["Alumni"]
 
 # Organizations/Affiliations to show in About widget
 organisation_name: Talarify

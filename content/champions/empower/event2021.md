@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'Our 2021 programme'
+title: 'Past events - 2021'
 subtitle: Slides and recordings available
 
 content:

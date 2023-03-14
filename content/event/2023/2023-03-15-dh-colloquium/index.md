@@ -28,8 +28,8 @@ all_day: false
 publishDate: 2023-03-05T22:00:46+02:00
 
 authors: []
-tags: ["2023", "DH Colloquium"]
-
+tags: ["2023", "DH Colloquium", "SADiLaR", "ESCALATOR", "Introduction"]
+category: ["2023"]
 # Is this a featured event? (true/false)
 featured: false
 
@@ -72,3 +72,4 @@ projects: []
 ---
 
 {{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/sadilar-dh-colloquium--registration-552190796537" cta_new_tab="true" >}}
+

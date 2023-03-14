@@ -43,32 +43,32 @@
   weight = 40
 
 [[main]]
-  name = "Regional Events"
+  name = "DH-IGNITE"
   url = "dh-ignite/"
   weight = 30
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "Information"
     url = "https://dh-ignite.org/"
     weight = 10
 
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "18 - 19 Oct 2022 (KwaZulu Natal)"
     url = "https://dh-ignite.org/event/kzn-region/"
     weight = 20
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "8 - 10 March 2023 (Western Cape)"
     url = "https://dh-ignite.org/event/westerncape-region/"
     weight = 30
 
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "2023 (Gauteng)"
     url = "https://dh-ignite.org/event/gauteng-region/"
     weight = 40
@@ -76,19 +76,19 @@
 
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "2023 (Eastern Cape)"
     url = "https://dh-ignite.org/event/easterncape-region/"
     weight = 50
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "2023 (North-western region)"
     url = "https://dh-ignite.org/event/northwestern-region/"
     weight = 60
 
   [[main]]
-    parent = "Regional Events"
+    parent = "DH-IGNITE"
     name = "2023 (Northern region)"
     url = "https://dh-ignite.org/event/northern-region/"
     weight = 70
@@ -171,8 +171,14 @@
     weight = 40
 
 [[main]]
-  name = "Resources"
+  name = "Events"
   weight = 60
+  url = "events/"
+
+
+[[main]]
+  name = "Resources"
+  weight = 70
 
   [[main]]
     parent = "Resources"

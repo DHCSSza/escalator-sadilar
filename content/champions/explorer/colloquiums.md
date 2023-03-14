@@ -20,8 +20,8 @@ content:
   # Filter on criteria
   filters:
     author: ''
-    category: ''
-    tag: '2023'
+    category: 
+    tag:  "DH Colloquium"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -41,5 +41,3 @@ design:
   columns: "1"
 
 ---
-
-

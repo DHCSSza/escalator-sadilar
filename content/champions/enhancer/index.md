@@ -20,9 +20,9 @@ The track is still under development, but we want to highlight other existing op
 
 Researchers, students, and support staff who are already familiar with concepts related to digital and computational research will be prioritised. Participants will have to show that they will get support for joining this track via their supervisors or departments. 
 
-### PRECURSOR: Python and R Study Groups
+### Python and R Study Groups
 
-While we're setting up a more formalised mentorship programme, we would like to give our community opportunities to continue learning an growing. Therefore we started a [Python](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and [R for Humanities and Social Sciences Study Group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/). 
+We started a [Python](https://escalator.sadilar.org/post/2021/07/2021-07-06-python-study-group/) and [R for Humanities and Social Sciences Study Group](https://escalator.sadilar.org/post/2021/07/2021-07-08-r-study-group/). 
 
 __Please join us if you want to learn Python or R, enhance your own skills, work on a specific project or if you'd like to support others in their Python/R journey.__
 
@@ -32,7 +32,7 @@ We meet __bi-weekly on a Wednesday at 11:00 - 13:00 SAST__. You're welcome to jo
 
 __[Registration form](https://forms.gle/EWvHp48pkVpk4i6i8)__ _(Please sign up to receive connection details and calendar invitations to upcoming meetups.)_
 
-Chat to us and meet some peers on the [Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) at the _#learning-python_ or _#learning-r_ channel
+Chat to us and meet some peers on the [Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) at the _#learning-programming_ channel
 
 
 

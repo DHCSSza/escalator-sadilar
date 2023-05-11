@@ -15,6 +15,6 @@ For more information about the stakeholder map project, [please visit our webpag
 
 ### Working group
 
-- **Lead:** [Dr Anne Treasure](../../authors/anne_treasure/)
+- **Lead:** [Nomalungelo Maphanga](../../authors/noma_maphanga/)
 
 \* *Community members are invited to contact us if you'd like to get involved as member of the working group. For more information about the working group or if you'd like to join, please email [escalator@talarify.co.za](mailto:escalator@talarify.co.za).*

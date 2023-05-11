@@ -45,42 +45,14 @@ We make all the data submitted to the database available through interactive vis
 - A **social network graph** through the use of Kumu - [view social network graph](../stakeholder-map/#kumu-map).
 
 
-
-
 ### Status
 
 Phase one of development has been completed. Phase two will include optimising the data pipeline, bug fixes, and improvements to the scripts and visualisations. 
 
 ### Get involved
 
-**Project lead**: [Dr Anne Treasure](../authors/anne_treasure/)
+**Project lead**: [Nomalungelo Maphanga](../authors/noma_maphanga/)
 
-In Q2 2022, community members will have the opportunity to publish their data in the stakeholder map. We are also actively recruiting community members to join the [working group](../groups/stakeholder-map-wg).
+We are actively recruiting community members to join the [working group](../groups/stakeholder-map-wg).
 
-
-### Upcoming Events
-
-#### Official launch of the Stakeholder Map Project
-
-- **Date:** 28 April 2022 - to coincide with [International Day of DH](https://dhcenternet.org/initiatives/day-of-dh/2022)
-- **Description:** [Read our blog post](../post/2022/04/launch-stakeholder-map/) about the launch of the stakeholder map project.
-
-#### SADiLaR DH Colloquium
-
-- **Date**: 20 July 2022
-- **Time**: 10:00 - 11:00 SAST
-- **Description**: A brief overview of the stakeholder map project and how stakeholders can contribute to the data collection and use the visualisation platforms to address various questions.
-
-### Past events
-
-#### afrimapr community meetup
-
-- **Date:** 20 April 2022
-- **Time:** 12:00 - 13:00 SAST
-- **Description:** An overview of the stakeholder map data pipeline and workflow, focusing on using R to integrate the platforms used: from data collection to data visualisation. This presentation is hosted by [afrimapr](https://afrimapr.org/).
-- **Link to slides:** [https://doi.org/10.5281/zenodo.6473091](https://doi.org/10.5281/zenodo.6473091)
-- **Link to presentation recording:** [https://youtu.be/dAx6CWbraA4](https://youtu.be/dAx6CWbraA4)
-
-
-[![afrimapr community meetup](afrimapr-community-meetup.png)](https://qkt.io/afrimapr-Apr2022)
 

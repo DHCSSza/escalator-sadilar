@@ -9,7 +9,7 @@ categories: []
 date: 2021-01-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://www.hsrc.ac.za/en"
+external_link: "https://hsrc.ac.za/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

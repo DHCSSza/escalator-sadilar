@@ -41,7 +41,9 @@ categories:
 
 ---
 
-In June, the Escalator team will start offering introductory courses to R and Python for complete novices. _Introduction to Python_ and _Introduction to R_ will be offered as a __four-week course with virtual meetups once weekly for one hour__. The courses will be repeated in June, August, and October 2023. A __maximum of five candidates__ will be accepted into each iteration of the Python and R courses. Potential candidates can apply to participate and will receive a certificate upon completion. 
+We are excited to announce the first official introductory programming courses that will be offered as part of the ESCALATOR programme! 
+
+In June, we will start offering introductory courses to R and Python for complete novices. _Introduction to Python_ and _Introduction to R_ will be offered as a __four-week course with virtual meetups once weekly for one hour__. The courses will be repeated in June, August, and October 2023. A __maximum of five candidates__ will be accepted into each iteration of the Python and R courses. Potential candidates can apply to participate and will receive a certificate upon completion. 
 
 ## ℹ Course structure
 
@@ -101,7 +103,7 @@ __Four sessions of 1 hour per week on a Wednesday from 11:00 - 12:00__ per the s
 
 As a facilitator, you will receive a __certificate__ of facilitation. We will list you on the ESCALATOR website as a Python/R facilitator and identify additional non-monetary opportunities to reward you for your time.
 
-{{< cta cta_text="Apply now to be a facilitator!" cta_link="https://www.eventbrite.com/e/escalator-international-day-of-dh-collectathon-tickets-640474014017" cta_new_tab="true" >}}
+{{< cta cta_text="Apply now to be a facilitator!" cta_link="https://forms.gle/jMWnpUVPAkpuixZ69" cta_new_tab="true" >}}
 
 
 ## ❗Study group

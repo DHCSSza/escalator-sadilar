@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Publishing data papers in the humanities: my experience from the Journal of Open Humanities Data"
+title: "Postgraduate student involvement as co-developers of sustainable OER"
 event: Our presentation will report on the co-development process of an Open Education Resource (OER) in Open Distance Learning (ODL). OER have many benefits for higher education, such as expanding access, cutting costs, and improving the quality of teaching and learning. However, the question remains how OER can be developed sustainably to support both teaching and learning?
 event_url: https://www.eventbrite.co.uk/e/sadilar-dh-colloquium-geesje-van-den-berg-lebo-mudau-tickets-638559256927
 address:

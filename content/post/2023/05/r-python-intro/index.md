@@ -110,7 +110,7 @@ As a facilitator, you will receive a __certificate__ of facilitation. We will li
 
 ESCALATOR has been hosting a bi-weekly virtual Python/R study group for colleagues in Humanities and Social Sciences affiliated with South African universities since 2021. The study group offers an informal environment where students and researchers with a range of programming experience (novice, intermediate and expert) set aside time to learn how to code or work on their programming projects. This is a place where colleagues come to share knowledge and resources, assist each other if help is needed, or work quietly in a break-out room, knowing help is just a “chat message or unmute of the microphone” away. 
 
-Study group times will change from 7 June to follow the introductory course sessions.
+Study group times will change from 7 June 2023 to accommodate the introductory course sessions.
 
 __Study group times:__ 
 

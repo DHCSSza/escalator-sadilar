@@ -30,6 +30,17 @@ We offer a __welcoming virtual space__ where you can __learn at your own pace__.
 
 We meet __bi-weekly on a Wednesday at 11:00 - 13:00 SAST__. You're welcome to join as often as you want. No need to commit to participate in every session, join when you can!
 
+{{% callout note %}}
+Please note that the study group meeting times will change as of June 2023 to accommodate introductory R and Python courses that will be offered through ESCALATOR Embarker.
+
+__Study group times:__ 
+
+- _June:_ 7, 21 June @ 12:00 - 13:00
+- _July:_ 5, 19 July @ 12:00 - 13:00
+- _August:_ 2, 16, 30 August @ 12:00 - 13:00
+
+{{% /callout %}}
+
 __[Registration form](https://forms.gle/EWvHp48pkVpk4i6i8)__ _(Please sign up to receive connection details and calendar invitations to upcoming meetups.)_
 
 Chat to us and meet some peers on the [Slack workspace](https://escalator.sadilar.org/post/connect-with-the-community/) at the _#learning-programming_ channel

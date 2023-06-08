@@ -10,15 +10,32 @@ headless: false
 
 ### WHAT
 
-The Enhancer track will give participants an opportunity to hone their digital and computational research skills with application to a current research project. Participants will have an opportunity to work one-on-one or in small groups with a mentor to learn more advanced techniques, tools, or practices in Digital Humanities or Computational Social Sciences.
-
-The track is still under development, but we want to highlight other existing opportunities:
-- [The Open Life Science Mentorship Programme](https://openlifesci.org/) (not only for life scientists but recently included projects related to Natural Language processing and other social science/humanities projects)
-- [Deep Learning Indaba Mentorship Programme](https://deeplearningindaba.com/mentorship/)
+The Enhancer track will give participants an opportunity to hone their digital and computational and open science skills with application to a current or new research project. Participants will have an opportunity to work one-on-one or in small groups with a mentor to learn more advanced techniques, tools, or practices in Digital Humanities or Computational Social Sciences.
 
 ### WHO
 
 Researchers, students, and support staff who are already familiar with concepts related to digital and computational research will be prioritised. Participants will have to show that they will get support for joining this track via their supervisors or departments. 
+
+
+### 📢 NEW MENTORSHIP OPPORTUNITY LAUNCHING JUNE 2023!
+
+In June 2023 we are launching a 16-week mentorship opportunity through collaboration with the [Open Seeds Mentorship and Training Programme](https://openlifesci.org)!
+
+Are you a researcher or postgraduate student in Humanities or Social Sciences or related field (e.g. Education, Law, Commerce, Architecture, Libraries, etc.) and affiliated with a South African university or public research institute? Do you have an idea for a new project that has elements of open science and digital or computational methodologies, but need a bit of mentorship and support to get it going?
+
+
+{{% callout warning %}}
+
+ESCALATOR is partnering with an international programme [Open Seeds](https://openlifesci.org) to roll out the first mentorship trial for the ENHANCER track.
+
+__Application deadline: 7 July 2023__
+
+
+{{< cta cta_text="Learn more and apply today!!" cta_link="../../post/2023/06/open-seeds-mentorship/" cta_new_tab="true" >}}
+
+{{% /callout %}}
+
+
 
 ### Python and R Study Groups
 

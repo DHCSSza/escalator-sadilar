@@ -50,8 +50,11 @@ In this post you can:
 - [read more about the Open Seeds Mentorship and Training programme](#about-open-seeds)
 - [learn why this is a unique opportunity](#what-is-unique-in-cohort-8)
 - [understand what kind of projects can be submitted](#what-kind-of-projects-can-be-submitted)
-- [get information about upcoming Q&A sessions](#how-can-I-get-more-information) 
+- [get information about upcoming Q&A sessions](#how-can-i-get-more-information) 
+- [see the full timeline for applications and the programme](#what-are-the-important-dates)
 - [download the flyer to share with your networks](#please-share-this-news-with-your-networks)
+
+{{< cta cta_text="Learn more and submit your proposal" cta_link="https://openlifesci.org/ols-8" cta_new_tab="true" >}}
 
 ## About Open Seeds
 ---
@@ -110,6 +113,21 @@ __5. Read the OLS-8 application guidelines and templates__
 
 [Find a template](https://github.com/open-life-science/application-forms) in your choice of Markdown, Word, plain text, or open XML to start drafting your proposal!
 
+## What are the important dates?
+---
+_[[back to top]](#)_
+
+- 1 June, 2023 : Call for Application opens
+_See the [guidelines and templates](https://github.com/open-life-science/application-forms_
+- 9 June, 2023 (12:00 SAST): Application webinar (Talk +  Q&A)
+_Watch recordings from previous webinars on [YouTube](https://www.youtube.com/playlist?list=PL1CvC6Ez54KBsPT0fhPtkHmBaXR4f8Dqt_
+- 15 June, 2023 (11:00 SAST): Application Q&A with ESCALATOR team
+- 28 June, 2023 (19:00 SAST): Application Clinic Call (Q&A)
+_At this call, OLS team will be available to provide help if you have any question related to your application_
+- 7 July, 2023: Call for applications closes.
+- 1 August, 2023: Successful applicants announced
+- 18 September, 2023: Start of the program
+- 15 January, 2024: End of the program
 
 ## Please share this news with your networks
 ---

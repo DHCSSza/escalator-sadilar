@@ -117,17 +117,17 @@ __5. Read the OLS-8 application guidelines and templates__
 ---
 _[[back to top]](#)_
 
-- 1 June, 2023 : Call for Application opens
+- __1 June, 2023__ : Call for Application opens
 _See the [guidelines and templates](https://github.com/open-life-science/application-forms_
-- 9 June, 2023 (12:00 SAST): Application webinar (Talk +  Q&A)
+- __9 June, 2023 (12:00 SAST)__: Application webinar (Talk +  Q&A)
 _Watch recordings from previous webinars on [YouTube](https://www.youtube.com/playlist?list=PL1CvC6Ez54KBsPT0fhPtkHmBaXR4f8Dqt_
-- 15 June, 2023 (11:00 SAST): Application Q&A with ESCALATOR team
-- 28 June, 2023 (19:00 SAST): Application Clinic Call (Q&A)
+- __15 June, 2023 (11:00 SAST)__: Application Q&A with ESCALATOR team
+- __28 June, 2023 (19:00 SAST)__: Application Clinic Call (Q&A)
 _At this call, OLS team will be available to provide help if you have any question related to your application_
-- 7 July, 2023: Call for applications closes.
-- 1 August, 2023: Successful applicants announced
-- 18 September, 2023: Start of the program
-- 15 January, 2024: End of the program
+- __7 July, 2023__: Call for applications closes.
+- __1 August, 2023__: Successful applicants announced
+- __18 September, 2023__: Start of the program
+- __15 January, 2024__: End of the program
 
 ## Please share this news with your networks
 ---

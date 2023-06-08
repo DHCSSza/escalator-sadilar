@@ -118,9 +118,9 @@ __5. Read the OLS-8 application guidelines and templates__
 _[[back to top]](#)_
 
 - __1 June, 2023__ : Call for Application opens
-_See the [guidelines and templates](https://github.com/open-life-science/application-forms_
+_See the [guidelines and templates](https://github.com/open-life-science/application-forms)_
 - __9 June, 2023 (12:00 SAST)__: Application webinar (Talk +  Q&A)
-_Watch recordings from previous webinars on [YouTube](https://www.youtube.com/playlist?list=PL1CvC6Ez54KBsPT0fhPtkHmBaXR4f8Dqt_
+_Watch recordings from previous webinars on [YouTube](https://www.youtube.com/playlist?list=PL1CvC6Ez54KBsPT0fhPtkHmBaXR4f8Dqt)_
 - __15 June, 2023 (11:00 SAST)__: Application Q&A with ESCALATOR team
 - __28 June, 2023 (19:00 SAST)__: Application Clinic Call (Q&A)
 _At this call, OLS team will be available to provide help if you have any question related to your application_

@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Can Grammarly and ChatGPT accelerate language change?"
-event: Join us for the SADiLaR DH Colloquium featuring Karolina Rudnicka, where we'll explore the latest developments in Al-powered technologies.
+event: "Join us for the SADiLaR DH Colloquium featuring Karolina Rudnicka, where we will explore the latest developments in Al-powered technologies."
 event_url: https://www.eventbrite.co.uk/e/sadilar-dh-colloquium-karolina-rudnicka-tickets-662834966227
+address:
   street: Online
   city:
   region:
@@ -14,8 +15,6 @@ abstract: |
     The proliferation of NLP-powered language technologies, AI-based natural language generation models, and English as a mainstream means of communication among native and non-native speakers make the output of AI-powered tools especially intriguing to linguists. In this talk, I present an investigation of how Grammarly and ChatGPT affect the English language regarding wordiness vs. conciseness. A case study focusing on the purpose subordinator in order to is presented to illustrate the way in which Grammarly and ChatGPT recommend shorter grammatical structures instead of longer and more elaborate ones.  
 
     Although the sentences analysed in the study were produced by native speakers, are perfectly correct, and were extracted from a language corpus of contemporary English, both Grammarly and ChatGPT suggest more conciseness and less verbosity, even for relatively short sentences. The findings suggest that technologies such as Grammarly not only mirror language change but also have the potential to facilitate or accelerate it.
-
-
 
     __About the SADiLaR DH colloqiuims:__
 

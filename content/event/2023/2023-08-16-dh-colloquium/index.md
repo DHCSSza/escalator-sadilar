@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Building isiXhosa intellectual traditions digital archive: challenges & solutions"
-event: Join us for the SADilaR DH Colloquium, where Amandla Ngwendu and Jacques De Wet will engage in enlightening discussions on 16 August 2023.
+event: "Join us for the SADilaR DH Colloquium, where Amandla Ngwendu and Jacques De Wet will engage in enlightening discussions on 16 August 2023."
 event_url: https://www.eventbrite.co.uk/e/sadilar-dh-colloquium-amandla-ngwendu-and-jacques-de-wet-tickets-689851814347
 address:
   street: Online

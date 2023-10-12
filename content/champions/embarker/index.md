@@ -49,15 +49,15 @@ Courses are scheduled for Wednesdays at 10:30 - 12:00. They run on four consecut
 
 - __First steps to R:__
  - 6, 13, 20, 27 September
- - 1, 8, 15, 22 November
+ - 8, 15, 22, 29 November
  - 7, 14, 21, 28 February
 
 - __First steps to Python:__
  - 4, 11, 18, 25 October
- - 1, 8, 15, 22 November
- - 6, 13, 20, 27 March
+ - 8, 15, 22, 29 November
+ - 7, 14, 21, 28 February
 
-### How do you register?
+### How do you apply?
 
 Please complete our online application form. We will be in touch!
 

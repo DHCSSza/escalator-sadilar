@@ -56,7 +56,7 @@ As ESCALATOR is part of a larger ecosystem of communities of practice, we aim to
 
 **What to Expect on International Women's Day 2024**👩‍🎓🎉
 
-So, what can you expect from ESCALATOR on International Women’s Day 2024? We will host a virtual event highlighting welcoming communities and women in digital or computational roles. No prior experience with digital scholarship or computational research is required to join! *Stay tuned* for further updates on this exciting event scheduled for Friday, *March 8*, International Women's Day, and get *pumped* to learn from the inspiring stories we'll feature on our website in the lead-up to this event. Keep an eye out for **registration details to follow** that will be shared on ESCALATOR platforms. 
+So, what can you expect from ESCALATOR on International Women’s Day 2024? We will host a virtual event highlighting welcoming communities and women in digital or computational roles. No prior experience with digital scholarship or computational research is required to join! *Stay tuned* for further updates on this exciting event scheduled for Friday, *March 8*, International Women's Day, and get *pumped* to learn from the inspiring stories we'll feature on our website in the lead-up to this event. Keep an eye out for registration details  that will be shared on ESCALATOR platforms. 
 
 Thank you for being part of the ESCALATOR community. Let's embark on this exciting journey together and be inspired to grow our technical skills within the support network of communities of practice! 
 

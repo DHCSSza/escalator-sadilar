@@ -12,7 +12,7 @@ feature:
   - icon: embark-icon
     icon_pack: custom
     name: Embarker
-    description: Learn about the vast landscape of digital scholarship and start applying it to your own work<br><em>* Launching in 2023</em>
+    description: Learn about the vast landscape of digital scholarship and start applying it to your own work<br>>
     link: ../embarker
   - icon: enhance-icon
     icon_pack: custom

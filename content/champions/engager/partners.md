@@ -3,11 +3,13 @@ widget: blank
 headless: true
 weight: 140
 
-title: Project partners
+title: 
 subtitle: 
 
 design:
     columns: "1"
+    background:
+      color: "ffffff"
 
 ---
 

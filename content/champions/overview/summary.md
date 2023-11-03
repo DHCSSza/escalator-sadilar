@@ -45,8 +45,8 @@ feature:
   - icon: engager-icon
     icon_pack: custom
     name: Engager
-    description: A track for citizens and high school students to learn about digital humanities and computational social sciences<br><em>* Coming soon</em> 
-
+    description: A track for citizens and high school students to learn about digital humanities and computational social sciences<br>
+    link: ../engager
  
 ---
 

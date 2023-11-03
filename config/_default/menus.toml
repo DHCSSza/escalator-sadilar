@@ -136,6 +136,12 @@
     url = "champions/empower/"
     weight = 70
 
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Engager (SWiP) "
+    url = "champions/engager/"
+    weight = 80
+
 [[main]]
   name = "Stakeholder Map"
   weight = 50

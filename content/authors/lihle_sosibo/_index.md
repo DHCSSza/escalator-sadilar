@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Nomsa Skosana
+title: Lihle Sosibo 
+
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,11 +9,11 @@ superuser: false
 # Role/position/tagline
 role: "SADiLaR"
 
-user_groups: ["Contributors & Collaborators", "SWiP Project Team"]
+user_groups: ["SWiP Project Team"]
 
 # Organizations/Affiliations to show in About widget
 organisation_name: SADiLaR
-organisation_url: https://www.sadilar.org/index.php/9-about/142-researcher-isindebele
+organisation_url: https://sadilar.org/index.php/en/9-about/369-communication-manager-5
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,22 +30,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon_pack: fab
-  link: 
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

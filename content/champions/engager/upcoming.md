@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 110
 
-title: 'Past events - 2022'
+title: 'Upcoming events'
 subtitle:
 
 content:
@@ -20,11 +20,11 @@ content:
   # Filter on criteria
   filters:
     author: ''
-    category: ''
-    tag: ['2022']
+    category: 
+    tag:  "SWiP"
     exclude_featured: false
-    exclude_future: true
-    exclude_past: false
+    exclude_future: false
+    exclude_past: true
     publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0

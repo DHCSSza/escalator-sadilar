@@ -9,7 +9,7 @@ subtitle:
 design:
     columns: "1"
     background:
-      color: "ffffff"
+      color: "#ffffff"
 
 ---
 

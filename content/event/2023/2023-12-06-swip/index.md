@@ -67,7 +67,7 @@ projects: []
 ---
 
 
-{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/sadilar-dh-colloquium--registration-552190796537" cta_new_tab="true" cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/sadilar-dh-colloquium--registration-552190796537" cta_new_tab="true" cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager/#upcoming" cta_alt_new_tab="false" >}}
 
 ### __Registration deadline: 27 November 2023__
 

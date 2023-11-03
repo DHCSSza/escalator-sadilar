@@ -66,7 +66,7 @@ slides: ""
 projects: []
 ---
 
-{{< cta cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager" cta_alt_new_tab="false" >}}
+{{< cta cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager/#past" cta_alt_new_tab="false" >}}
 
 > “The dislocation of our languages is perpetuated by not having pride to speak one’s own mother 
 > tongue. We can only say a language is developed when it has doctors, professors, writers and 

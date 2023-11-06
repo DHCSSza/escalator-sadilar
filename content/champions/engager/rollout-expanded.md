@@ -17,7 +17,7 @@ design:
 
 ---
 
-# Three-day authorship training workshop outcomes:
+# Two-day authorship training workshop outcomes:
 
 ℹ️ Day 1-Introduction to Wikipedia (Adding citations)
 

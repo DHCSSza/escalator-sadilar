@@ -9,7 +9,7 @@ subtitle: The project is scheduled to run from October 2023 to October 2024. The
 feature:
   - icon: engage-phase1
     icon_pack: custom
-    name: The first cycle of the project focusses on in-depth Wikipedia authorship training across the country. __Three-day authorship workshops__ will be conducted across __6 regions__ targeting __10 universities__ and training __20 participants__ per university.
+    name: The first cycle of the project focusses on in-depth Wikipedia authorship training across the country. __Two-day authorship workshops__ will be conducted across __6 regions__ targeting __10 universities__ and training __20 participants__ per university.
     description:
 
   - icon: engage-phase2

@@ -2,7 +2,7 @@
 widget: portfolio
 title: DH OER Projects 2022-2023
 headless: true  # This file represents a page section.
-weight: 30
+weight: 40
 
 content:
   # Page type to display. E.g. project.

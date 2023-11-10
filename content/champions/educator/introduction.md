@@ -14,6 +14,9 @@ design:
 <img src="educate-icon.svg" width="200px">
 <br>
 
+{{< cta cta_text="Register now for the DH-OER Showcase & Celebration!" cta_link="https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917" cta_new_tab="true" >}}
+
+
 ### About Educator
 
 This track aims to connect those wanting to develop educational materials related to Digital Humanities or Computational Social Sciences in the South African context to open education communities and existing resources. 

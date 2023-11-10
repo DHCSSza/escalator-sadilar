@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 60
 
 title: What can you expect?
-subtitle: The project is scheduled to run from October 2023 to October 2024. The SWiP project team will be in contact with identified universities to confirm dates for workshops. 
+subtitle: The project is scheduled to run from February 2024 to July 2024. The SWiP project team will be in contact with identified universities to confirm dates for workshops. 
 
 feature:
   - icon: engage-phase1
@@ -14,7 +14,7 @@ feature:
 
   - icon: engage-phase2
     icon_pack: custom
-    name: This will be followed by shorter training events that also include other elements of __language celebrations__ and __hands-on training__. __One-day__ events will follow soon after the three-day events, to allow for trained participants to __run their own training events__ (train-the-trainer).
+    name: Train-the-trainer events will follow after cycle 1, to allow for trained participants to run their own Wikipedia training events.
     description: 
       
 

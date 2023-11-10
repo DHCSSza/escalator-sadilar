@@ -50,27 +50,27 @@
   [[main]]
     parent = "DH-IGNITE"
     name = "Information"
-    url = "https://dh-ignite.org/"
+    url = "dh-ignite/"
     weight = 10
 
 
   [[main]]
     parent = "DH-IGNITE"
     name = "18 - 19 Oct 2022 (KwaZulu Natal)"
-    url = "https://dh-ignite.org/past_events/kzn/"
+    url = "past_dh_ignites/kzn/"
     weight = 20
 
   [[main]]
     parent = "DH-IGNITE"
     name = "8 - 10 March 2023 (Western Cape)"
-    url = "https://dh-ignite.org/past_events/wc/"
+    url = "past_dh_ignites/wc/"
     weight = 30
 
 
   [[main]]
     parent = "DH-IGNITE"
     name = "23 - 25 August 2023 (Central & Western Regions)"
-    url = "https://dh-ignite.org/past_events/cwr/"
+    url = "past_dh_ignites/cwr/"
     weight = 40
 
 
@@ -78,14 +78,14 @@
   [[main]]
     parent = "DH-IGNITE"
     name = "27 Nov - 1 Dec 2023 (Eastern Cape)"
-    url = "https://dh-ignite.org/"
+    url = "talk/eastern-cape-region-27-nov-1-dec-2023/"
     weight = 50
 
 
   [[main]]
     parent = "DH-IGNITE"
     name = "2024 (Northern region)"
-    url = "https://dh-ignite.org/"
+    url = "dh-ignite/"
     weight = 60
 
 

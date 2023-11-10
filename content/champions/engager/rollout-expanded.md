@@ -23,4 +23,3 @@ design:
 
 🖼️ Day 2-Advanced Wiki Editing (Adding content and photographs)
 
-👩🏾‍🎓 Day 3-Train the trainer (How to pass on what you have learned)

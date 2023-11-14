@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: https://drive.google.com/file/d/1S_04RlK2MMHUj1ng6BtNAW2E9WFmOU94
 url_video:
 
 # Markdown Slides (optional).
@@ -84,14 +84,9 @@ On 16 November, project teams who completed the programme will present their OER
 Anyone is welcome to join in, meet the project teams, learn more about OERs, how to create and use them and hear more about our project teams' experiences.
 
 
-
-Themes:
-
-  - Foundational literacies
-  - Media Pedagogies
-  - Multilingual Projects
-  - Opening up Educational Practices
-
-
-
 {{< cta cta_text="Register now for the showcase" cta_link="https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917" cta_new_tab="true" >}}
+
+##  Programme
+
+<iframe src="https://drive.google.com/file/d/1S_04RlK2MMHUj1ng6BtNAW2E9WFmOU94/preview" width="100%" height="700px" allow="autoplay"></iframe> 
+

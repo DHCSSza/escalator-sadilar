@@ -5,7 +5,7 @@ title: "Academic literacy development in public relations through gamification"
 summary: 
 authors: ["Prof Corne Meintjes", "Prof Maritha Pritchard", "Dr Hemali Joshi", "Dr Arno Louw", "Dr Graham Dampier", "Mr Roberto Mabada"]
 tags: ["2022", "DH OER", "UJ", "Foundational", "Other"]
-categories: ["Open and artificial pedagogy"; "gamification"; "self-paced"; "academic literacy"; "multimedia story"]
+categories: ["Open and artificial pedagogy", "gamification",  "self-paced", "academic literacy", "multimedia story"]
 date: 2023-02-28T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).

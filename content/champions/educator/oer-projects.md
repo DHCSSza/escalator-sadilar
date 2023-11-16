@@ -19,6 +19,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Media pedagogies
+      tag: 'Media pedagogies'   
+    - name: Multilingualism
+      tag: 'Multilingualism'   
+    - name: Opening up educational practices
+      tag: 'Opening'
+    - name: Foundational literacies
+      tag: 'Foundational'
+    - name: Other
+      tag: 'Other'
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

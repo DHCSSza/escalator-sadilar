@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Theory, practice and research in Open Distance and e-Learning (ODeL)"
-summary: 
+summary: "Open Distance and e-Learning."
 authors: ["Prof Geesje van den Berg", "Dr Lebo Mudau"]
-tags: ["2022", "DH OER", "UNISA"]
+tags: ["2022", "DH OER", "UNISA", "Opening"]
 categories: ["Open Distance and e-Learning"]
 date: 2023-02-28T11:18:54+02:00
 
@@ -40,3 +40,29 @@ url_video: ""
 slides: ""
 ---
 
+{{< cta cta_text="View OER product" cta_link="https://mooc.unisa.ac.za/portal/site/09ba8a14-2fe7-4d99-91ab-ead1ebb585e2" cta_new_tab="true" >}}
+
+## Project description
+---
+
+We plan to do a needs analysis on relevant topics to include in the OER. Based on previous feedback from students (from a related question in their last assessment) we will determine topics in the field of ODeL that need to be addressed in solving the problems we indicated above. Secondly, based on our institution's policies, we will seek permission and ethical clearance before inviting our students to be part of this envisaged project. Thirdly, once we know who is interested to be part of the project, we will do a contents page, share responsibilities and start writing. We will adhere to provided timelines.
+
+## Project team
+---
+
+Prof Geesje van den Berg, Dr Lebo Mudau
+
+## Institution
+---
+
+University of South Africa
+
+## Keywords
+---
+
+Open Distance and e-Learning
+
+## Project links
+---
+
+- OER site: https://mooc.unisa.ac.za/portal/site/09ba8a14-2fe7-4d99-91ab-ead1ebb585e2

@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Modern Architectures in the Global South (MA.gS+)"
-summary: 
+summary: "Inventory of modern architectures, global South, histories and theories."
 authors: ["Stella Papanicolaou", "Valerie Lehabe", "Katya Krat", "Nathan Eisen"]
-tags: ["2022", "DH OER", "UCT", "CPUT"]
+tags: ["2022", "DH OER", "UCT", "Other"]
 categories: ["Inventory of modern architectures", "global South", "histories and theories"]
 date: 2023-02-28T11:18:54+02:00
 
@@ -40,3 +40,30 @@ url_video: ""
 slides: ""
 ---
 
+
+{{< cta cta_text="View OER product" cta_link="https://vula.uct.ac.za/access/content/group/ee124d50-9c15-4856-837e-3d2e1a0056a7/DH%20OER%20Champions/" cta_new_tab="true" >}}
+
+## Project description
+---
+
+There is an imbalance in architectural examples that are skewed to the global north. This project seeks to address that 
+
+## Project team
+---
+
+Stella Papanicolaou, Valerie Lehabe, Katya Krat, Nathan Eisen
+
+## Institution
+---
+
+- University of Cape Town
+
+## Keywords
+---
+
+Inventory of modern architectures, global South, histories and theories
+
+## Project links
+---
+
+- OER site:https://vula.uct.ac.za/access/content/group/ee124d50-9c15-4856-837e-3d2e1a0056a7/DH%20OER%20Champions/

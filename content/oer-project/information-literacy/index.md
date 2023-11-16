@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Information literacy skills programme"
-summary: 
+summary: "SMART Identification, Evaluation, Use, and communication of information."
 authors: ["Selema Molopa", "Zulaiga Davids", "Nontobeko Xwayi", "Zandile Mboneni", "Joanne Arendse", "Nathan Kalam", "Christel Oosthuizen", "Xabiso Xesi"]
-tags: ["2022", "DH OER", "CPUT"]
+tags: ["2022", "DH OER", "CPUT", "Foundational"]
 categories: ["SMART Identification", "Evaluation", "Use, and communication of information"]
 date: 2023-02-28T11:18:54+02:00
 
@@ -40,3 +40,30 @@ url_video: ""
 slides: ""
 ---
 
+{{< cta cta_text="View OER product" cta_link="https://digitalknowledge.cput.ac.za/handle/11189/9528" cta_new_tab="true" >}}
+
+## Project description
+---
+
+In today's digital age, the ability to navigate and utilize library resources efficiently is a crucial skill. Whether you are a student, researcher, or an avid learner, this program is designed to empower you with the knowledge and skills necessary to make the most out of your university library resources.
+
+## Project team
+---
+
+Selema Molopa, Zulaiga Davids, Nontobeko Xwayi, Zandile Mboneni, Joanne Arendse, Nathan Kalam, Christel Oosthuizen, Xabiso Xesi
+
+## Institution
+---
+
+Cape Peninsula University of Technology
+
+## Keywords
+---
+
+DH skills; digital, media, image and visual culture scholarship; critical digital humanities; writing for Substack; visual/video essays; digital image archives
+
+
+## Project links
+---
+
+- OER site:  https://digitalknowledge.cput.ac.za/handle/11189/9528

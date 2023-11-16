@@ -3,7 +3,7 @@
 
 title: "Preserving Languages & Scientific Information: Accessible Knowledge for All"
 event: "SWiP - Preserving languages: Open, free and accessible knowledge for all"
-event_url: https://www.eventbrite.co.uk/e/preserving-languages-scientific-information-accessible-knowledge-for-all-tickets-751506475097
+event_url: https://www.eventbrite.co.uk/e/preserving-languages-scientific-information-accessible-knowledge-for-all-tickets-751506475097?aff=oddtdtcreator
 address:
   street: CSIR International Conference, CentreScientia 627-Jr
   city: Pretoria
@@ -67,7 +67,7 @@ projects: []
 ---
 
 
-{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/sadilar-dh-colloquium--registration-552190796537" cta_new_tab="true" cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager/#upcoming" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/preserving-languages-scientific-information-accessible-knowledge-for-all-tickets-751506475097?aff=oddtdtcreator" cta_new_tab="true" cta_alt_text="Back to SWiP page" cta_alt_link="../../../champions/engager/#upcoming" cta_alt_new_tab="false" >}}
 
 ### __Registration deadline: 27 November 2023__
 

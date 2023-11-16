@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "IsiXhosa.click"
-summary: 
+summary: IsiXhosa, Dictionary, Language learning.
 authors: ["Luvo Gcingca", "Jacob Lund", "William Moultrie", "Cael Marquard"]
-tags: ["2022", "DH OER", "UCT"]
+tags: ["2022", "DH OER", "UCT", "Multilingualism"]
 categories: ["IsiXhosa", "Dictionary", "Language learning"]
 date: 2023-02-28T11:18:54+02:00
 
@@ -40,3 +40,30 @@ url_video: ""
 slides: ""
 ---
 
+
+{{< cta cta_text="View OER product" cta_link="https://isixhosa.click/search or on https://github.com/IsiXhosa-click/isixhosa_click" cta_new_tab="true" >}}
+
+## Project description
+---
+
+IsiXhosa.click is an online dictionary for Xhosa and English. The project aims to create a free, open-source, and easily usable dictionary for learners of isiXhosa.
+
+## Project team
+---
+
+Luvo Gcingca, Jacob Lund, William Moultrie, Cael Marquard
+
+## Institution
+---
+
+University of Cape Town
+
+## Keywords
+---
+
+IsiXhosa, Dictionary, Language learning
+
+## Project links
+---
+
+- OER site: https://isixhosa.click/search

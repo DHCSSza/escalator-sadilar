@@ -14,7 +14,7 @@ design:
 <img src="educate-icon.svg" width="200px">
 <br>
 
-{{< cta cta_text="Register now for the DH-OER Showcase & Celebration!" cta_link="#upcoming_events" cta_new_tab="false" >}}
+
 
 
 ### About Educator

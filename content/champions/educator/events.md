@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 'Join us for the Project Showcase & Celebration!'
+title: 'The Project Showcase & Celebration!'
 subtitle:
 
 content:
@@ -24,7 +24,7 @@ content:
     tag: 'DH OERs'
     exclude_featured: false
     exclude_future: false
-    exclude_past: true
+    exclude_past: false
     publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0

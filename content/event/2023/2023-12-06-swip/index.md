@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: talk/preserving-languages-scientific-information-accessible-knowledge-for-all/programme.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -108,55 +108,8 @@ A 4.5-hour session which will include panel discussions followed by a question-a
 
 ### Programme
 
-<table>
-  <tr>
-    <td><strong>8:30</strong></td>
-    <td>Arrival, registration and coffee</td>
-  </tr>
-  <tr>
-    <td><strong>9:00</strong></td>
-    <td>Opening talk and Q&A: The importance of access to information</td>
-  </tr>  
-  <tr>
-    <td><strong>9:45</strong></td>
-    <td>Break</td>
-  </tr>    
-  <tr>
-    <td><strong>10:00</strong></td>
-    <td>Panel discussion and Q&A: Preserving Language and making scientific information more accessible
+<iframe src="https://drive.google.com/file/d/1v-ZYAE5v0eU3sC-NR9eIEFAq1o2JfqtC/preview" width="100%" height="700px" allow="autoplay"></iframe> 
 
-      - Wikipedian - Role of Wikipedia
-      - Diplomics - Awareness of SA Species
-      - Language domain - DHET New Language Policy Framework
-      - PanSALB - Language and preservation 
-  </td>
-  </tr>   
-  <tr>
-    <td><strong>11:00</strong></td>
-    <td>Break</td>
-  </tr>  
-  <tr>
-    <td><strong>11:15</strong></td>
-    <td>Breakout into group and feedback
-
-        - What challenges in opening up access to Scientific information?
-        - What successes / ideas exist to open up access to Scientific information?
-        - Importance of Language as a carrier of Knowledge
-  </td>
-  </tr>
-  <tr>
-    <td><strong>11:45</strong></td>
-    <td>Breakout Group Feedback</td>
-  </tr>            
-  <tr>
-    <td><strong>12:45</strong></td>
-    <td>SADiLaR - SWiP Project - Focus on Language Preservation</td>
-  </tr>     
-  <tr>
-    <td><strong>13:00</strong></td>
-    <td>End</td>
-  </tr>   
-</table>
 
 
 ### Venue

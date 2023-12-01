@@ -57,7 +57,7 @@ design:
 #### Email 
 
 - Anelda van der Walt (ESCALATOR) [dh-ignite@talarify.co.za](mailto:dh-ignite@talarify.co.za)
-- Jessica Mabaso (SADiLaR) [info@sadilar.org](mailto:info@sadilar.org)
+- Jessica Mabaso (SADiLaR) [jessica.mabaso@nwu.ac.za](mailto:jessica.mabaso@nwu.ac.za)
 
 <br>
 

@@ -51,15 +51,11 @@ design:
 
 
 {{% callout note %}}
-__DH-IGNITE Eastern Cape will be held in conjunction with DHASA 2023.__
+__DH-IGNITE Northern Cape will be held in Polokwane from 12 - 14 March 2024.__
 
-<br>
+This event is open to researchers, students and professional support staff interested and/or involved in Digital Humanities or Computational Social Sciences research. Participants must be affiliated with one of the public universities in Limpopo or Mpumalanga.
 
-Please note anyone may register for DHASA 2023 as it is a regular academic conference. To register, please visit the <a href ="https://dh2023.digitalhumanities.org.za/">DHASA website</a>.
-
-<br>
-
-__SADiLaR will sponsor participation of selected nominees in liason with Deans from the relevant universities.__ 
+__SADiLaR will sponsor participation of selected nominees in liason with Deans and Library Directors from University of Limpopo, University of Venda, and University of Mpumalanga.__ 
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}

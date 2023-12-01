@@ -84,8 +84,8 @@
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "2024 (Northern region)"
-    url = "dh-ignite/"
+    name = "12 - 14 March 2024 (Northern Region)"
+    url = "talk/northern-region-12-14-march-2024/"
     weight = 60
 
 

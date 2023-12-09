@@ -1,6 +1,6 @@
 ---
 title: |
-  Northern Region (12 - 14 March 2024)
+  Northern Region (8 - 10 April 2024)
 
 event: DH-IGNITE - Northern Region
 event_url: 

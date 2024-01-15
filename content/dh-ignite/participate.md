@@ -51,11 +51,36 @@ design:
 
 
 {{% callout note %}}
-__DH-IGNITE Northern Cape will be held in Polokwane from 12 - 14 March 2024.__
+__DH-IGNITE Northern Retion will be held in Polokwane from 15 - 17 April 2024.__
 
 This event is open to researchers, students and professional support staff interested and/or involved in Digital Humanities or Computational Social Sciences research. Participants must be affiliated with one of the public universities in Limpopo or Mpumalanga.
 
 __SADiLaR will sponsor participation of selected nominees in liason with Deans and Library Directors from University of Limpopo, University of Venda, and University of Mpumalanga.__ 
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
+
+
+
 {{% /callout %}}
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
+        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
+             src="../media/nominated.png" 
+             alt="Nominated? Register now!">
+        </img>
+      </a>
+    </div>
+    <div class="col">
+      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
+        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
+             src="../media/notnominated.png" 
+             alt="Not nominated? Apply now!">
+        </img>
+      </a>
+    </div>
+  </div>
+</div>

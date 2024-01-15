@@ -29,6 +29,12 @@ cta_alt:
 
 ---
 
+**Next event**  : 15 - 17 April 2024
+
+**Invited institutions**: UMP, UNIVEN, UL
+
+
+
 <!---
 <div class="container">
   <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: |
-  Northern Region (8 - 10 April 2024)
+  Northern Region (15 - 17 April 2024)
 
 event: DH-IGNITE - Northern Region
 event_url: 
@@ -21,8 +21,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-08T09:00:00Z'
-date_end: '2024-04-10T13:00:00Z'
+date: '2024-04-15T09:00:00Z'
+date_end: '2024-04-17T13:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -61,5 +61,24 @@ projects:
 Are you affiliated with a public university in Limpopo or Mpumalanga and interested to join us at DH-IGNITE Northern Region in 2024?
 
 
-{{< cta cta_text="Complete this form and we'll let you know when applications open" cta_link="https://forms.gle/NgXoLpZScUyfBnK4A" cta_new_tab="true" >}}
 
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
+        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
+             src="../../media/nominated.png" 
+             alt="Nominated? Register now!">
+        </img>
+      </a>
+    </div>
+    <div class="col">
+      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
+        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
+             src="../../media/notnominated.png" 
+             alt="Not nominated? Apply now!">
+        </img>
+      </a>
+    </div>
+  </div>
+</div>

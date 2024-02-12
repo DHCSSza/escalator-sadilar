@@ -17,8 +17,8 @@ title: |
   Exploring digital and computational research in humanities & social sciences
 
 cta:
-  url: "dh-ignite/#past_events"
-  label: View all resources
+  url: "dh-ignite/#participate"
+  label: Apply today!
   icon_pack: 
   icon: 
 cta_alt:

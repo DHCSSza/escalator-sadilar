@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 60
+weight: 50
 title: Who should attend?
 subtitle: Each event will be open to participants from the <strong><u>relevant regional South African institutions</u></strong> as listed on the respective event pages. Dedicated spaces will be available to representatives <strong><u>nominated by the Humanities & Social Sciences Dean or Library Director</u></strong> from each university. <br>Additional spaces will be available by <u><strong>application</u></strong>. <br><br>
 feature:

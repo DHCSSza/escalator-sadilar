@@ -1,7 +1,7 @@
 ---
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 20 # Order that this section will appear.
+weight: 40 # Order that this section will appear.
 title: Teasers from our previous events
 subtitle: 'DH-IGNITE KwaZulu-Natal (October 2022), Western Cape (March 2023) and Central & Western Region (Aug 2023)'
 design:

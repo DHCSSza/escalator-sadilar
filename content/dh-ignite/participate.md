@@ -65,6 +65,10 @@ This event is open to researchers, students and professional support staff inter
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 
+<br>
+
+{{< cta cta_alt_text="Event details" cta_alt_link="../talk/northern-region-15-17-april-2024/" cta_alt_new_tab="false" >}}
+
 
 
 {{% /callout %}}

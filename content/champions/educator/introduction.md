@@ -14,6 +14,9 @@ design:
 <img src="educate-icon.svg" width="200px">
 <br>
 
+
+
+
 ### About Educator
 
 This track aims to connect those wanting to develop educational materials related to Digital Humanities or Computational Social Sciences in the South African context to open education communities and existing resources. 

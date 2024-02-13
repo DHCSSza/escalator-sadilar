@@ -2,11 +2,11 @@
 widget: portfolio
 title: DH OER Projects 2022-2023
 headless: true  # This file represents a page section.
-weight: 30
+weight: 50
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: oer-project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
@@ -19,6 +19,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Media pedagogies
+      tag: 'Media pedagogies'   
+    - name: Multilingualism
+      tag: 'Multilingualism'   
+    - name: Opening up educational practices
+      tag: 'Opening'
+    - name: Foundational literacies
+      tag: 'Foundational'
+    - name: Other
+      tag: 'Other'
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

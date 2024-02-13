@@ -50,43 +50,43 @@
   [[main]]
     parent = "DH-IGNITE"
     name = "Information"
-    url = "https://dh-ignite.org/"
+    url = "dh-ignite/"
     weight = 10
 
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "18 - 19 Oct 2022 (KwaZulu Natal)"
-    url = "https://dh-ignite.org/past_events/kzn/"
-    weight = 20
+    name = "Past: 18 - 19 Oct 2022 (KwaZulu Natal)"
+    url = "past_dh_ignites/kzn/"
+    weight = 60
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "8 - 10 March 2023 (Western Cape)"
-    url = "https://dh-ignite.org/past_events/wc/"
-    weight = 30
+    name = "Past: 8 - 10 March 2023 (Western Cape)"
+    url = "past_dh_ignites/wc/"
+    weight = 50
 
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "23 - 25 August 2023 (Central & Western Regions)"
-    url = "https://dh-ignite.org/past_events/cwr/"
+    name = "Past: 23 - 25 August 2023 (Central & Western Regions)"
+    url = "past_dh_ignites/cwr/"
     weight = 40
 
 
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "27 Nov - 1 Dec 2023 (Eastern Cape)"
-    url = "https://dh-ignite.org/"
-    weight = 50
+    name = "Past: 27 Nov - 1 Dec 2023 (Eastern Cape)"
+    url = "talk/eastern-cape-region-27-nov-1-dec-2023/"
+    weight = 30
 
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "2024 (Northern region)"
-    url = "https://dh-ignite.org/"
-    weight = 60
+    name = "Next: 15 - 17 April 2024 (Northern Region)"
+    url = "talk/northern-region-15-17-april-2024/"
+    weight = 20
 
 
 [[main]]
@@ -135,6 +135,12 @@
     name = "Empower "
     url = "champions/empower/"
     weight = 70
+
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Engager (SWiP) "
+    url = "champions/engager/"
+    weight = 80
 
 [[main]]
   name = "Stakeholder Map"

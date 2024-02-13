@@ -6,9 +6,9 @@ title: Nomsa Skosana
 superuser: false
 
 # Role/position/tagline
-role: "Researcher: isiNdebele"
+role: "SADiLaR"
 
-user_groups: ["Contributors & Collaborators"]
+user_groups: ["Contributors & Collaborators", "SWiP Project Team"]
 
 # Organizations/Affiliations to show in About widget
 organisation_name: SADiLaR

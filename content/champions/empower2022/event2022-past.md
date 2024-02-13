@@ -21,7 +21,7 @@ content:
   filters:
     author: ''
     category: ''
-    tag: '2022'
+    tag: ['2022']
     exclude_featured: false
     exclude_future: true
     exclude_past: false

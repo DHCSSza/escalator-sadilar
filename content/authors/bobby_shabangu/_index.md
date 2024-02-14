@@ -6,7 +6,7 @@ title: Bobby Shabangu
 superuser: false
 
 # Role/position/tagline
-role: "WikipediaZA"
+role: "WikimediaZA"
 
 user_groups: ["SWiP Project Team"]
 

@@ -24,16 +24,16 @@ In 2022 we ran a 8-step programme and developed templates that may assist with l
 
 {{% /callout %}}
 
-### WHAT ARE WE PLANNING FOR 2023
+### WHAT ARE WE PLANNING FOR 2024
 
-The 2022 programme is currently being converted to an open online course that will be freely accessible. Watch this space for news!
+In 2024 we will be partnering with other data science initiatives hosting events focused on equity, inclusion, and diversity to ensure women from humanities and social sciences are aware of opportunities and resources to grow their skills and networks
 
 In the meantime, you can still access resources from previous events. 
 
 - [2022](../empower2022)
 - [2021](../empower2021)
 
-In 2023 we will be partnering with other data science initiatives hosting events focused on equity, inclusion, and diversity to ensure women from humanities and social sciences are aware of opportunities and resources to grow their skills and networks.
+.
 
 ### WHO SHOULD JOIN?
 

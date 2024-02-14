@@ -46,7 +46,7 @@ categories:
 
 In the build-up to [**International Women's Day**](https://www.internationalwomensday.com/) on Friday, March 8, 2024, we're excited to invite you to join us in celebrating the remarkable communities of practice and women making waves in digital and computational research. 
 
-We'll **feature a community and one of their active members** every month until International Women's Day on the ESCALATOR website. This initiative is a part of ESCALATOR’s *Digital Champions Initiative - the [EMPOWER Track](https://escalator.sadilar.org/champions/empower/)*.
+We'll **feature a community and one of their active members** in the lead-up to International Women's Day on the ESCALATOR website. This initiative is a part of ESCALATOR’s *Digital Champions Initiative - the [EMPOWER Track](https://escalator.sadilar.org/champions/empower/)*.
 
 As ESCALATOR is part of a larger ecosystem of communities of practice, we aim to **raise awareness** about various opportunities for mentoring, learning, and more within this network. We will collaborate with organizations to introduce you to the different communities and their valuable resources, showcasing the various avenues for personal and professional growth available to you. 
 

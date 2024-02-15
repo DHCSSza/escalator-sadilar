@@ -67,8 +67,8 @@ projects: []
 ---
 
 
-### __🚨 Limited space available!__
- For attendance and inquiries: 
+### __🚨 Invitation Only: Limited Space Available__
+ To inquire about joining the waiting list, please email : 
 📧[swip@sadilar.org](mailto:swip@sadilar.org)
 
 

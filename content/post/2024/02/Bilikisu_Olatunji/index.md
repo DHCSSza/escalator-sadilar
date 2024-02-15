@@ -1,20 +1,20 @@
 ---
-title: "Women in Digital and Computational Spaces: Meet Bilikisu Wunmi Olatunji 👩🏾‍💻"
+title: "Women in Digital and Computational Spaces: Meet Bilikisu Olatunji "
 
 subtitle: 
 
 # Summary for listings and search engines
-summary:  Welcome 👋 to our first community spotlight! We're introducing Bilikisu Wunmi Olatunji, a data scientist and member of a variety of communities such as Abuja R User group, R-Ladies Abuja and rOpenSci.
+summary:  Welcome 👋 to our first community spotlight! We're introducing Bilikisu Olatunji, a data scientist and member of a variety of communities such as Abuja R User group, R-Ladies Abuja and rOpenSci.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2024-02-13T00:00:00Z'
+date: '2024-02-12T00:00:00Z'
 
 
 # Date updated
-lastmod: '2024-02-13T00:00:00Z'
+lastmod: '2024-02-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -25,13 +25,13 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Bilikisu Wunmi Olatunji '
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
-  - Bilikisu Wunmi Olatunji 
+  - Bilikisu Olatunji 
 
 tags:
   - Women in Digital and Computational Research
@@ -44,7 +44,7 @@ categories:
   - EMPOWER
 ---
 
-Our first spotlight shines on Bilikisu Wunmi Olatunji . Bilikisu is a data scientist at the Business Data Laboratory Limited and member of Abuja R User group, R-Ladies Abuja and rOpenSci. 
+Today our spotlight shines on Bilikisu Olatunji . Bilikisu is a data scientist at the Business Data Laboratory Limited and member of Abuja R User group, R-Ladies Abuja and rOpenSci. 
 
 ## In short
 ---

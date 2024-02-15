@@ -1,5 +1,5 @@
 ---
-title: "Women in Digital and Computational Spaces: Meet Cosima Meyer👩🏼‍💻"
+title: "Women in Digital and Computational Spaces: Meet Cosima Meyer"
 
 subtitle: 
 
@@ -25,7 +25,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Cosima Meyer'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
@@ -44,7 +44,7 @@ categories:
   - EMPOWER
 ---
 
-Today our spotlight shines on Cosima Meyer. Cosima is a senior data scientist at the IBM and member of R-Ladies. 
+Today our spotlight shines on Cosima Meyer. Cosima is a senior data scientist at IBM and member of R-Ladies. 
 
 ## In short
 ---
@@ -88,7 +88,7 @@ and statistics.
 
 #### How did you get involved in the tech space?
 
-space? By developing my first open-source
+By developing my first open-source
 software and getting involved in the communities (mainly R-Ladies and
 PyLadies). It showed me that building tools that can help people in their lives is
 what I love to do.

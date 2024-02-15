@@ -33,7 +33,6 @@ In the meantime, you can still access resources from previous events.
 - [2022](../empower2022)
 - [2021](../empower2021)
 
-.
 
 ### WHO SHOULD JOIN?
 

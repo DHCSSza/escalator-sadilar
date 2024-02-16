@@ -1,10 +1,10 @@
 ---
-title: "Exploring Communities of Practice: Spotlight on rOpenSci🔍"
+title: "Exploring Communities of Practice: Spotlight on rOpenSci"
 
 subtitle: 
 
 # Summary for listings and search engines
-summary: 📣Introducing our first community showcase - rOpenSci, a vibrant community dedicated to advancing open science through collaborative development of R-based tools and resources. 
+summary: 📣 Introducing our first community showcase. We're featuring rOpenSci, a vibrant community dedicated to advancing open science through collaborative development of R-based tools and resources. 
 
 # Link this post with a project
 projects: []

@@ -83,7 +83,10 @@ Whether you possess expertise in languages, editing, or simply have love for wor
 
 ### 📌Important Reminder
 
-For full participation in the workshop, having a Wikipedia account is essential. If you don't have one yet, you can easily create it by following this step-by-step guide: [How to Create a Wikipedia Account](https://www.youtube.com/watch?v=HfaEP6QP32k).
+For full participation in the workshop, having a Wikipedia account is essential. If you don't have one yet, you can easily create it by following this step-by-step guide: [How to create a Wikipedia user account](https://www.youtube.com/watch?v=rKw5fv5jRjk).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rKw5fv5jRjk?si=uvHn6xcbVvumf3h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Venue
 ---

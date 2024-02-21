@@ -53,7 +53,7 @@ We want to introduce the ESCALATOR community to inclusive digital and computatio
 - __Name of community of practice__: rOpenSci
 - __Focus Area__: R users and developers of scientific open source software. 
 - __Year established__: 2011
-- __Operational region(s)__: World wide
+- __Operational region(s)__: Worldwide
 
 - __Website__: https://ropensci.org/
 - __LinkedIn__: https://www.linkedin.com/company/ropensci/

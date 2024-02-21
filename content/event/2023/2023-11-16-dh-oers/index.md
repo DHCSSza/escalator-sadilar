@@ -3,14 +3,14 @@
 
 title: "DH-OER Champions Showcase and Celebration"
 event: 
-event_url: https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917
+event_url: 
 address:
   street: Online
   city:
   region:
   postcode:
   country:
-summary: Join us for the DH-OER Champions Showcase and Celebration online on November 16, 2023 to learn more about open educational resources!
+summary: 
 abstract: 
 
 # Talk start and end times.
@@ -66,11 +66,6 @@ slides: ""
 projects: []
 ---
 
-{{< cta cta_alt_text="Register now for the showcase" cta_alt_link="https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917" cta_alt_new_tab="true" >}}
-
-
-<a href="https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917?aff=oddtdtcreator" target="_blank"><img src="featured.jpeg"></a>
-
 In 2022, the South African Center for Digital Language Resources (SADiLaR) launched the Digital Humanities Open Educational Resources Champions (DH-OER) programme as part of ESCALATOR.
 
 The purpose of the initiative is to stimulate activism and research around the use and/or creation of OER for the digital humanities at universities in South Africa.
@@ -79,12 +74,7 @@ Scholars from South African universities were invited to apply to participate in
 
 {{< cta cta_text="Learn more about the OER projects" cta_link="../../../champions/educator/#oer-projects" cta_new_tab="false" >}}
 
-On 16 November, project teams who completed the programme will present their OERs and share their lessons learned during the development process.
-
-Anyone is welcome to join in, meet the project teams, learn more about OERs, how to create and use them and hear more about our project teams' experiences.
-
-
-{{< cta cta_text="Register now for the showcase" cta_link="https://www.eventbrite.com/e/dh-oer-champions-showcase-and-celebration-tickets-753796263917" cta_new_tab="true" >}}
+On 16 November, project teams who completed the programme presented their OERs and shared their lessons learned during the development process.
 
 ##  Programme
 

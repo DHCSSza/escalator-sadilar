@@ -23,7 +23,7 @@ This track aims to connect those wanting to develop educational materials relate
 
 ### The ESCALATOR DH OER Champions Initiative
 
-Our flagship initiative for the Educator track is the [Digital Humanities Open Educational Resources Champions](#dh-oer-champions) initiative led by Prof Jako Olivier, previously NWU UNESCO Chair on Multimodal Learning and Open Educational Resources (OER).
+Our first iteration of DH OER Champions Initiative ran from March 2022 - November 2023.The [Digital Humanities Open Educational Resources Champions](#dh-oer-champions) initiative was initially led by Prof Jako Olivier, previously NWU UNESCO Chair on Multimodal Learning and Open Educational Resources (OER). In 2023, [Derek Moore](https://www.linkedin.com/in/weblearning?originalSubdomain=za) took over leadership of the programme and helped us to complete the first round. [Read more...](#dh-oer-champions)
 
 
 ### Other Global Initiatives

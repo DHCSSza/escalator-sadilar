@@ -40,8 +40,9 @@ tags:
   - EMPOWER
 
 categories:
-  - Community Engagement
+  - Communities of Practice
   - EMPOWER
+
 ---
 
 Today our spotlight shines on Cosima Meyer. Cosima is a senior data scientist at IBM and member of R-Ladies. 

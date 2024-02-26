@@ -41,8 +41,9 @@ tags:
   - Open Source
 
 categories:
-  - Community Engagement
+  - Communities of Practice
   - EMPOWER
+
 ---
 
 We want to introduce the ESCALATOR community to inclusive digital and computational environments, fostering a sense of belonging for all. Kicking off our exploration, we've had the privilege of speaking with Yanina Bellini Saibene, who shed some light on the transformative initiatives led by rOpenSci.

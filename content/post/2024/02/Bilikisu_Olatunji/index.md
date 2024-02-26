@@ -40,8 +40,9 @@ tags:
   - EMPOWER
 
 categories:
-  - Community Engagement
+  - Communities of Practice
   - EMPOWER
+
 ---
 
 Today our spotlight shines on Bilikisu Olatunji . Bilikisu is a data scientist at the Business Data Laboratory Limited and member of Abuja R User group, R-Ladies Abuja and rOpenSci. 

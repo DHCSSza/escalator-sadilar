@@ -40,8 +40,9 @@ tags:
   - EMPOWER
 
 categories:
-  - Community Engagement
+  - Communities of Practice
   - EMPOWER
+
 ---
 
 Today our spotlight shines on Federica Gazzelloni. Federica is an independndent researcher and member of R4DS and RLadies.  

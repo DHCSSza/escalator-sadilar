@@ -37,8 +37,9 @@ tags:
 - Communities of Practice
 
 categories:
-- EMPOWER
-- Women
+  - Communities of Practice
+  - EMPOWER
+
 
 
 

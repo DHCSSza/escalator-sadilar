@@ -56,11 +56,11 @@ We want to introduce the ESCALATOR community to inclusive digital and computatio
 - __Year established__: 2016
 - __Operational region(s)__: Worldwide
 
-- __Website__: https://rladies.org/
-- __LinkedIn__: https://www.linkedin.com/company/rladies/
-- __Email__: info@rladies.org
-- __Mastodon__: https://hachyderm.io/@RLadiesGlobal
-- __Meetup__: https://www.meetup.com/pro/rladies/
+- __Website__: <a href="https://rladies.org/" target="_blank">https://rladies.org/</a>
+- __LinkedIn__: <a href="https://www.linkedin.com/company/rladies/" target="_blank">https://www.linkedin.com/company/rladies/</a>
+- __Email__: <a href="mailto:info@rladies.org" target="_blank">info@rladies.org</a>
+- __Mastodon__:  <a href="https://hachyderm.io/@RLadiesGlobal" target="_blank">https://hachyderm.io/@RLadiesGlobal</a>
+- __Meetup__:  <a href="https://www.meetup.com/pro/rladies/" target="_blank">https://www.meetup.com/pro/rladies/</a>
 ---
 
 
@@ -72,7 +72,7 @@ try something new or they feel empowered. That is why Kind of Magic by Queen is 
 to choose.
 
 
-🎵 [Kind of Magic](https://www.youtube.com/watch?v=0p_1QSUsbsM)  *- Queen*
+🎵 <a href="https://www.youtube.com/watch?v=0p_1QSUsbsM" target="_blank">Kind of Magic - Queen</a><br>
 
 {{< /spoiler >}}
 
@@ -119,11 +119,10 @@ people that are responsible for a chapter.
 
 The first step is to become a member of the closest chapter to them and attend their meetings.
 You can also volunteer to organize a chapter in your city if there is still no one or help to
-organize a chapter that is already working. You can read more in our [Organizers Guidelines](https://guide.rladies.org/about/). They can also join our [Slack Community](https://guide.rladies.org/comm/slack/) to connect and chat with R-Ladies from around the
-world.
+organize a chapter that is already working. You can read more in our <a href="https://guide.rladies.org/about/" target="_blank">Organizers Guidelines</a>. They can also join our <a href="https://guide.rladies.org/comm/slack/" target="_blank">Slack Community</a> to connect and chat with R-Ladies from around the world.
 
 Talk at an R-Ladies meeting is another path for participation. You can always contact your
-local organizers. Finally, we have an [R-Ladies Directory](https://rladies.org/directory/) for people to look for speakers and experts. Our members can join the directory for being in the list.
+local organizers. Finally, we have an <a href="https://rladies.org/directory/" target="_blank">R-Ladies Directory</a> for people to look for speakers and experts. Our members can join the directory for being in the list.
 
 #### What does the onboarding process look like for new members?
 
@@ -134,7 +133,7 @@ infrastructure (like meetup accounts, email, github repo) or to give you the per
 infrastructure. The new members have to update information for our database of organizers
 and for the Global Team to give access to the infrastructure.
 
-We also have our [Organizers Guidelines](https://guide.rladies.org/about/) with the description of every step the new member
+We also have our <a href="https://guide.rladies.org/about/" target="_blank">Organizers Guidelines</a> with the description of every step the new member
 and the team will do.
 
 #### What can members look forward to in 2024?
@@ -166,14 +165,11 @@ global team members are always womens or other gender minorities.
 
 #### Could you share some of the key initiatives or programs the community has implemented to promote diversity and inclusion within the field?
 
-R-Ladies is an initiative for promoting gender diversity. Our chapters are at the heart of our
-organizations. The Global Team also has different activities to support our mission. For
-example we have the [R-Ladies Directory](https://rladies.org/directory/) , that lists more than 1600 womens for people to look for speakers, specialists, analysts, etc. This allows for an easy and quick search for women experts on different fields by conferences organizers, and journalists for example.
-Another initiative we have is our Abstract Review. If you want to apply for a diversity
-scholarship, a grant proposal, or a talk for a conference, you can send your proposal to our
-network and we are going to find a reviewer for you to get feedback before sending the
-proposal.
-There are more activities that you can check in our webpage: https://rladies.org/activities/gt-coordinated/
+R-Ladies is an initiative for promoting gender diversity. Our chapters are at the heart of our organizations. The Global Team also has different activities to support our mission. For example, we have the <a href="https://rladies.org/directory/" target="_blank">R-Ladies Directory</a>, which lists more than 1600 women for people to look for speakers, specialists, analysts, etc. This allows for an easy and quick search for women experts in different fields by conference organizers, journalists, and others.
+
+Another initiative we have is our Abstract Review. If you want to apply for a diversity scholarship, a grant proposal, or a talk for a conference, you can send your proposal to our network and we are going to find a reviewer for you to get feedback before sending the proposal.
+
+There are more activities that you can check on our webpage: <a href="https://rladies.org/activities/gt-coordinated/" target="_blank">https://rladies.org/activities/gt-coordinated/</a>
 
 #### Can you share any of the success stories or milestones the community has achieved in terms of DEI?
 

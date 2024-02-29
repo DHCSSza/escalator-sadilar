@@ -4,7 +4,7 @@ title: "Women in Digital and Computational Spaces: Meet Federica Gazzelloni"
 subtitle: 
 
 # Summary for listings and search engines
-summary:  Welcome 👋 to our third community spotlight! We're introducing Federica Gazzelloni, an independent researcher and member of R4DS and RLadies.
+summary:  Welcome 👋 to our third community spotlight! We're introducing Federica Gazzelloni, an independent researcher and member of R4DS and R-Ladies.
 
 # Link this post with a project
 projects: []
@@ -45,16 +45,16 @@ categories:
 
 ---
 
-Today our spotlight shines on Federica Gazzelloni. Federica is an independndent researcher and member of R4DS and RLadies.  
+Today our spotlight shines on Federica Gazzelloni. Federica is an independndent researcher and member of R4DS and R-Ladies.  
 
 ## In short
 ---
 
 - __Preferred name and surname__: Federica Gazzelloni
 - __Role__: Independent Researcher
-- __Email__: fede.gazzelloni@gmail.com
-- __LinkedIn__: https://www.linkedin.com/in/federicagazzelloni/
-- __GitHub__: https://github.com/Fgazzelloni
+- __Email__: <a href="mailto:fede.gazzelloni@gmail.com" target="_blank">fede.gazzelloni@gmail.com</a>
+- __LinkedIn__: <a href="https://www.linkedin.com/in/federicagazzelloni/" target="_blank">https://www.linkedin.com/in/federicagazzelloni/</a>
+- __GitHub__: <a href="https://github.com/Fgazzelloni" target="_blank">https://github.com/Fgazzelloni</a>
 
 ---
 
@@ -65,7 +65,7 @@ My all-time favorite movie is "Notting Hill." I love it because it's a
 heartwarming romantic comedy with charming characters and funny dialogues that
 never fails to lift my spirits.
 
-🎞️ [Notting Hill Trailer](https://www.youtube.com/watch?v=h_daSz5FZYs)  
+🎞️ <a href="https://www.youtube.com/watch?v=h_daSz5FZYs" target="_blank">Notting Hill Trailer</a><br>
 
 {{< /spoiler >}}
 
@@ -82,7 +82,7 @@ Data Science
 In my current role, as an independent researcher, I focus on advanced
 statistical methods for data modeling, particularly in the field of public
 health. I am also actively involved in the tech space, collaborating with
-organizations like R4DS and RLadies to promote gender diversity and
+organizations like R4DS and R-Ladies to promote gender diversity and
 knowledge-sharing within the R programming community.
 
 #### What did you study?
@@ -130,7 +130,7 @@ Through book-clubs and events organization
 #### Why do you find it useful to be a part of this community?
 
 Speaking of communities of practice, my involvement with R4DS and
-RLadies has been incredibly rewarding. These communities serve as
+R-Ladies has been incredibly rewarding. These communities serve as
 valuable resources for learning, networking, and collaboration in the field
 of data science. I became involved by attending events, participating in
 online discussions, and volunteering as a mentor and organizer.
@@ -139,7 +139,7 @@ online discussions, and volunteering as a mentor and organizer.
 
 I find these communities useful because they provide a supportive and
 inclusive environment where members can learn from each other, share
-resources, and collaborate on projects. Both R4DS and RLadies are
+resources, and collaborate on projects. Both R4DS and R-Ladies are
 accessible and welcoming to women, offering mentorship programs,
 workshops, and online forums for discussion and support.
 

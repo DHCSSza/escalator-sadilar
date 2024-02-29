@@ -53,10 +53,9 @@ Today our spotlight shines on Bilikisu Olatunji . Bilikisu is a data scientist a
 - __Preferred name and surname__: Bilikisu Olatunji
 - __Affiliation__ (where do you work or study): Business Data Laboratory Limited
 - __Role__: Data Scientist
-- __Email__: bilqiiswunmi@gmail.com
-- __LinkedIn__: https://www.linkedin.com/in/bilikisuolatunji/
-- __Twitter__: https://twitter.com/qbwoa
-
+- __Email__: <a href="mailto:bilqiiswunmi@gmail.com" target="_blank">bilqiiswunmi@gmail.com</a>
+- __LinkedIn__: <a href="https://www.linkedin.com/in/bilikisuolatunji/" target="_blank">https://www.linkedin.com/in/bilikisuolatunji/</a>
+- __Twitter__: <a href="https://twitter.com/qbwoa" target="_blank">https://twitter.com/qbwoa</a>
 ---
 
 
@@ -66,7 +65,7 @@ Frozen. Elsa’s story relates so much to me. I struggled to find self-empowerme
 overcome trauma which was not easy but led to a life of isolation. I overcome this pain
 through self-discovery, hope, knowing and appreciating my loved ones.
 
-🎞️ [Frozen Trailer](https://www.youtube.com/watch?v=FLzfXQSPBOg)  
+🎞️ <a href="https://www.youtube.com/watch?v=FLzfXQSPBOg" target="_blank">Frozen Trailer</a>
 
 {{< /spoiler >}}
 
@@ -96,9 +95,9 @@ volunteering my time to teach and mentor.
 Along the way, I have also had opportunities to contribute to open-source projects like the
 rOpensci Champions program.
 
-Although the numbers might be low, concerning women&#39;s representation. For me, women’s
+Although the numbers might be low, concerning women's representation. For me, women’s
 representation does not determine their strength. The women I had the opportunity of meeting
-have had more lasting impact on my life and my journey in the data science field
+have had more lasting impact on my life and my journey in the data science field.
 
 {{< /spoiler >}}
 

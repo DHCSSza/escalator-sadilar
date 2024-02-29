@@ -53,10 +53,10 @@ Today our spotlight shines on Cosima Meyer. Cosima is a senior data scientist at
 - __Preferred name and surname__: Cosima Meyer
 - __Affiliation__ (where do you work or study): IBM
 - __Role__: Senior Data Scientist
-- __LinkedIn__: https://www.linkedin.com/in/cosimameyer/
-- __GitHub__: https://github.com/cosimameyer
-- __Website__: https://cosimameyer.com/
-- __Mastodon__: https://mas.to/@cosima_meyer
+- __LinkedIn__: <a href="https://www.linkedin.com/in/cosimameyer/" target="_blank">https://www.linkedin.com/in/cosimameyer/</a>
+- __GitHub__:  <a href="https://github.com/cosimameyer" target="_blank">https://github.com/cosimameyer</a>r
+- __Website__: <a href="https://cosimameyer.com/" target="_blank">https://cosimameyer.com/</a>
+- __Mastodon__: <a href="https://mas.to/@cosima_meyer" target="_blank">https://mas.to/@cosima_meyer</a>
 
 ---
 
@@ -66,7 +66,7 @@ Today our spotlight shines on Cosima Meyer. Cosima is a senior data scientist at
 Soul Kitchen, because it’s about a beautiful city (Hamburg) and good food – a perfect
 combination!
 
-🎞️ [Soul Kitchen Trailer](https://www.youtube.com/watch?v=TDQVny1Sk74)  
+🎞️ <a href="https://www.youtube.com/watch?v=TDQVny1Sk74" target="_blank">Soul Kitchen Trailer</a><br> 
 
 {{< /spoiler >}}
 
@@ -163,9 +163,8 @@ become more accessible.
 
 #### How can other people become a part of this community?
 
-It's easy – reach out,
-join our Slack workspace, the directory (a list that showcases R-Ladies’ profiles),
-or one of our meetings! https://rladies.org/about-us/involved/
+It's easy – reach out, join our Slack workspace, the directory (a list that showcases R-Ladies’ profiles), or one of our meetings! <a href="https://rladies.org/about-us/involved/" target="_blank">https://rladies.org/about-us/involved/</a>
+
 
 #### What other communities of practice are you a part of?
 

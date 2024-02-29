@@ -56,11 +56,11 @@ We want to introduce the ESCALATOR community to inclusive digital and computatio
 - __Year established__: 2011
 - __Operational region(s)__: Worldwide
 
-- __Website__: https://ropensci.org/
-- __LinkedIn__: https://www.linkedin.com/company/ropensci/
-- __Email__: info@ropensci.org
-- __Mastodon__: https://hachyderm.io/@rOpenSci
-- __Vimeo__: https://vimeo.com/ropensci 
+- __Website__: <a href="https://ropensci.org/" target="_blank">https://ropensci.org/</a>
+- __LinkedIn__: <a href="https://www.linkedin.com/company/ropensci/" target="_blank">https://www.linkedin.com/company/ropensci/</a>
+- __Email__:  <a href="mailto:info@ropensci.org" target="_blank">info@ropensci.org</a>
+- __Mastodon__: <a href="https://hachyderm.io/@rOpenSci" target="_blank">https://hachyderm.io/@rOpenSci</a>
+- __Vimeo__: <a href="https://vimeo.com/ropensci" target="_blank">https://vimeo.com/ropensci</a> 
 ---
 
 
@@ -88,7 +88,7 @@ Our goal is to build confidence and a sense of belonging for people of all backg
 
 #### How and when was this community established?
 
-rOpenSci was founded in 2011 by [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), and [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), ecologists who were motivated to make scientific data retrieval reproducible.
+rOpenSci was founded in 2011 by <a href="https://ropensci.org/author/karthik-ram/" target="_blank">Karthik Ram</a>, <a href="https://ropensci.org/author/scott-chamberlain/" target="_blank">Scott Chamberlain</a>, and <a href="https://ropensci.org/author/carl-boettiger/" target="_blank">Carl Boettiger</a>, ecologists who were motivated to make scientific data retrieval reproducible.
 
 #### Which region(s) are you active in?
 
@@ -108,21 +108,21 @@ rOpenSci has several paths for people to get involved: we have our open forum to
 
 #### How can new members join your community? 
 
-There are many ways, for example people can send their package to review or volunteer to be a reviewer.  They can make or answer question in our forum or subscribe to our newsletter.  They can speak in our community calls or host a co-working session.  In this [Tip Sheets there are a summary of different paths for participation](https://ropensci.org/blog/2022/09/13/contributing-ropensci/). For a deep dive we also have our [Contributing Guide](https://contributing.ropensci.org).
+There are many ways, for example people can send their package to review or volunteer to be a reviewer. They can make or answer question in our forum or subscribe to our newsletter. They can speak in our community calls or host a co-working session. In this <a href="https://ropensci.org/blog/2022/09/13/contributing-ropensci/" target="_blank">Tip Sheets there are a summary of different paths for participation</a>. For a deep dive we also have our <a href="https://contributing.ropensci.org" target="_blank">Contributing Guide</a>.
 
 #### What does the onboarding process look like for new members?
 
-It depends on what they want to do. We have guidelines for different roles, for example, here is the [Translations and Localization Guide](https://translationguide.ropensci.org) for people that want to contribute with translations. This is our [Guide for Authors, Editors and Reviewers](https://devguide.ropensci.org) for people who want to contribute to our software peer-review process. 
+It depends on what they want to do. We have guidelines for different roles, for example, here is the <a href="https://translationguide.ropensci.org" target="_blank">Translations and Localization Guide</a> for people that want to contribute with translations. This is our <a href="https://devguide.ropensci.org" target="_blank">Guide for Authors, Editors and Reviewers</a> for people who want to contribute to our software peer-review process.
 
 #### What can members look forward to in 2024?
 
-We are in the second year of our Champions Program, our champions will be developing and reviewing packages, stay tuned for updates on their work. 
-We are working on the Portuguese translation of our Developers guide and we hope to make progress.  
-We are building our community call agenda, and we would love to know what people would like to talk about, [please help us to create the calendar for 2024 leaving your opinion here](https://github.com/ropensci-org/community-calls)!
+We are in the second year of our Champions Program, our champions will be developing and reviewing packages, stay tuned for updates on their work.
+We are working on the Portuguese translation of our Developers guide and we hope to make progress.
+We are building our community call agenda, and we would love to know what people would like to talk about, <a href="https://github.com/ropensci-org/community-calls" target="_blank">please help us to create the calendar for 2024 leaving your opinion here</a>!
 
 #### Is there space and value for women in Humanities and Social Sciences (HSS) from South Africa to join this community?
 
-Of course! 😊 We have a suite of more than [300 R packages](https://ropensci.org/packages/) and some of them are useful for Humanities and Social Sciences, like our [Literature](https://ropensci.org/packages/literature/)  or [Data Access](https://ropensci.org/packages/data-access/) categories. If they use some of these packages they can share their use case, or fix bugs and write blog posts. They can send their package to review or become reviewers. They can also apply for the Champions Program as Champion or Mentors. We hope the Tip Sheet and the Contribution Guide can provide good points for participation. 
+Of course! 😊 We have a suite of more than <a href="https://ropensci.org/packages/" target="_blank">300 R packages</a> and some of them are useful for Humanities and Social Sciences, like our <a href="https://ropensci.org/packages/literature/" target="_blank">Literature</a> or <a href="https://ropensci.org/packages/data-access/" target="_blank">Data Access</a> categories. If they use some of these packages they can share their use case, or fix bugs and write blog posts. They can send their package to review or become reviewers. They can also apply for the Champions Program as Champion or Mentors. We hope the Tip Sheet and the Contribution Guide can provide good points for participation.
 
 {{< /spoiler >}}
 
@@ -140,7 +140,7 @@ We also launched our Champions Program with focus on people from historically an
 
 #### Can you share any of the success stories or milestones the community has achieved in terms of DEI?
 
-We already mentioned some of them, but we can talk more about one of our new project. The Champions Program has been very successful reaching people from 55 countries and getting more than 200 applications. 40% of the total applications and 55% of the selected champions and mentors are women. For the first cohort 9 of 10 champions finished the program (some of them are still working). They developed two new packages, one of them became a reviewer and six went through the review process.  We started a new cohort this year. You can learn more in this link: https://ropensci.org/champions/
+We already mentioned some of them, but we can talk more about one of our new projects. The Champions Program has been very successful, reaching people from 55 countries and receiving more than 200 applications. 40% of the total applications and 55% of the selected champions and mentors are women. For the first cohort, 9 of 10 champions finished the program (some of them are still working). They developed two new packages, one of them became a reviewer, and six went through the review process. We started a new cohort this year. You can learn more at this <a href="https://ropensci.org/champions/" target="_blank">https://ropensci.org/champions/</a>.
 
 #### What advice would you give to other communities wanting to create inclusive and welcoming spaces?
 

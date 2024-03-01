@@ -1,10 +1,10 @@
 ---
-title: "Exploring Communities of Practice: Spotlight on Zindi Community"
+title: "Exploring Communities of Practice: Spotlight on Zindi"
 
 subtitle: 
 
 # Summary for listings and search engines
-summary: 📣 Introducing our third community showcase. We're featuring Zindi Community, the largest proffesional network of data scientists in Africa. 
+summary: 📣 Introducing our third community showcase. We're featuring Zindi, the largest professional network of data scientists in Africa. 
 
 # Link this post with a project
 projects: []
@@ -46,12 +46,12 @@ categories:
 
 ---
 
-We want to introduce the ESCALATOR community to inclusive digital and computational environments, fostering a sense of belonging for all. We've had the privilege of speaking with Rose Delilah Gesicho, who shed some light on the transformative initiatives led by Zindi Community.
+We want to introduce the ESCALATOR community to inclusive digital and computational environments, fostering a sense of belonging for all. We've had the privilege of speaking with Rose Delilah Gesicho, who shed some light on the transformative initiatives led by Zindi.
 
 ## Key Info
 ---
 
-- __Name of community of practice__: Zindi Community
+- __Name of community of practice__: Zindi
 - __Focus Area__: AI, Data Science and Machine Learning 
 - __Year established__: 2018
 - __Operational region(s)__: South Africa (across the continent)
@@ -74,16 +74,16 @@ We want to introduce the ESCALATOR community to inclusive digital and computatio
 
 #### Can you provide a brief overview of the community's mission?
 
-Our community mission is to build AI Together which entails bringing the Africa countries together with a common goal to future proof the upcoming generation with disruptive technologies and create job opportunities for the youth in Africa.
+Our community mission is to build AI Together, which entails bringing the African countries together with a common goal to future-proof the upcoming generation with disruptive technologies and create job opportunities for the youth in Africa.
 
 
 #### How and when was this community established?
 
-The community was established in 2018 but within the years it grew to be more defined.
+The community was established in 2018, but within the years, it grew to be more defined.
 
 #### Which region(s) are you active in?
 
-We are in 47 African countries
+We are in 47 African countries.
 
 #### Who is this community for?
 
@@ -127,7 +127,7 @@ Community Engagement: Through forums, mentorship programs, and webinars, Zindi f
 
 Umoja Hack Africa: An annual hackathon that brings together students across Africa to solve real-world problems. This initiative not only showcases the talent across the continent but also encourages more young people to consider careers in data science.
 
-Zindi Ambassador Program: Ambassadors from various countries work to grow the Zindi community locally, organize meet-ups, and mentor newcomers. This grassroots approach ensures that the platform is accessible and welcoming to all.
+Zindi Ambassador Program: Ambassadors from various countries work to grow the  locally, organize meet-ups, and mentor newcomers. This grassroots approach ensures that the platform is accessible and welcoming to all.
 
 
 #### Can you share any of the success stories or milestones the community has achieved in terms of DEI?

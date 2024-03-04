@@ -1,10 +1,10 @@
 ---
-title: "International Women's Day event panellist: Meet Mmasdibidi Setaka"
+title: "International Women's Day event panellist: Meet Mmasibidi Setaka"
 
 subtitle: 
 
 # Summary for listings and search engines
-summary: Say hello 👋 to Mmasdibidi Setaka, a digital humanities researcher, and participant in OLS and a PanSALB Sesotho National Body representative. 
+summary: Say hello 👋 to Mmasibidi Setaka, a digital humanities researcher, and participant in OLS and a PanSALB Sesotho National Body representative. 
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-  - Mmasdibidi Setaka
+  - Mmasibidi Setaka
 
 tags:
   - Women in Digital and Computational Research
@@ -45,7 +45,7 @@ categories:
 
 ---
 
-Today, our spotlight shines on Mmasdibidi Setaka, a digital humanities researcher at SADiLaR. Mmasdibidi is an active participant in OLS, the Carpentries, PanSALB Sesotho National Body representative, DHASA exco and the UFS Academic Advisory Board - African languages department. She will also be a pannelist on our <a href="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" target="_blank">Women's Day Event on the 8th of March 2024</a>.
+Today, our spotlight shines on Mmasibidi Setaka, a digital humanities researcher at SADiLaR. Mmasibidi is an active participant in OLS, the Carpentries, PanSALB Sesotho National Body representative, DHASA exco and the UFS Academic Advisory Board - African languages department. She will also be a pannelist on our <a href="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" target="_blank">Women's Day Event on the 8th of March 2024</a>.
 
 
 {{< cta cta_text="Register Now" cta_link="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" cta_new_tab="true" >}}
@@ -53,7 +53,7 @@ Today, our spotlight shines on Mmasdibidi Setaka, a digital humanities researche
 ## In short
 ---
 
-- __Preferred name and surname__: Mmasdibidi Setaka
+- __Preferred name and surname__: Mmasibidi Setaka
 - __Affiliation__ (where do you work or study): SADiLaR
 - __Role__: Digital Humanities Researcher
 - __Email__: <a href="mailto:Mmasibidi.Setaka@nwu.ac.za" target="_blank">Mmasibidi.Setaka@nwu.ac.za</a>

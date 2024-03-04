@@ -4,7 +4,7 @@ title: "International Women's Day event panellist: Meet Mmasdibidi Setaka"
 subtitle: 
 
 # Summary for listings and search engines
-summary: Say hello 👋 to Mmasdibidi Setaka, a digital hummanities researcher, and participant in OLS and a PanSALB Sesotho National Body representative. 
+summary: Say hello 👋 to Mmasdibidi Setaka, a digital humanities researcher, and participant in OLS and a PanSALB Sesotho National Body representative. 
 
 # Link this post with a project
 projects: []
@@ -45,7 +45,7 @@ categories:
 
 ---
 
-Today, our spotlight shines on Mmasdibidi Setaka, a digital hummanities researcher at SADiLaR. Mmasdibidi is an active participant in OLS, the Carpentries, PanSALB Sesotho National Body representative, DHASA exco and the UFS Academic Advisory Board - African languages department. She will also be a pannelist on our <a href="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" target="_blank">Women's Day Event on the 8th of March 2024</a>.
+Today, our spotlight shines on Mmasdibidi Setaka, a digital humanities researcher at SADiLaR. Mmasdibidi is an active participant in OLS, the Carpentries, PanSALB Sesotho National Body representative, DHASA exco and the UFS Academic Advisory Board - African languages department. She will also be a pannelist on our <a href="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" target="_blank">Women's Day Event on the 8th of March 2024</a>.
 
 
 {{< cta cta_text="Register Now" cta_link="https://www.eventbrite.com/e/empowered-through-community-where-to-go-when-you-need-to-learn-new-skills-tickets-849305996097?aff=oddtdtcreator" cta_new_tab="true" >}}
@@ -53,9 +53,9 @@ Today, our spotlight shines on Mmasdibidi Setaka, a digital hummanities research
 ## In short
 ---
 
-- __Preferred name and surname__: Bianca Peterson
-- __Affiliation__ (where do you work or study): Fathom Data
-- __Role__: Senior Data Scientist | Head of Training
+- __Preferred name and surname__: Mmasdibidi Setaka
+- __Affiliation__ (where do you work or study): SADiLaR
+- __Role__: Digital Humanities Researcher
 - __Email__: <a href="mailto:Mmasibidi.Setaka@nwu.ac.za" target="_blank">Mmasibidi.Setaka@nwu.ac.za</a>
 - __LinkedIn__: <a href=" www.linkedin.com/in/mmasibidi-setaka-b9699894 " target="_blank"> www.linkedin.com/in/mmasibidi-setaka-b9699894</a>
 - __Website__: <a href="https://sadilar.org/en/researcher-sesotho/" target="_blank">https://sadilar.org/en/researcher-sesotho/</a>
@@ -89,7 +89,6 @@ I am a Digital Humanities Researcher focusing on Sesotho at the South African Ce
 #### How did you get involved in the tech space?
 
  SADiLaR introduced me to the tech space. 
-
 
 
 #### What software do you use on a daily basis in your job?

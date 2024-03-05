@@ -37,8 +37,8 @@ tags:
   - Communities of practise
   - EMPOWER
   - Community Building
-  - R
-  - Open Source
+  - Artificial intelligence
+  - Machine learning
 
 categories:
   - Communities of Practice

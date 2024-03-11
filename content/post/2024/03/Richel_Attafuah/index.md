@@ -4,7 +4,7 @@ title: "Women in Digital and Computational Spaces: Meet Richel Attafuah"
 subtitle: 
 
 # Summary for listings and search engines
-summary:  Welcome 👋 to this community spotlight! We're introducing Richel Attafuah, a teaching assistant and memeber of Women in Machine Learning & Data Science (WiMLDS).
+summary:  Welcome 👋 to this community spotlight! We're introducing Richel Attafuah, a teaching assistant and member of Women in Machine Learning & Data Science (WiMLDS).
 
 # Link this post with a project
 projects: []
@@ -45,7 +45,7 @@ categories:
 
 ---
 
-Today our spotlight shines on Richel Attafuah. Richel is a teaching assistant at the University of Ghana and a memeber of Women in Machine Learning & Data Science (WiMLDS).
+Today our spotlight shines on Richel Attafuah. Richel is a teaching assistant at the University of Ghana and a member of Women in Machine Learning & Data Science (WiMLDS).
 
 ## In short
 ---

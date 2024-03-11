@@ -26,7 +26,7 @@ In 2022 we ran a 8-step programme and developed templates that may assist with l
 
 ### WHAT ARE WE PLANNING FOR 2024
 
-In 2024, we are continuing to host events focused on equity, inclusion, and diversity to ensure that women in humanities and social sciences are aware of opportunities and resources to grow their skills and networks. Our first event for the year was a panel discussion on International Women's Day, which centered on empowering oneself through community support. Alongside this, we featured active members of various digital and computational communities of practices in a series of blog posts.
+In 2024, we are continuing to host events focused on equity, inclusion, and diversity to ensure that women in humanities and social sciences are aware of opportunities and resources to grow their skills and networks. Our first event for the year was a panel discussion on International Women's Day, which centered on empowering oneself through community support.  Alongside this, we featured active members of various technology-focused communities of practice in a series of blog posts.
 
 Access resources from previous events. 
 

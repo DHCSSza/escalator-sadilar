@@ -7,23 +7,23 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
-title: 'Past events - 2021'
-subtitle: Slides and recordings available
+title: 'Past events - 2024'
+subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 4
+  count: 3
   # Filter on criteria
   filters:
     author: ''
     category: ''
-    tag: '2021'
+    tag: '2024'
     exclude_featured: false
-    exclude_future: false
+    exclude_future: true
     exclude_past: false
     publication_type: ''
   # Choose how many pages you would like to offset by
@@ -37,8 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
-
+  view: 2
 ---
-
-{{< cta cta_text="Read about our activities in 2021" cta_link="../../post/2021/08/2021-08-06-empower-track-launches/" cta_new_tab="false" >}}

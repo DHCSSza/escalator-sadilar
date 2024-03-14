@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Digital Humanities Workshops - Lessons Learned
+title: "Chapter: Challenges and Opportunities of Digital Humanities Training in South Africa"
 authors: []
 date: 2023-02-20T13:36:35+02:00
 doi: "https://doi.org/10.4324/9781003301097"
@@ -13,10 +13,10 @@ publishDate: 2023-02-20T13:36:35+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Plos Computational Biology"
+publication: "Digital Humanities Workshops - Lessons Learned"
 publication_short: ""
 
 abstract: |
@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010015&type=printable
+url_pdf: https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003301097/digital-humanities-workshops-laura-estill-jennifer-guiliano
 url_code:
 url_dataset:
 url_poster:

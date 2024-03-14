@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SWiP Project Workshop - Walter Sisulu University"
-event: "SWiP Project Workshop - Walter Sisulu University"
+title: "SWiP Project Workshop -  UNISA"
+event: "SWiP Project Workshop -  UNISA"
 event_url: 
 address:
   street: Walter Sisulu University
@@ -15,8 +15,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-02-22T00:00:00+02:00
-date_end: 2024-02-23T00:00:00+02:00
+date: 2024-05-09T00:00:00+02:00
+date_end: 2024-05-10T00:00:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
@@ -87,10 +87,11 @@ For full participation in the workshop, having a Wikipedia account is essential.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKw5fv5jRjk?si=uvHn6xcbVvumf3h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ### Venue
 ---
 
-  - Walter Sisulu University
+  -  UNISA
 
 ### Enquiries
 

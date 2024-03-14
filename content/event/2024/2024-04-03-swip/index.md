@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SWiP Project Workshop - Univesity of Zululand"
-event: "SWiP Project Workshop - Univesity of Zululand"
+title: "SWiP Project Workshop - University of Zululand"
+event: "SWiP Project Workshop - University of Zululand"
 event_url: 
 address:
   street: Walter Sisulu University
@@ -84,7 +84,7 @@ Whether you possess expertise in languages, editing, or simply have love for wor
 
 ### 📌Important Reminder
 
-For full participation in the workshop, having a Wikipedia account is essential. If you don't have one yet, you can easily create it by following this step-by-step guide: [How to create a Wikipedia user account](https://www.youtube.com/watch?v=rKw5fv5jRjk).
+For full participation in the workshop, having a Wikipedia account is essential. If you do not have one yet, you can easily create it by following this step-by-step guide: [How to create a Wikipedia user account](https://www.youtube.com/watch?v=rKw5fv5jRjk).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKw5fv5jRjk?si=uvHn6xcbVvumf3h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ For full participation in the workshop, having a Wikipedia account is essential.
 ### Venue
 ---
 
-  - Univesity of Zululand
+  - University of Zululand
 
 ### Enquiries
 

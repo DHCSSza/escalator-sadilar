@@ -17,13 +17,13 @@ title: |
   Exploring digital and computational research in humanities & social sciences
 
 cta:
-  url: "dh-ignite/#participate"
-  label: Apply today!
+  url: ../talk/northern-region-15-17-april-2024/
+  label: Learn more about DH-IGNITE Northern Region
   icon_pack: 
   icon: 
 cta_alt:
-  url: '../events'
-  label: View other events
+  url: 
+  label:
   icon_pack: 
   icon:
 
@@ -32,23 +32,3 @@ cta_alt:
 **Next event**  : 15 - 17 April 2024
 
 **Invited institutions**: UMP, UNIVEN, UL
-
-
-
-<!---
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <a href="https://dh-ignite.org"><img 
-      style="display: block; 
-          margin-left: auto;
-           margin-right: auto;
-           width: 70%;"
-    src="../media/dh-ignite.png" 
-    alt="dh-ignite logo">
-</img></a>
-</div>
-
-   
--->
-

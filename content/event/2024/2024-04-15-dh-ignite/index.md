@@ -73,7 +73,6 @@ projects:
 
 ## Venue 
 ---
-<button onclick="topFunction()" id="myBtn" title="Go to top of page">Back to top of page</button>
 
 
 - **Venue:** Protea Hotel by Marriott Ranch Resort
@@ -87,7 +86,6 @@ projects:
 
 ## Workshops
 ---
-<button onclick="topFunction()" id="myBtn" title="Go to top">Back to top of page</button>
 
 <div class="container">
   <div class="row">
@@ -129,7 +127,6 @@ projects:
 
 ## Draft programme
 ---
-<button onclick="topFunction()" id="myBtn" title="Go to top of page">Back to top of page</button>
 
 
 <iframe src="https://drive.google.com/file/d/1xb0k-dY2YNnG6pjvpFuCNSqvrdmUFh9Q/preview" width="100%" height="700px" allow="autoplay"></iframe> 
@@ -138,7 +135,6 @@ projects:
 ## Contact details 
 ---
 
-<button onclick="topFunction()" id="myBtn" title="Go to top of page">Back to top of page</button>
 
 
 - Anelda van der Walt (ESCALATOR) [dh-ignite@talarify.co.za](mailto:dh-ignite@talarify.co.za)

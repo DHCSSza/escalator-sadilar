@@ -85,9 +85,8 @@ The workshop will provide a combination of practical examples and a bit of theor
 
 ## PREREQUISITES
 
-Participants should be familiar with the idea of a spreadsheet and how data is represented in rows and columns.
+Participants should have experience with using Word documents and/or Google Docs.
 
-Participants should ideally have some basic knowledge of graphs and know terminology such as X-axis, Y-axis, line graph and pie graph.
 
 ## PARTICIPANTS WHO WOULD BE INTERESTED IN EVENT 
 
@@ -95,7 +94,7 @@ The workshop will be relevant to anybody who uses text on a computer regularly. 
 
 ## REQUIREMENTS
 - A laptop
-- Internet connectivity (check that Eduroam wifi works)
+- Internet connectivity
 - A web browser like Google Chrome installed
  
 ## TOPICS THAT WILL BE INCLUDED 

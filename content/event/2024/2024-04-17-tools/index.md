@@ -86,7 +86,7 @@ No prerequisites.
 
 ## PARTICIPANTS WHO WOULD BE INTERESTED IN EVENT 
 
-Humanities scholars and Social Scientists who are interested in a basic introduction to open-access text analysis tools.
+Humanities scholars and Social Scientists who are interested in a basic introduction to text analysis tools.
 
 ## REQUIREMENTS
 
@@ -109,7 +109,7 @@ https://voyant-tools.org/
 - Hands-on usage of the tool
 
 ### ParaConc
-- Software to be shared with participants.
+- Free demo software will be used in the workshop.
 - Description of the tool, its interface, and practical usage of the tool
 - Hands-on usage of the tool
 
@@ -125,8 +125,10 @@ research questions.
 
 ## ABOUT THE INSTRUCTORS
 
-__Muzi Matfunjwa__
+__Dr Muzi Matfunjwa__ is a senior lecturer (researcher) at SADiLaR who is interested in Digital Humanities, particularly the use of Natural Language Processing (NLP) technologies to facilitate research for low-resource languages. He has also used several text analysis tools in his publications.
 
 
-__Respect Mlambo__
+__Respect Mlambo__ is a language researcher who possesses a strong enthusiasm for text analysis tools. Drawing from his expertise in linguistics and natural language processing, he has devoted his professional endeavours to delving into the convergence of language and technology.
+
+
 

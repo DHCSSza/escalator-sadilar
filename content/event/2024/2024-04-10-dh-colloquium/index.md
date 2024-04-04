@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data in healthcare: efforts digitisation and digitalisation"
-event: "Join us for a discussion around data access in the health care sector & the importance of collaboration, digitisation & digitalisation."
-event_url: https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator
+title: "isiBheqe: First additional script"
+event: "Don't miss out on a presentation on isiBheqe scripts, their typology & the speakers' experiences with the isiBheqe soHlamvu writing system."
+event_url: https://www.eventbrite.co.uk/e/dh-colloquium-iris-auda-and-pule-welch-tickets-876738908677
 address:
   street: Online
   city:
@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: |
-    This talk will broadly discuss the speaker's experience around data access in the healthcare sector and the importance of collaboration, digitisation and digitalisation in the efforts to improve health outcomes. The discussion will centre around an ongoing project in which digital data is extracted from paper records to help develop a database with peri-operative and outcomes data that can be used to test and train prediction models. 
+    Don't miss out on a presentation on isiBheqe scripts, their typology & the speakers' experiences with the isiBheqe soHlamvu writing system.
 
     Mark your calendars and make sure to secure your spot for the SADilaR DH Colloquium. Stay tuned for further updates and details on how to join this exciting online event.
 
@@ -22,14 +22,14 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-02-21T10:00:00+02:00
-date_end: 2024-02-21T11:00:00+02:00
+date: 2024-04-10T10:00:00+02:00
+date_end: 2024-04-10T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-11-02T00:00:46+02:00
 
-authors: []
+authors: ["Iris Auda", "Pule Welch"]
 tags: ["2024", "DH Colloquium", "SADiLaR", "ESCALATOR"]
 category: ["2024"]
 # Is this a featured event? (true/false)
@@ -56,7 +56,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/xzdEV8Ij688
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -73,5 +73,5 @@ slides: ""
 projects: []
 ---
 
-{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator" cta_new_tab="true" >}}
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquium-iris-auda-and-pule-welch-tickets-876738908677" cta_new_tab="true" >}}
 

@@ -5,7 +5,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: ESCALATOR YouTube Playlists
 subtitle: Curated playlists showcasing resources created by people from all over the world

@@ -53,8 +53,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: https://sadilar.org/wp-content/uploads/2020/10/DH_Colloquium_17May2023.pdf
+url_video: https://youtu.be/gwTwPtopjqY
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

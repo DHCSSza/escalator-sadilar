@@ -39,7 +39,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+images:
   caption: ""
   focal_point: ""
   preview_only: true
@@ -56,8 +56,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: https://sadilar.org/wp-content/uploads/2023/12/DH_Colloquium_13Sep2023.pdf
+url_video: https://youtu.be/pBtaTckiVoM
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

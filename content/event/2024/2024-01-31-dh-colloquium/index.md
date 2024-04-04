@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data in healthcare: efforts digitisation and digitalisation"
-event: "Join us for a discussion around data access in the health care sector & the importance of collaboration, digitisation & digitalisation."
-event_url: https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator
+title: "Innovating Historical Scholarship: The Bullinger Digital Project."
+event: "Join us for an engaging journey through the intersection of history, linguistics, and digital technology."
+event_url: https://www.eventbrite.com/e/sadilar-dh-colloquium-phillip-strobel-tickets-775403120607
 address:
   street: Online
   city:
@@ -12,7 +12,7 @@ address:
   country:
 summary: 
 abstract: |
-    This talk will broadly discuss the speaker's experience around data access in the healthcare sector and the importance of collaboration, digitisation and digitalisation in the efforts to improve health outcomes. The discussion will centre around an ongoing project in which digital data is extracted from paper records to help develop a database with peri-operative and outcomes data that can be used to test and train prediction models. 
+    This session offers an in-depth exploration of the transformation of Heinrich Bullinger's vast 12,000-letter corpus into a dynamic, fully digital, and multilingual format. We'll delve into the sophisticated digital workflows that navigate challenges such as code-switching, text normalisation, machine translation, and the automatic recognition of handwritten texts.
 
     Mark your calendars and make sure to secure your spot for the SADilaR DH Colloquium. Stay tuned for further updates and details on how to join this exciting online event.
 
@@ -22,14 +22,14 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-02-21T10:00:00+02:00
-date_end: 2024-02-21T11:00:00+02:00
+date: 2024-01-31T10:00:00+02:00
+date_end: 2024-01-31T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-11-02T00:00:46+02:00
 
-authors: []
+authors: ["Phillip Ströbel"]
 tags: ["2024", "DH Colloquium", "SADiLaR", "ESCALATOR"]
 category: ["2024"]
 # Is this a featured event? (true/false)
@@ -55,8 +55,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video: https://youtu.be/xzdEV8Ij688
+url_pdf: https://sadilar.org/wp-content/uploads/2020/10/DH_colloquium_31Jan2024.pdf
+url_video: https://www.youtube.com/watch?v=XGxUBnktS5k
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -73,5 +73,5 @@ slides: ""
 projects: []
 ---
 
-{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator" cta_new_tab="true" >}}
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.com/e/sadilar-dh-colloquium-phillip-strobel-tickets-775403120607" cta_new_tab="true" >}}
 

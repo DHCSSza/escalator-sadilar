@@ -85,8 +85,7 @@ The workshop will provide a combination of practical examples and a bit of theor
 
 ## PREREQUISITES
 
-Participants should have experience with using Word documents and/or Google Docs.
-
+Participants should be familiar with word processing software (like Microsoft Word or Google Docs) or text editors (like Notepad, Notepad++, EMACS, or Vim).
 
 ## PARTICIPANTS WHO WOULD BE INTERESTED IN EVENT 
 

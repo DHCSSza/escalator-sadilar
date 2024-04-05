@@ -2,7 +2,7 @@
 widget: featurette
 title: ""
 headless: true  # This file represents a page section.
-weight: 30
+weight: 20
 
 
 feature:

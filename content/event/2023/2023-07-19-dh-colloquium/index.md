@@ -55,8 +55,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: https://sadilar.org/wp-content/uploads/2023/12/DH_Colloquium_19Jul2023.pdf
+url_video: https://youtu.be/L552biGPj70
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data in healthcare: efforts digitisation and digitalisation"
-event: "Join us for a discussion around data access in the health care sector & the importance of collaboration, digitisation & digitalisation."
-event_url: https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator
+title: "What do we study when we study multilingualism? A bibliometric (-adjacent) analysis of the field."
+event: "Join us for a virtual chat with Robyn Berghoff and Emanuel Bylund at the DH Colloquium on March 20th!"
+event_url: https://www.eventbrite.co.uk/e/dh-colloquiuim-robyn-berghoff-and-emanuel-bylund-tickets-850602172997
 address:
   street: Online
   city:
@@ -12,7 +12,9 @@ address:
   country:
 summary: 
 abstract: |
-    This talk will broadly discuss the speaker's experience around data access in the healthcare sector and the importance of collaboration, digitisation and digitalisation in the efforts to improve health outcomes. The discussion will centre around an ongoing project in which digital data is extracted from paper records to help develop a database with peri-operative and outcomes data that can be used to test and train prediction models. 
+    Globally, multilingualism is the norm rather than the exception, and there is startling diversity in the linguistic and contextual factors that shape it. For several decades now, scholars have voiced concerns about sampling biases in multilingualism research and the threats that they pose to the generalizability of our knowledge in this domain. These concerns, however, have lacked empirical support.
+
+    In this presentation, the speakers will discuss a recent project in which they set out to assess linguistic and geographic diversity in research on multilingualism published in high-impact journals.
 
     Mark your calendars and make sure to secure your spot for the SADilaR DH Colloquium. Stay tuned for further updates and details on how to join this exciting online event.
 
@@ -22,14 +24,14 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-02-21T10:00:00+02:00
-date_end: 2024-02-21T11:00:00+02:00
+date: 2024-03-20T10:00:00+02:00
+date_end: 2024-03-20T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-11-02T00:00:46+02:00
 
-authors: []
+authors: ["Robyn Berghoff", "Emanuel Bylund"]
 tags: ["2024", "DH Colloquium", "SADiLaR", "ESCALATOR"]
 category: ["2024"]
 # Is this a featured event? (true/false)
@@ -55,8 +57,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video: https://youtu.be/xzdEV8Ij688
+url_pdf: https://sadilar.org/wp-content/uploads/2024/04/DH_colloquium_20Mar2024.pdf
+url_video: https://youtu.be/7psNhKgtSAU
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -73,5 +75,5 @@ slides: ""
 projects: []
 ---
 
-{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquium-hanel-duvenage-tickets-817857442627?aff=oddtdtcreator" cta_new_tab="true" >}}
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquiuim-robyn-berghoff-and-emanuel-bylund-tickets-850602172997" cta_new_tab="true" >}}
 

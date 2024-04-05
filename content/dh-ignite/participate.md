@@ -51,7 +51,15 @@ design:
 
 
 {{% callout note %}}
+
+**Applications are now closed.**
+
+<br>
+
 __DH-IGNITE Northern Region will be held in Polokwane from 15 - 17 April 2024.__
+
+
+
 
 This event is open to researchers, students and professional support staff interested and/or involved in Digital Humanities or Computational Social Sciences research. Participants must be affiliated with one of the public universities in Limpopo or Mpumalanga.
 
@@ -59,7 +67,7 @@ This event is open to researchers, students and professional support staff inter
 
 {{< icon name="exclamation-circle" pack="fas" >}} __SADiLaR will sponsor participation of selected nominees in liason with Deans and Library Directors from University of Limpopo, University of Venda, and University of Mpumalanga.__ 
 
-{{< icon name="exclamation-circle" pack="fas" >}} __SADiLaR will also sponsor event fees (excluding travel & accommodation) for selected individuals who are not nominated by their Dean or Library Directors__. *__Please [apply today](https://forms.gle/W8SeRG3yESWrx3V29)! Deadline: 23 February 2024!__*
+{{< icon name="exclamation-circle" pack="fas" >}} __SADiLaR will also sponsor event fees (excluding travel & accommodation) for selected individuals who are not nominated by their Dean or Library Directors__. 
 
 <br>
 
@@ -67,30 +75,9 @@ Participants will have to sign a <u>**no-show fee**</u> form confirming that the
 
 <br>
 
-{{< cta cta_alt_text="Event details" cta_alt_link="../talk/northern-region-15-17-april-2024/" cta_alt_new_tab="false" >}}
 
 
 
 {{% /callout %}}
 
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
-        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
-             src="../media/nominated.png" 
-             alt="Nominated? Register now!">
-        </img>
-      </a>
-    </div>
-    <div class="col">
-      <a href="https://forms.gle/W8SeRG3yESWrx3V29">
-        <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;"
-             src="../media/notnominated.png" 
-             alt="Not nominated? Apply now!">
-        </img>
-      </a>
-    </div>
-  </div>
-</div>

@@ -47,20 +47,22 @@ Participants must commit to attending all four sessions.
 
 Courses are scheduled for Wednesdays at 10:30 - 12:00. They run on four consecutive Wednesdays each month.
 
-- __First steps to R:__
- - 6, 13, 20, 27 September
- - 8, 15, 22, 29 November
- - 7, 14, 21, 28 February
+- __First steps to R:__ TBC
 
-- __First steps to Python:__
- - 4, 11, 18, 25 October
- - 8, 15, 22, 29 November
- - 7, 14, 21, 28 February
+
+- __First steps to Python:__ TBC
+
 
 ### How do you apply?
 
+Watch our social media and Slack workspace for updates on the next cohort intake!
+
+<!--
+
 Please complete our online application form. We will be in touch!
+
 
 {{< cta cta_text="Apply now" cta_link="https://docs.google.com/forms/d/e/1FAIpQLScduS_Yj0kHsW03_wNijdOTLYxGmmOzsRE-NuShA4V6kf0KMA/viewform?usp=sf_link" cta_new_tab="true" >}}
 
 
+-->

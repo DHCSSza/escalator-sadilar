@@ -78,14 +78,14 @@
   [[main]]
     parent = "DH-IGNITE"
     name = "Past: 27 Nov - 1 Dec 2023 (Eastern Cape)"
-    url = "talk/eastern-cape-region-27-nov-1-dec-2023/"
+    url = "https://dh2023.digitalhumanities.org.za/"
     weight = 30
 
 
   [[main]]
     parent = "DH-IGNITE"
-    name = "Next: 15 - 17 April 2024 (Northern Region)"
-    url = "talk/northern-region-15-17-april-2024/"
+    name = "Past: 15 - 17 April 2024 (Northern Region)"
+    url = "past_dh_ignites/nr/"
     weight = 20
 
 

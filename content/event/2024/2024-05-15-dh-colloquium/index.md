@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "isiBheqe: First additional script"
-event: "Don't miss out on a presentation on isiBheqe scripts, their typology & the speakers' experiences with the isiBheqe soHlamvu writing system."
-event_url: https://www.eventbrite.co.uk/e/dh-colloquium-iris-auda-and-pule-welch-tickets-876738908677
+title: "Is it written to be read? A case of readability in Sesotho."
+event: "We’re hosting a new event, and we’d love to see you there. Join us for DH Colloquium featuring Johannes Sibeko, 15 May 2024 at 10:00 AM."
+event_url: https://www.eventbrite.co.uk/e/dh-colloquium-featuring-johannes-sibeko-tickets-887788247547
 address:
   street: Online
   city:
@@ -12,7 +12,9 @@ address:
   country:
 summary: 
 abstract: |
-    Don't miss out on a presentation on isiBheqe scripts, their typology & the speakers' experiences with the isiBheqe soHlamvu writing system.
+    Over the years, it has been evident that language learners in South African schools struggle with reading at appropriate levels of comprehension and fluency. Despite numerous interventions to improve learners’ reading levels, the texts used in schools to teach and assess reading have received insufficient attention. This leaves the impact of the composition of the texts unexplored as the possible root for the lack of improvement in reading ability.
+
+    Conversely, the approach outlined in this presentation addresses the readability of Sesotho texts by focusing on the texts and not the specific reader. The end goal of the project is the development of readability measures that can be used to assess the suitability of texts for different grade levels.
 
     Mark your calendars and make sure to secure your spot for the SADilaR DH Colloquium. Stay tuned for further updates and details on how to join this exciting online event.
 
@@ -22,14 +24,14 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-04-10T10:00:00+02:00
-date_end: 2024-04-10T11:00:00+02:00
+date: 2024-05-15T10:00:00+02:00
+date_end: 2024-05-15T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-11-02T00:00:46+02:00
 
-authors: ["Iris Auda", "Pule Welch"]
+authors: ["Johannes Sibeko"]
 tags: ["2024", "DH Colloquium", "SADiLaR", "ESCALATOR"]
 category: ["2024"]
 # Is this a featured event? (true/false)
@@ -56,7 +58,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/hlwuY2ageAo
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -73,11 +75,7 @@ slides: ""
 projects: []
 ---
 
-Useful resources
+{{< cta cta_text="Register now" cta_link="https://www.eventbrite.co.uk/e/dh-colloquium-featuring-johannes-sibeko-tickets-887788247547" cta_new_tab="true" >}}
 
-- https://isibheqe.org.za/
-- https://github.com/baruchlubinsky/isibheqe
-- https://www.youtube.com/@TraditionalLibrary
-- https://isibheqe.org.za/demo/
-- https://riker.itch.io/isibheqe-translator
-- https://uir.unisa.ac.za/bitstream/handle/10500/30286/OER%20-%20Introducing%20Orthography%20and%20Writing%20Systems.pdf
+
+

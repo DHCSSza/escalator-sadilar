@@ -1,12 +1,12 @@
 ---
-type: page
+type: widget_page
 title: The Embarker Track
 subtitle: Learn new skills to enhance your digital scholarship and start applying it to your own work
 # Homepage is headless, other widget pages are not.
 headless: false
 
 ---
-<img src="embark-icon.svg" width="200px">
+
 
 ### What will you learn?
 

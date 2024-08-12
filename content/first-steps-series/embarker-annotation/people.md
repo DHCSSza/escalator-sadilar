@@ -2,6 +2,7 @@
 widget: people
 headless: true  # This file represents a page section.
 title: Lead facilitators
+weight: 70
 subtitle: 
 
 content:

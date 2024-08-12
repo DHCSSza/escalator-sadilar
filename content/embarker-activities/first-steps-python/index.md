@@ -3,10 +3,10 @@
 
 title: "First Steps to Programming in Python"
 summary: ""
-authors: ["Sisanda Nkoala"]
-tags: ["2022", "DH OER", "CPUT", "Multilingualism"]
-categories: ["newspapers", "journalism", "multilingualism"]
-date: 2023-02-28T11:18:54+02:00
+authors: [""]
+tags: ["2024", "Python", "First Steps"]
+categories: 
+date: 2024-08-10T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<img src="../../media/coming-soon.png">

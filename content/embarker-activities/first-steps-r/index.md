@@ -3,10 +3,10 @@
 
 title: "First Steps to Programming in R"
 summary: 
-authors: ["Denzil Chetty"]
-tags: ["2022", "DH OER", "UNISA"]
-categories: ["Digital Storytelling", "African Digital Humanities", "Indigenous Knowledge Curation"]
-date: 2023-02-28T11:18:54+02:00
+authors: [""]
+tags: ["2024", "R", "First Steps"]
+categories: []
+date: 2024-08-10T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
@@ -40,3 +40,4 @@ url_video: ""
 slides: ""
 ---
 
+<img src="../../media/coming-soon.png">

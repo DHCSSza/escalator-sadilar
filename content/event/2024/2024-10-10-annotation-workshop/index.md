@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Event 1: Introductory meeting"
+title: "Event 2: Hands-on workshop"
 event: ""
 event_url: 
 address:
-  street: Online
+  street: In person
   city:
   region:
   postcode:
@@ -15,8 +15,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-08-22T10:00:00+02:00
-date_end: 2024-08-22T11:00:00+02:00
+date: 2024-10-10T09:00:00+02:00
+date_end: 2024-10-11T16:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -66,16 +66,25 @@ slides: ""
 projects: []
 ---
 
-Join us for the first meetup where you will meet your facilitators, get a brief introduction to natural language processing and the African Wordnet, and learn about the next steps.
+Participants who successfully complete the assignment from the introductory meeting will be invited to a hands-on in-person workshop. This opportunity will help you to cement your skills as linguistics annotator.
 
-This meeting is the gateway to the rest of the series events. Participants will only be able to join events two and three if they have participated successfully in event one.
+## Date & time
+
+10 & 11 October 2024
+Daily from 09:00 - 16:00
+
+## Venue
+
+The workshop will be offered at Sol Plaatjes University, Kimberley
 
 ## What you will learn
 
-- Introduction to SADiLaR and Slack
-- Introduction to NLP for Language students 
-- Introduction to the African Wordnet project
-- Introduction to the shared task
+### Day 1
+
+- Tools for annotation (Openrefine and/or CATMA)
+- How to write a good definition and usage example for NLP/DH applications 
 
 
-<a href="https://forms.gle/uSVUVe9NyEC4xRqVA"><img src="../../../media/register.png"></a>
+### Day 2
+
+- Introduction to the African Wordnet (more in-depth, including introduction to WordnetLoom)

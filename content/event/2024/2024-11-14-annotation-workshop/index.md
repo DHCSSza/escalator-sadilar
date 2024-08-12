@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Event 1: Introductory meeting"
+title: "Event 3: Follow-up meeting"
 event: ""
 event_url: 
 address:
@@ -15,8 +15,9 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-08-22T10:00:00+02:00
-date_end: 2024-08-22T11:00:00+02:00
+date: 2024-11-14T09:00:00+02:00
+date_end: 2024-11-14T16:00:00+02:00
+
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -66,16 +67,11 @@ slides: ""
 projects: []
 ---
 
-Join us for the first meetup where you will meet your facilitators, get a brief introduction to natural language processing and the African Wordnet, and learn about the next steps.
+The final step in this series, is to cement your skills and learn about other opportunities to stay engaged and continue on your learning journey. Instructors will share additional information about opportunities as linguistics data annotator and more.
 
-This meeting is the gateway to the rest of the series events. Participants will only be able to join events two and three if they have participated successfully in event one.
+
 
 ## What you will learn
 
-- Introduction to SADiLaR and Slack
-- Introduction to NLP for Language students 
-- Introduction to the African Wordnet project
-- Introduction to the shared task
-
-
-<a href="https://forms.gle/uSVUVe9NyEC4xRqVA"><img src="../../../media/register.png"></a>
+- Creating FAIR resources and the SADiLaR repository
+- Other opportunities to continue your DH journey

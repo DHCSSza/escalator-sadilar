@@ -5,7 +5,7 @@ title: "First Steps to Annotating Linguistics Data"
 summary: 
 authors: []
 tags: ["2024", "Annotation", "First Steps"]
-categories: 
+categories: []
 date: 2024-08-04T11:18:54+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ external_link: "../../first-steps-series/embarker-annotation"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: 
+  focal_point:
   preview_only: true
 
 # Custom links (optional).

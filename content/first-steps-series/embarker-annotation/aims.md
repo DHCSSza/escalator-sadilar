@@ -2,7 +2,7 @@
 widget: empower_featurette
 title: "What can you expect?"
 headless: true  # This file represents a page section.
-weight: 20
+weight: 30
 
 
 feature:

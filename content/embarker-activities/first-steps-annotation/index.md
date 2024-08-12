@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "First Steps to Annotating Linguistics Data"
+title: "First Steps to Annotating Linguistic Data"
 summary: 
 authors: []
 tags: ["2024", "Annotation", "First Steps"]

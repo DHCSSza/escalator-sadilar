@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 20
 
-title: First steps to annotating linguistics data @ SPU
+title: First steps to annotating linguistic data @ SPU
 subtitle: 
 
 design:

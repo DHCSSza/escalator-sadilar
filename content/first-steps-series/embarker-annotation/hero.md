@@ -3,7 +3,7 @@ widget: hero-topbanner
 headless: true
 weight: 10
 
-title: First Steps to Annotating Linguistics Data
+title: First Steps to Annotating Linguistic Data
 
 # Name of image in `static/media/`.
 hero_media: 

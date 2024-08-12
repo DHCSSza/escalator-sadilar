@@ -67,7 +67,7 @@ slides: ""
 projects: []
 ---
 
-The final step in this series, is to cement your skills and learn about other opportunities to stay engaged and continue on your learning journey. Instructors will share additional information about opportunities as linguistics data annotator and more.
+The final step in this series, is to cement your skills and learn about other opportunities to stay engaged and continue on your learning journey. Instructors will share additional information about opportunities as linguistic data annotator and more.
 
 
 

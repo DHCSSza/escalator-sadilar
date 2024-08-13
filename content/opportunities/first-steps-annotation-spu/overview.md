@@ -33,7 +33,7 @@ __Please note that you must be available to attend all three sessions in this se
 
 
 - Event 1: __22 August 2024__, 14:00 - 16:00 - virtual (a link to join the session will be shared with all participants)
-- Event 2: __10 & 11 October 2024__, 9:00 - 16:00 each day - in-person at Sol Plaatje University, South Campus Function Room
+- Event 2: __10 & 11 October 2024__, 9:00 - 16:00 each day - in-person at Sol Plaatjes University, South Campus Function Room
 - Event 3: __14 November 2024__, 14:00 - 16:00 - virtual (a link to join the session will be shared with all participants)
 
 ## Contact us

@@ -60,7 +60,7 @@ A vision for digital and computational research in humanities and social science
 ## Bio
 
 Dr Cobus Rademeyer, currently acting Head of School of Humanities, is a Senior Lecturer in
-History at the Sol Plaatje University in Kimberley. He has extensive lecturing experience at
+History at the Sol Plaatjes University in Kimberley. He has extensive lecturing experience at
 tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
 and fifteen years of management experience in the Humanities. His research interests
 include public history, sport history, sport data, brand history and disability studies.

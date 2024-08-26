@@ -15,7 +15,7 @@ design:
 <div class="container">
     <div class="row">
         <div class="col-sm-4">
-            <a href="../../opportunities/first-steps-annotation-spu/"><img src="../../media/annotations-spu.png"></a>
+            <a href="../../opportunities/first-steps-annotation-spu/"><img src="../../media/annotation-spu-updated.png"></a>
         </div>
         <div class="col-sm-4">
             <img src="../../media/annotations-tbc.png">

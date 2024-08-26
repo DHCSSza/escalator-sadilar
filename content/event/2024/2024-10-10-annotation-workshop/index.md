@@ -75,7 +75,7 @@ Daily from 09:00 - 16:00
 
 ## Venue
 
-The workshop will be offered at Sol Plaatjes University, Kimberley
+The workshop will be offered at Sol Plaatje University, Kimberley
 
 ## What you will learn
 

@@ -22,4 +22,4 @@ design:
 
 ## {{< icon name="info-circle" pack="fas" >}} [DH-IGNITE Central & Western Region](../past_dh_ignites/cwr/) (23 - 25 Aug 2023)
 
-## {{< icon name="info-circle" pack="fas" >}} [DH-IGNITE Central & Western Region](../past_dh_ignites/nr/) (15 - 17 April 2024)
+## {{< icon name="info-circle" pack="fas" >}} [DH-IGNITE Northern Region](../past_dh_ignites/nr/) (15 - 17 April 2024)

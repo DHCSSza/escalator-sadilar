@@ -57,7 +57,7 @@ design:
 #### Email 
 
 - Jessica Mabaso (SADiLaR) [jessica.mabaso@nwu.ac.za](mailto:jessica.mabaso@nwu.ac.za)
-- Menno van Zaanen (SADiLaR) [Menno.VanZaanen@nwu.ac.za](mailto:Menno.VanZaanen@nwu.ac.za)
+- Menno van Zaanen (SADiLaR) [menno.vanzaanen@nwu.ac.za](mailto:Menno.VanZaanen@nwu.ac.za)
 
 <br>
 

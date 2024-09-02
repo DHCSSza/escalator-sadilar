@@ -15,16 +15,16 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-09-04T14:00:00+02:00
-date_end: 2024-09-04T16:00:00+02:00
+date: 2024-09-09T14:00:00+02:00
+date_end: 2024-09-09T16:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2024-08-02T00:00:46+02:00
 
 authors: []
-tags: ["annotation"]
-category: []
+tags: ["annotation-ufs"]
+category: [""]
 # Is this a featured event? (true/false)
 featured: false
 
@@ -77,4 +77,5 @@ This meeting is the gateway to the rest of the series events. Participants will 
 - Introduction to the African Wordnet project
 - Introduction to the shared task
 
-## Registrations are now closed.
+
+<a href="https://forms.gle/Fh2XDaDVW3kC8f3z7"><img src="../../../media/register.png"></a>

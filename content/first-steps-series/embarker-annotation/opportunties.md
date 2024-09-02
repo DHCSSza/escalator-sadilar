@@ -18,7 +18,7 @@ design:
             <a href="../../opportunities/first-steps-annotation-spu/"><img src="../../media/annotation-spu-updated.png"></a>
         </div>
         <div class="col-sm-4">
-            <img src="../../media/annotations-tbc.png">
+            <a href="../../opportunities/first-steps-annotation-ufs/"><img src="../../media/annotation-ufs.png"></a>        
         </div>
         <div class="col-sm-4">
             <img src="../../media/annotations-tbc.png">

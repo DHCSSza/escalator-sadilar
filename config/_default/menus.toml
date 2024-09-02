@@ -142,6 +142,12 @@
     url = "champions/engager/"
     weight = 80
 
+  [[main]]
+    parent = "Champions Initiative"
+    name = "Exchanger "
+    url = "champions/exchanger/"
+    weight = 90
+
 [[main]]
   name = "Stakeholder Map"
   weight = 50

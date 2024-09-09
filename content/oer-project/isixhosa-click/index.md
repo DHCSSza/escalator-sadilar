@@ -41,7 +41,7 @@ slides: ""
 ---
 
 
-{{< cta cta_text="View OER product" cta_link="[https://isixhosa.click/search or on https://github.com/IsiXhosa-click/isixhosa_click](https://escalator.sadilar.org/oer-project/isixhosa-click/)" cta_new_tab="true" >}}
+{{< cta cta_text="View OER product" cta_link="[https://isixhosa.click/search](https://isixhosa.click/search)" cta_new_tab="true" >}}
 
 ## Project description
 ---

@@ -9,6 +9,12 @@ summary: ESCALATOR is a project run by SADiLaR. The project aims to develop a na
 
 ---
 
+{{% callout warning %}}
+Please note this is the LEGACY website for the ESCALATOR programme offered by SADiLaR.
+The new landing page can be found at [https://sadilar.org/en/escalator/](https://sadilar.org/en/escalator/).
+{{% /callout %}}
+
+
 <div style="width: 50%;">
   <div style="padding:56.25% 0 0 0;position:relative;">
     <iframe src="https://www.youtube.com/embed/xoY1IpYmNuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen

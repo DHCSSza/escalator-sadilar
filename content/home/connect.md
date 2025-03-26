@@ -10,18 +10,18 @@ title: ESCALATOR is evolving and we want your input!
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://sadilar.org/en/escalator/'
-  label: Visit our new website
+  label: Visit our new site
   icon_pack: fas
-  icon: clipboard-list
+  icon: star
 
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "Visit our new platform to explore our current developments. Though still under construction, there's valuable information available, and your feedback will help us create the best possible resource for our community."
+  label: "Visit our new platform to see what we're working on! It's still a work in progress, but there's already lots to explore — and your feedback will help us shape it into a valuable resource for our community."
 
 design:
     background:
-        color: '#1a2f69'
+        color: '#d11f26'
         text_color_light: true
 
 css-class: full-screen

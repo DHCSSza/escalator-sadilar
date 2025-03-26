@@ -1,19 +1,13 @@
 ---
 widget: blank
 headless: true
-weight: 30
+weight: 40
 design:
     columns: '1'
 title: What is ESCALATOR? 
 summary: ESCALATOR is a project run by SADiLaR. The project aims to develop a national community of practice engaging critically with digital research methods within the Humanities and Social Sciences through a Digital Humanities champions program 
 
 ---
-
-{{% callout warning %}}
-Please note this is the LEGACY website for the ESCALATOR programme offered by SADiLaR.
-The new landing page can be found at [https://sadilar.org/en/escalator/](https://sadilar.org/en/escalator/).
-{{% /callout %}}
-
 
 <div style="width: 50%;">
   <div style="padding:56.25% 0 0 0;position:relative;">

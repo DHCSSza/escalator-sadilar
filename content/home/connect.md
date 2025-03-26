@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-weight: 20
+weight: 30
 
 title: ESCALATOR is evolving and we want your input!
 

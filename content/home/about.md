@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 20
+weight: 30
 design:
     columns: '1'
 title: What is ESCALATOR? 

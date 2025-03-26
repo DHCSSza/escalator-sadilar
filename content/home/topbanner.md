@@ -13,10 +13,10 @@ cta:
   icon_pack: fab
   icon: slack
 cta_alt:
-  url: 'https://twitter.com/DHCSSza'
-  label: Follow us on Twitter
+  url: 'https://www.facebook.com/SouthAfricanCentreForDigitalLanguageResources/'
+  label: Follow us on Facebook
   icon_pack: fab
-  icon: twitter
+  icon: facebook
 
 # Note. An optional note to show underneath the links.
 cta_note:

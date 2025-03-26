@@ -9,7 +9,7 @@ title: ESCALATOR is evolving and we want your input!
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 
-hero_media: new-logo.png
+hero_media: new-logo.svg
 cta:
   url: 'https://sadilar.org/en/escalator/'
   label: Visit our new site
